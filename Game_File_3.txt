@@ -1,0 +1,634 @@
+<Combat_Rules.txt>
+COMBAT RULES - Version 1.7 (Grimdark Erotic Fantasy, 70 AE)
+
+Core Philosophy
+Combat in the Shattered Principalities is brutal, personal, and often intertwined with power, dominance, and erotic control. Battles rarely end in clean deaths — they frequently transition into capture, restraint, training, or public humiliation. Grappling, size differences, and restraint are central mechanics, reflecting the world’s heavy emphasis on slavery, BDSM, and ownership. Combat can shift seamlessly into erotic scenes, where Pleasure Points and Defiance become as important as Hit Points.
+
+All combat uses a d20 core resolution system. Combat is dangerous, consequential, and rarely “fair.” Poorly managed fights can result in slave escapes, property damage, reputation loss, or forced erotic submission.
+
+Basic Combat Resolution
+Initiative: d20 + Dexterity modifier (or relevant trait). Higher acts first.
+Attack Roll: d20 + relevant attack bonus vs. target’s Armor Class (AC).
+Damage: Weapon or unarmed damage + Strength or Dexterity modifier.
+Hit Points (HP): Represent physical endurance. Reaching 0 HP renders a target unconscious or dying unless stabilized.
+Movement: Standard movement speed is 30 feet per round. Difficult terrain or restraints reduce this.
+
+Key Combat Actions
+Attack: Standard melee or ranged attack.
+Grapple: Special attack to restrain a target. d20 + Athletics vs. target’s Athletics or Acrobatics. Success imposes the Restrained condition.
+Shove: Push a target 5–10 feet or knock them Prone.
+Dodge / Disengage: Avoid opportunity attacks or reduce incoming damage.
+Use Object / Item: Deploy crafted restraints, alchemical oils, or enchanted collars mid-combat.
+
+Armor Class (AC) & Defenses
+Base AC: 10 + Dexterity modifier + armor bonus.
+Shields, heavy armor, and crafted restraints can modify AC.
+Size difference: Larger creatures (giants) gain natural AC bonuses; smaller ones may gain evasion bonuses.
+
+Hit Points & Conditions
+Standard HP pools based on class/level or NPC stat block.
+Conditions: Prone, Restrained, Grappled, Stunned, Unconscious.
+Restrained condition is especially important — it transitions easily into BDSM scenes and enables domination rolls.
+
+Erotic Combat Mechanics
+Combat frequently blends with or transitions into erotic domination. When at least one participant is attempting capture, restraint, or sexual control, switch to or layer in erotic rules.
+
+Pleasure Points (PP)
+Dominant side accumulates Pleasure Points instead of (or in addition to) standard damage.
+PP represents building arousal, submission, and control.
+When PP reaches a target’s current Defiance threshold or a set scene value, the target may become compliant, enter a submissive state, or trigger a full BDSM scene transition.
+
+Key Erotic Combat Modifiers
+Kink Matching: Strong match grants advantage on attack/domination rolls and bonus PP.
+Body Traits: High Attractiveness or favorable genital compatibility grants +2 to +4; poor Scent or high grime Hygiene imposes –2 to –4.
+Crafted Items: Restraints, lubricants, or pleasure weapons provide bonuses (see Crafting_System).
+Size Difference: Giants gain crushing advantage but risk accidental injury (possible backlash Defiance spike).
+Environment: Private chambers grant bonuses; public fights increase scandal risk and faction reputation effects.
+
+Defiance in Combat
+Defiance is not suspended during combat — violent or humiliating actions can dramatically accelerate it. All combat actions that involve restraint, pain, public exposure, or size-mismatch automatically modify the target’s Defiance.
+
+Defiance Modifiers During Combat
+Successful Grapple or Restrain: +5 to +10 Defiance (higher if the target is publicly humiliated).
+Size-mismatch attack (difference of 3+ on 1–7 scale): +8 to +20 Defiance.
+Public combat or witnessed fight: +10 to +25 Defiance (especially if the slave feels degraded in front of others).
+Non-lethal or capture-focused attacks: +3 to +12 Defiance (still feels like loss of agency).
+Critical hit with whip, flail, or impact weapon: +10 to +15 Defiance unless followed by immediate aftercare.
+Use of alchemical “fire” oils or punitive items: +15 to +30 Defiance.
+Successful domination check during combat: –5 to –15 Defiance (if the scene transitions successfully).
+
+If a slave’s Defiance reaches 76+ during combat, they gain advantage on escape attempts and may immediately trigger a Minor Rebellion Chain (per Slavery_and_Defiance_Core_Mechanics). Combat Defiance spikes carry over directly into post-combat ownership and require immediate BDSM motivation scenes or aftercare to mitigate.
+
+Expanded Combat Procedures
+Combat Rounds
+Each round represents approximately 6 seconds. On a creature’s turn it can move up to its speed and take one action (Attack, Grapple, Shove, Dodge, Disengage, Use Object, or Help). Bonus actions and reactions follow standard rules where applicable.
+
+Grapple & Restraint Flow
+- Successful Grapple imposes the Grappled condition.
+- A second successful Grapple check against a Grappled target can impose the Restrained condition.
+- Once a target is Restrained, any participant may declare a transition to a BDSM scene as a free action on their turn. The target may attempt a contested escape (Athletics or Acrobatics) as a reaction.
+
+Non-Lethal & Capture Focus
+Players may declare any attack or Grapple as non-lethal from the start. Non-lethal damage does not kill at 0 HP; instead the target falls Unconscious and becomes eligible for immediate restraint or scene transition. This is the default mode when fighting to capture slaves or enemies.
+
+Erotic Combat Modifiers Table
+- Strong kink match: Advantage on domination rolls + 2–4 bonus PP
+- Genital compatibility difference 0–1: +3 to +4 PP
+- Difference 2: +1 to +2 PP
+- Difference 3–4: –2 to –3 PP and +5–10 Defiance risk
+- Difference 5+: –4 PP and +15–25 Defiance risk
+- High Sexual Corruption (60+): +2 PP and converts discomfort into pleasure
+- Crafted restraints or pleasure weapons: +1 to +5 (quality dependent)
+- Private luxury environment: +2 to domination rolls
+- Public environment: –2 to –5 + possible Reputation Event
+
+Scene Transition Rules
+When transitioning from combat to a full Sex/BDSM scene:
+- The dominant side keeps all accumulated PP as a bonus to the first domination check.
+- The target’s current Defiance becomes the base DC for the opening domination roll.
+- Aftercare is mandatory at the end of the scene (see Sex_BDSM_System for full Aftercare rules).
+- Multiple participants may join the transitioned scene, coordinating domination rolls (gang training scenes). The lead dominant makes the primary check with advantage if allies assist.
+
+BDSM Scene Transitions (Expanded)
+BDSM scene transitions can occur at any point after a target is Grappled or Restrained. The transition is declared as a free action by any dominant participant. 
+- The combat round ends immediately for all involved parties.
+- Accumulated PP from combat carries over as a bonus to the first domination roll in the BDSM scene.
+- All participants in the transitioned scene roll initiative again using Charisma or relevant erotic skill if they wish to act in the new scene order.
+- Restrained targets start the BDSM scene with disadvantage on their first escape or resistance roll.
+- Public transitions increase scandal risk and may trigger immediate Reputation Events.
+
+Combat → BDSM Transition Examples
+- Successful Grapple + Restrained → immediate domination check to begin a training or punitive scene.
+- Critical hit with a whip or flail → transition into a Flagellation-focused scene with bonus PP.
+- Giant successfully grapples smaller opponent → size-difference dominance scene with crushing advantage.
+- Multiple attackers restrain one target → seamless shift into a coordinated gang training scene.
+
+Multi-Enemy Combat Rules
+When fighting multiple opponents:
+- Initiative is rolled individually for each combatant.
+- The dominant side may split attacks or focus fire. Grapple attempts against multiple targets require separate checks.
+- Group domination is possible: one dominant may attempt to restrain or transition multiple targets if they have sufficient action economy or assistance from allies.
+- Defiance spikes from combat apply individually to each slave/enemy. A single high-Defiance target reaching 76+ can still trigger a Minor Rebellion Chain even if other targets remain controlled.
+- In erotic transitions, one dominant can lead a multi-target scene, but each target requires its own domination check (with possible group advantage if allies assist).
+
+Magical Vehicle Combat Rules
+When combat occurs on or from magical vehicles (enchanted airships, rift skiffs, necromantic barges, etc.):
+- All normal vehicle combat rules apply.
+- Magical vehicles grant advantage on one chosen combat roll per round (e.g., ramming, boarding, or escape) due to arcane assistance, but require a weekly Magic_System maintenance ritual.
+- Backlash during combat: On a natural 1 on any vehicle-related roll, roll on the Magic_System backlash table. Possible effects include sudden loss of levitation, uncontrolled summoning, or mutation of slaves aboard.
+- Slave-drawn magical vehicles add +10–20 Defiance per round due to arcane strain, but may allow temporary size tolerance for giant haulers via Corruption or enchantment.
+- Falling from a magical vehicle adds magical fallout damage (1d6 + 1d6 force or psychic) and may trigger planar instability events.
+
+Integration with Other Systems
+Vehicle combat directly feeds into Vehicle_System travel events, Slavery_and_Defiance_Core_Mechanics (massive Defiance spikes on slave-drawn vehicles), and Economy_Trade_System (cargo damage or loss).
+
+Integration with Other Systems
+Slavery & Defiance: Captured enemies become slaves; combat Defiance spikes carry over into ownership.
+Sex_BDSM_System: Direct transition from combat to erotic scenes; PP and kink matching carry over.
+Crafting_System: Custom restraints, weapons, or alchemical combat aids provide major bonuses or flaws.
+Magic_System: Enchanted weapons, illusory distractions, or necromantic summons dramatically change fights but risk backlash.
+Economy_Trade_System: Victorious combat can yield loot, slaves, or black market opportunities; losses can bankrupt workshops.
+Vehicle_System: Combat on or around vehicles adds movement complications and escape risks.
+Factions_and_Politics: Public fights or erotic victories affect reputation with churches, guilds, and noble houses (e.g., Silken Collar approves dominance displays; Broken Chain condemns cruelty).
+
+Edge Cases
+- Non-lethal Intent: Players can declare fights as capture-focused from the start, shifting emphasis to grapples and PP.
+- Group Combat: Multiple participants can coordinate erotic domination (gang training scenes).
+- Giant-Scale Fights: Require massive restraints and careful handling to avoid accidental fatalities.
+- Public Combat: Increases scandal risk and faction reputation swings.
+
+House Rule Options
+- “Fast Erotic Combat”: Resolve entire fights with 2–3 key rolls and narrative description rather than round-by-round tracking.
+- “Defiance Carryover”: Combat Defiance changes directly modify post-combat ownership difficulty.
+
+This system emphasizes brutality, consequence, and the blurred line between violence and erotic control while remaining deeply integrated with the grimdark reality of power and exploitation.
+
+Update Log:
+- Version 1.3 – Initial detailed version with core philosophy, basic resolution, erotic mechanics, and integration notes. All content preserved verbatim.
+- Version 1.4 – Significantly expanded with full round structure, Grapple & Restraint Flow, Non-Lethal & Capture Focus, Erotic Combat Modifiers Table, detailed Scene Transition Rules, and Combat → BDSM Transition Examples. Added clearer mechanical procedures while preserving every word, section, paragraph, and line from the previous version verbatim. Stronger playability and integration with Sex_BDSM_System and Slavery_and_Defiance_Core_Mechanics achieved.
+- Version 1.5 – Added full “Defiance in Combat” subsection with detailed modifiers and mechanical effects, plus a comprehensive new “Vehicle Combat Rules” section (including slave-drawn specifics, ramming, boarding, and environmental hazards). All previous content preserved verbatim. Stronger integration with Vehicle_System, Slavery_and_Defiance_Core_Mechanics, and grimdark travel risks achieved.
+- Version 1.6 – Expanded combat procedures with full round structure details, Grapple & Restraint Flow clarification, Non-Lethal & Capture Focus, Erotic Combat Modifiers Table, detailed Scene Transition Rules, and multiple Combat → BDSM Transition Examples. Added clearer mechanical procedures while preserving every word, section, paragraph, and line from the previous version verbatim. Stronger playability and integration with Sex_BDSM_System and Slavery_and_Defiance_Core_Mechanics achieved.
+- Version 1.7 – Expanded BDSM Scene Transitions with detailed timing, multiple-participant options, and examples. Added full Multi-Enemy Combat Rules and Magical Vehicle Combat Rules. All previous content preserved verbatim. Stronger tactical depth and integration with Magic_System and Vehicle_System achieved.
+
+You can now copy and paste the entire block above directly into your file.
+
+COMBAT EXPANSION: TACTICAL GRIMDARK WARFARE - Version 1.0 (70 AE)
+
+Integrates with Combat_Rules.txt v1.7, Medical_Trauma.txt v1.0, Slavery_and_Defiance_Core_Mechanics.txt v1.8, and Crime_Justice_System.txt v1.8
+
+1. CALLED SHOTS SYSTEM (Precision Maiming & Marking)
+Standard attacks target the whole body. Called Shots target specific locations with mechanical trade-offs: higher risk (disadvantage or penalties) for specific grimdark outcomes (permanent maiming, BDSM capture suitability, or status degradation).
+
+Resolution Mechanics
+Declaration: Before rolling, declare the target location.
+Attack Roll: Disadvantage (roll 2d20, take lower) OR -5 to hit (GM choice based on target size/mobility).
+Damage: Roll normal damage + Trauma Effect based on location.
+Critical Success (Natural 20): Double trauma effect; permanent scarring guaranteed.
+Target Locations & Effects
+A. LOWER EXTREMITIES (Mobility Destruction) Ideal for capture without killing
+
+Hamstring (Back of Knee)
+
+Effect: Target speed reduced to 5 ft; cannot Dash. If failed DC 15 Con save, permanent Limp (-2 to Dexterity checks, -10 to Foot Attractiveness, distinctive gait).
+BDSM Utility: Target cannot run; grapple checks against them have advantage for 1 hour (pain incapacitation).
+Healing: Requires Surgery DC 18 (Medical_Trauma.txt) or magical healing within 24 hours, or permanent.
+Achilles Tendon (Ankle)
+
+Effect: Target Prone and Immobilized until DC 16 Con save (regained at start of each turn). On critical hit, tendon severed: permanent -4 Dexterity, requires prosthetic (Raw_Materials_Tools_Trade_Goods.txt).
+Defiance Impact: If target is a slave, immediate +20 Defiance (agony) but -10 to escape attempts for 1 week (physical dependency).
+B. UPPER EXTREMITIES (Labor & Combat Disablement)
+
+Hand/Fingers (Precision Stripping)
+
+Effect: Disadvantage on all attacks/skill checks using that hand. On crit, 1d4 fingers severed: permanent -5 to Sleight of Hand, Crafting, and Erotic Performance skills involving touch (Oral giving, Handjobs).
+Market Value: Severely reduces slave value (-30% per hand ruined); maimed slaves often relegated to "display only" or breeding pens.
+Elbow/Wrist (Joint Destruction)
+
+Effect: Arm disabled; cannot wield weapons/shields. Requires DC 20 Medicine to set, or permanent -3 Strength.
+Restraint Synergy: Useless arms make Bondage checks (Sex_BDSM_System.txt) automatically successful (no resistance possible).
+C. TORSO & VITALS (Permanent Disfigurement)
+
+Face/Beauty (The Noble's Bane)
+
+Effect: Normal damage + 1d6 permanent Attractiveness loss (Body_Ranges_Reference.txt). Scarring reduces General Attractiveness by 5–15 points (GM discretion based on severity).
+Social Consequences: -2 to all Seduction/Persuasion checks involving appearance; slaves with facial scars sell for 50% less (Economy_Trade_System.txt).
+Psychological: Target gains Disfigured trait (+10 Insanity Points, Medical_Trauma.txt; self-loathing).
+Genitals (The Unmanning/Unwomaning) The ultimate humiliation strike
+
+Effect: Target Incapacitated (pain) for 1d4 rounds. Permanent reduction of Genital Scale by 1 (e.g., 5/7 becomes 4/7) on failed DC 18 Con save.
+Sexual Corruption Impact: Reduces maximum Sexual Corruption by 20 (trauma); existing Corruption above new maximum becomes "Corrupted Trauma" (counts as Corruption but causes daily Defiance +5).
+Faction Response: Silken Collar condemns this as "wasteful destruction of divine flesh" (-10 Reputation); Bloodvein respects the brutality (+5 Reputation).
+D. SPECIALIZED: THE MARKING STRIKE Intentional scarring for ownership claims
+
+Brand/Scar Tissue Creation
+
+Weapon: Hot iron (improvised, 1d4 fire damage), blade with alchemical cauterizing agent, or specific Marking Weapons (Combat_Equipment.txt - spiked brands).
+Effect: No HP damage (or 1 damage minimum), but leaves Permanent Ownership Mark.
+Mechanical: Target gains Marked condition (-5 to Defiance checks against the marker specifically, +10 Defiance against all others due to shame).
+Attractiveness: -2 to General Attractiveness per visible mark (considered defacing).
+Legal: In Thornhaven and Ironvein, marked slaves cannot be resold without marker's permission (Crime_Justice_System.txt - property defacement laws).
+The Facial Brand (The Ultimate Claim)
+
+Requirements: Target must be Restrained (Grappled + second check).
+Effect: Permanent -15 Attractiveness, -10 to all social rolls except Intimidation (+5). Creates Broken psychological condition (Medical_Trauma.txt: Willpower becomes 1d6 permanently, automatic compliance but catatonic depression).
+Detection: Broken Chain agents automatically recognize and attempt to "rescue" branded slaves (Freeborn League interference).
+2. MASS COMBAT RULES (Defiance Wave Mechanics)
+When battles involve 20+ combatants (estate raids, faction wars, slave uprisings), standard initiative becomes unwieldy. Use Defiance Wave Combat.
+
+The Defiance Wave System
+Combatant Categories Divide forces into Units (groups of 5–10 similar combatants):
+
+Elite Units: PCs, named NPCs, level 5+ characters (roll individually)
+Standard Units: Guards, trained slaves, mercenaries (use group averages)
+Rabble: Untrained slaves, civilians (automatically fail morale checks unless led)
+The Wave Turn Instead of individual initiative, combat proceeds in Waves:
+
+Psychological Phase (Intimidation/Leadership checks)
+Missile Phase (Ranged attacks, spells)
+Melee Phase (Close combat, grapples)
+Morale Phase (Defiance checks, rout determination)
+Unit Statistics Each unit has:
+
+** cohesion Score** (average Defiance for slaves; morale for free): Starts at 10 + (leader's Charisma modifier)
+Combat Value (CV): Average attack bonus × number of members (e.g., 5 guards with +3 attack = CV 15)
+Integrity: Current cohesion × 2 = Hit Points equivalent
+Resolution Mechanics
+
+Missile Phase: Attacking unit rolls CV vs. defending unit's AC (10 + average Dexterity).
+
+Success: Defender loses 1d6 Cohesion (casualties/desertion).
+Critical Success (beat by 10+): 2d6 Cohesion lost; Defiance Spike (if slave unit, immediate +10 Defiance for survivors).
+Melee Phase: Contested CV rolls (higher wins).
+
+Winner loses 1d4 Cohesion (exhaustion/casualties).
+Loser loses 2d6 Cohesion and must roll Morale.
+Morale Phase (The Breaking) If Cohesion drops below 50% of starting value:
+
+Roll d20 + leader's Intimidation vs. DC 15.
+Failure: Unit Breaks (flees/surrenders).
+Slave Units: Use Defiance mechanics instead - if average Defiance > 60, unit may turn on owners (Rebellion Chain activation).
+Elite Intervention PCs can "attach" to a unit:
+
+Add their personal combat stats to the unit's CV for one phase.
+Can perform Called Shots (see above) against enemy leaders to reduce their unit's Cohesion by an additional 2d6 (decapitation strike).
+Estate Raid Example: Attacking Force: 25 Bloodvein raiders (5 units, CV 12 each) vs. Defending Estate: 30 slave guards (6 units, CV 8 each, Cohesion 8).
+
+Round 1:
+
+Psychological: Bloodvein leader (Intimidation 18) vs. Slave overseer (Wis 12). Bloodvein wins; slave Cohesion drops to 7.
+Missile: Raiders throw javelins (CV 12 vs. AC 12, hit). One slave unit loses 6 Cohesion (drops to 2).
+Melee: Raiders charge (CV 12 vs. CV 8, raiders win). Slave unit loses 2d6 Cohesion - on a 7, reduced to negative; unit Breaks and flees.
+Morale: Remaining slave units see flight; roll Cohesion checks at disadvantage (-2); two more units Break.
+Result: Estate defense collapses in one round due to morale failure. Individual combat only occurs if PCs stand their ground against the raider units.
+
+3. PSYCHOLOGICAL COMBAT (The Breaking of Will)
+Before steel strikes flesh, battles are won in the mind. These mechanics occur before initiative is rolled or as non-lethal combat alternatives.
+
+Pre-Combat Intimidation
+The Staredown When two forces meet (or a PC confronts a group), make opposed Intimidation checks:
+
+Victory by 5+: Enemy suffers Shaken (-2 to all rolls for 1 minute, or until they deal damage).
+Victory by 10+: Enemy suffers Terrified (must make DC 15 Wis save or flee for 1d4 rounds).
+Critical Failure (Natural 1): Your own force loses Cohesion/Defiance (morale collapses).
+Psychological Warfare Tactics
+
+The Display of Power Spend 1 round describing/showing:
+
+Pile of severed heads (Intimidation +5, +2 for each head displayed).
+Public BDSM scene with captured enemy (Seduction + Intimidation, adds +10 Cohesion to your side if enemy is high-status).
+Magical intimidation (Illusion of giant monster, Necromancy raising dead visible to enemy).
+Effect: Enemy makes immediate Morale check or begin combat with reduced Cohesion.
+
+The Breaking Speech Requires 1 minute uninterrupted speech (DC 20 Performance or Intimidation):
+
+Success: Target unit makes Morale check at disadvantage. If failed, they surrender without combat.
+Failure: Target gains +5 Cohesion (angered by arrogance).
+Grimdark Integration:
+
+If target has high Insanity Points (Medical_Trauma.txt), they may misinterpret speech as personal revelation (become convinced speaker is deity; +20 Defiance toward speaker, -20 against others).
+Non-Lethal Psychological Domination
+Combat as BDSM Scene When the goal is capture/breaking rather than killing:
+
+Replace HP with Willpower (mental HP = Wisdom score + level).
+Attacks use Intimidation, Seduction, or Insight instead of weapon stats.
+"Damage" reduces Willpower; at 0, target submits (equivalent to Unconscious in standard combat).
+Aftermath: Target gains Insanity Points equal to Willpower damage taken/5 (round up).
+Example: A Dominant Owner (Intimidation +15) "attacks" a rebellious slave (Willpower 14). Roll d20+15 vs. DC 12 (slave's Wisdom). Hit deals 1d8+Cha modifier "psychic damage" to Willpower. When reduced to 0, slave collapses in submission, ready for proper BDSM scene mechanics (Sex_BDSM_System.txt).
+
+4. DUEL FORMALITIES (Honor, Law, and Social Standing)
+Combat between individuals of status carries weight beyond life and death. These frameworks differentiate Noble Duels (legal, prestigious) from Street Brawls (criminal, efficient).
+
+The Noble Duel (Affairs of Honor)
+Legal Framework (Crime_Justice_System.txt Integration)
+
+Authorization: Must be sanctioned by a Noble House, the Hammer & Anvil Guild, or the Silken Collar Church (depending on faction).
+Seconds: Each combatant requires a second (witness/guardian); seconds can intervene to stop dishonorable conduct.
+Terms: Declared beforehand (to first blood, to submission, to death, or to "breaking" - permanent maiming).
+Location: Must occur in designated dueling grounds (Noble District, Temple Quarter, or specific wilderness clearings).
+Mechanical Honor Rules
+
+The Challenge:
+
+Issuer declares grievance (public insult, property dispute, erotic slight).
+Target may Apologize (lose 1 Social Standing, -5 Reputation with issuer's faction, avoid combat) or Accept.
+Refusal marks target as Coward (-10 Reputation with all martial factions, +10 Defiance from slaves who lose respect).
+The Combat:
+
+Round 1: Only melee (no grappling, no called shots to face/genitals).
+Round 2+: Full combat permitted, but Called Shots to disable are honorable; Called Shots to kill only permitted if terms were "to death."
+Surrender: If a combatant yields (free action), must stop immediately. Killing a surrendered duelist is Murder (Capital Crime).
+The Consequences:
+
+Winner: +5 Reputation with martial factions, +2 Social Standing if opponent was higher tier.
+Loser: If "to breaking," suffers permanent injury (GM choice); if "to submission," gains Subjugated trait (-5 Defiance toward winner specifically for 1 year).
+Witnesses: Bystanders gain/lose Reputation based on conduct (honorable fighting = +2, dirty tricks = -5).
+Forbidden Techniques (Dishonor) Using these in a Noble Duel causes immediate Forfeit and Outcast status:
+
+Poisoned weapons (detected via DC 18 Medicine check by seconds).
+Magic (unless both parties agreed to "Arcane Duel" beforehand).
+Calling shots to genitals (considered barbaric mutilation).
+Attacking before the signal (seconds drop handkerchief or ring bell).
+The Street Brawl (Criminal Efficiency)
+Legal Status: Technically Assault (Moderate to Major Crime), but ignored in Slum districts unless property is damaged or nobles are involved.
+
+Mechanical Differences:
+
+No Honor: Called shots permitted immediately; poison, magic, and surprise attacks are standard.
+No Seconds: No interference if one party surrenders (can be killed while yielding).
+Crowd Control: Bystanders may join (1 in 6 chance per round of random bystander attacking nearest combatant).
+Legal Risk: If Crimson Watch arrives (roll d20 each round: 1-3 on round 1-3, 1-5 on round 4+), all combatants face Assault charges (fines 50-200 gp, or enslavement if unable to pay).
+The Vendetta Code
+
+Unlike Noble Duels, street brawls can escalate to Blood Feuds.
+If a combatant is permanently maimed or killed, their faction (gang, family, guild) gains Blood Grudge (Crime_Justice_System.txt) against the attacker.
+Blood Grudge persists until:
+Blood Price paid (medical costs × 10 for injury, 5000+ gp for death).
+Retaliation (equivalent injury inflicted on attacker or their ally).
+Guild Arbitration (Hammer & Anvil or Shadow Forge mediates for 10% of damages).
+Special: The Erotic Duel (Silken Collar & Velvet Rose)
+The Stakes: Not death, but dominance and public submission.
+
+Format: Combat conducted via BDSM mechanics (Sex_BDSM_System.txt) rather than lethal attacks.
+Victory: Reduce opponent to 0 Willpower (psychological surrender) or force them to Safe Word (if consensual) or Break (tears, incoherence, loss of control).
+Public Display: Usually held at Grand Revels or private estates. Winner claims temporary ownership of loser (1 day to 1 week).
+Mechanical Benefits: Winner gains +10 Reputation with Silken Collar; loser gains +10 Sexual Corruption (humiliation).
+The Risks:
+
+Scandal: If either participant is married/contracted to another, infidelity accusations trigger.
+Physical Damage: Accidents during intense scenes (failed Called Shots during grapple) can cause actual injury (Medical_Trauma.txt).
+INTEGRATION SUMMARY
+Medical_Trauma.txt v1.0: Called Shots reference Injury Severity (Minor/Moderate/Major), permanent scarring tables, and Insanity Point gains from psychological combat.
+
+Slavery_and_Defiance_Core_Mechanics.txt v1.8: Mass Combat Cohesion equals group Defiance management; "Breaking" in psychological combat triggers Defiance spikes; Marked condition affects Defiance checks.
+
+Crime_Justice_System.txt v1.8: Duel Formalities specify legal categories (Noble Duel = legal; Street Brawl = Assault); Honor violations create Criminal Records; Blood Grudges interface with Justice investigations.
+
+Body_Ranges_Reference.txt v1.9: Called Shots permanently modify Attractiveness, Foot Attractiveness (limp), and Genital Scale (unmanning).
+
+Economy_Trade_System.txt v1.26: Maimed slaves have reduced market value; duel winnings can include slave transfers; psychological breaking creates "pre-trained" slave value.
+
+Skills_Master_List.txt v1.12: New specialized applications for Intimidation (psychological combat), Medicine (surgery for called shot injuries), and Performance (dueling speeches).
+
+</Combat_Rules.txt>
+
+<Companions.txt>
+
+</Companions.txt>
+
+<Core_Mechanics.txt>
+RPG Campaign Core Mechanics - Version 0.2
+Character Creation Guidelines:
+
+Stats: Strength, Dexterity, Constitution, Intelligence, Wisdom, Charisma (3-18 scale)
+Modifiers: (Stat - 10)/2 rounded down
+Skills and Proficiencies: [list to be filled]
+Action Resolution:
+Standard roll: d20 + modifier + proficiency (if any) vs DC
+Dice transparency: All rolls will be shown with natural result, modifiers, total, and outcome
+Social Advancement Rules:
+[To be developed: Relationship levels, reputation scores, consequences]
+Property Ownership Rules:
+[To be developed: Acquisition, upkeep, income, risks]
+Combat Basics:
+Initiative: d20 + Dex modifier
+Turns, actions, damage, etc.
+House Rules:
+[Add any custom tweaks here]
+
+Expanded Sections (new content added below while preserving all original text verbatim):
+Character Creation Guidelines (expanded):
+
+Stats: Strength, Dexterity, Constitution, Intelligence, Wisdom, Charisma (3-18 scale)
+Modifiers: (Stat - 10)/2 rounded down
+Skills and Proficiencies: [list to be filled]
+Starting Level: All characters begin at Level 1.
+Hit Points: 8 + Constitution modifier at 1st level (or class-specific value when classes are added). Gain additional HP per level.
+Background & Starting Equipment: Choose or roll a background that grants starting gold, tools, or items. Ties into Property Ownership and Inventory systems.
+Racial Traits: [To be detailed in World_Lore or Race supplement] – Racial choices affect Defiance management when owning slaves (e.g., orcs gain bonuses to intimidation-based control, elves to elegant BDSM training).
+
+Action Resolution (expanded):
+
+Standard roll: d20 + modifier + proficiency (if any) vs DC
+Dice transparency: All rolls will be shown with natural result, modifiers, total, and outcome
+Critical Success: Natural 20 (or modified total exceeding DC by 10+) grants extra benefits (e.g., maximum effect, bonus to next roll, or narrative advantage).
+Critical Failure: Natural 1 (or modified total failing DC by 10+) triggers complications (e.g., increased Defiance on slaves, equipment breakage, or faction reputation loss).
+Advantage/Disadvantage: Roll 2d20 and take the higher/lower result. Common in BDSM motivation scenes or when managing high-Defiance slaves.
+Group Checks: For labor or management involving multiple slaves/employees, average relevant modifiers or use the lowest in high-risk situations.
+
+Social Advancement Rules (new full section):
+
+Relationship Levels: NPCs and slaves use a 5-tier system (Stranger → Acquaintance → Ally → Intimate → Bound). Advancement requires successful interaction scenes, gifts, or kink-matched BDSM/training sessions.
+Reputation Scores: Track faction reputation (Broken Chain, Freeborn League, Bloodvein, Silken Collar, churches, guilds) on a -50 to +50 scale. Positive reputation with ownership-friendly factions lowers Defiance management difficulty; negative reputation increases escape/sabotage risks and may trigger investigations via Crime_Justice_System.
+Consequences: Failed social rolls or poor slave treatment can lower relationship tiers or reputation. Major events (public slave uprisings, generous manumission) cause permanent shifts. Ties directly into Factions_and_Politics and Slavery_Employment_Defiance systems.
+
+Property Ownership Rules (new full section):
+
+Acquisition: Purchase, inherit, conquer, or claim through legal famine-era contracts. Requires sufficient gold or trade value from Economy_Trade_System.
+Upkeep: Monthly costs for maintenance, food, hygiene supplies, and security. Neglect increases Defiance in owned slaves or risks property damage.
+Income: Workshops, estates, slave labor, or rented space generate weekly/monthly gold. Modifiers from Labor Productivity Rules in Slavery_Employment_Defiance (low Defiance boosts output; high Defiance causes losses).
+Risks: Raids, slave revolts, church inspections, or economic fluctuations. High-value properties (e.g., dedicated playrooms or ritual chambers) provide Defiance reduction bonuses but attract more attention from Freeborn League or Broken Chain agents.
+Integration: Property directly supports Slavery system (slave quarters reduce Defiance growth) and Crafting_System (dedicated workshops improve tool quality).
+
+Combat Basics (expanded):
+
+Initiative: d20 + Dex modifier
+Turns, actions, damage, etc.
+Action Economy: On your turn, take 1 Action, 1 Bonus Action, and 1 Reaction (when triggered). Movement up to speed.
+Attack Rolls: d20 + proficiency + Strength or Dexterity modifier vs. target's Armor Class.
+Damage: Weapon or spell damage dice + relevant modifier. Critical hits double dice.
+Saving Throws: d20 + relevant stat modifier vs. DC (used in magical control rituals or resisting slave defiance spikes).
+Conditions: Include Restrained, Prone, Incapacitated, etc. – especially relevant for BDSM training scenes or restraining rebellious slaves.
+Combat Integration: Combat may trigger Defiance checks (e.g., using force on slaves raises Defiance rapidly). Non-lethal options preferred for capturing or disciplining property.
+
+House Rules (expanded with project-specific tweaks):
+
+[Add any custom tweaks here]
+Grimdark Erotic Tone: All systems emphasize risk, consequence, and erotic power dynamics. Slavery Defiance mechanics take precedence in ownership scenes.
+Dice Transparency & Narrative Focus: Every roll is narrated with full results. Failed labor or control rolls should generate story hooks (sabotage, escape attempts, or opportunities for redemption via Sex_BDSM_System).
+Cross-System Integration: All new mechanics must reference and support the Slavery_Employment_Defiance system where relevant (e.g., property bonuses to Defiance management, social reputation affecting slave market prices).
+Simplified Tracking Option: For large slave holdings, use group averages for Defiance and productivity instead of individual tracking.
+
+Update Log:
+
+Version 0.1 → 0.2: Expanded Core_Mechanics.txt with new detailed subsections for Character Creation, Action Resolution, Social Advancement Rules, Property Ownership Rules, and Combat Basics. Added grimdark integration notes tying directly to the existing Slavery & Employment & Defiance System (Version 1.6). All original content from Version 0.1 preserved verbatim. This provides a stronger foundation for the full rule set.
+
+You can now copy and paste the entire block above directly into your file.
+</Core_Mechanics.txt>
+
+<Crafting_System.txt>
+CRAFTING SYSTEM - Version 1.19 (Grimdark Erotic Fantasy, 70 AE)
+Core Philosophy
+Crafting turns raw materials, labor, time, and sometimes magic into valuable goods that drive the economy and personal power. In the Shattered Principalities 70 years after the Sundering, crafting is both a path to wealth and a constant reminder of exploitation. Workshops rely heavily on slave or indentured labor, and the quality of output is directly affected by worker skill, Defiance, Hygiene/Scent management, and racial traits. Overworking slaves or cutting corners can lead to sabotage, low-quality goods, or outright rebellion.
+Sexual Corruption (0–100) is now a tracked factor in erotic crafting: highly corrupt slaves gain +1 to +3 tolerance beyond their normal 1–7 racial genital/orifice max without magic or alchemy, making them ideal for producing or testing extreme-size pleasure items. Low-corruption slaves resist depraved designs and may sabotage them.
+Many complex or high-value items require multiple crafting skills working in sequence or combination. This encourages specialization, workshop upgrades, and strategic assignment of labor. Success can fund property upgrades, vehicle improvements, slave purchases, or lavish BDSM displays, but failures waste resources and damage reputation.
+Crafting Skills
+All skills are fully detailed in Skills_Master_List.txt (v1.7). The 12 core crafting skills remain the foundation for most workshop work. Engineering has been added as a key utility skill for construction, vehicle building, and intricate gadgets/contraptions (especially favored by gnomes and goblins). A character or slave can be proficient in one or more skills. Complex projects often require collaboration between multiple skills.
+Blacksmithing
+Carpentry
+Alchemy
+Herbalism
+Fletching
+Skinning / Butchering
+Tailoring
+Leatherwork
+Carving
+Cooking
+Brewing
+Painting
+Engineering: Design, construction, and maintenance of complex structures, vehicles, and intricate gadgets/contraptions. High ranks enable custom vehicle parts, mechanical restraints, puzzle-like BDSM devices, and gnome/goblin-style inventions.
+Resolution Mechanic
+Crafting Check: d20 + Intelligence (or relevant stat) + proficiency bonus vs. DC.
+Simple item (basic tools, clothing): DC 12–15
+Moderate item (weapons, restraints, furniture): DC 16–20
+Complex/Luxury item (custom BDSM furniture, enchanted components, vehicle parts): DC 21–25
+Masterwork/Exotic item (high-end pleasure toys, giant-scale gear, magically enhanced restraints): DC 26–30+
+Multiple checks for large projects (one per day or per major component).
+Critical Success (natural 20 or exceed DC by 10+): Faster completion, bonus quality (+1 to item value or performance), or unexpected benefit.
+Failure: Wasted materials (partial or full loss), delays, or flawed item (reduced value or negative traits, such as weak restraints that increase Defiance).
+Labor Integration
+Free Workers: Reliable but cost weekly wages. Lower risk of sabotage.
+Slaves: Cheaper but apply daily/weekly Defiance checks. Overwork (more than 8 hours) adds +5–15 Defiance per day.
+Successful BDSM “motivation” or reward scenes can grant advantage on productivity rolls or temporarily lower Defiance.
+High Sexual Corruption (40+) makes slaves more willing to work on extreme-size erotic items and grants them +1 to +3 tolerance beyond normal 1–7 racial genital/orifice max.
+High Scent or poor Hygiene in workshops can cause discomfort penalties or disease outbreaks.
+Group Crafting: Multiple assigned laborers combine output, but capped by workspace size and coordination (high collective Defiance reduces efficiency).
+Alchemical Crafting (Specialized Subsystem)
+Alchemical crafting focuses on potions, oils, powders, and elixirs. It is slower and more volatile than mundane crafting but offers unique effects.
+Requirements: Alchemist’s Supplies proficiency or skilled alchemist slave. Dedicated alchemical lab (Property upgrade).
+Resolution: d20 + Intelligence + proficiency vs. DC 18–28. Time: 1–3 days per batch.
+Common Products:
+Elixir of Heightened Sensation – +3 to pleasure rolls for 24 hours.
+Oil of Perfect Compliance – Reduces Defiance by 15 for one scene.
+Potion of Enhanced Endurance – Ignores exhaustion for 48 hours.
+Scent Weaver Draught – Alters Scent profile.
+Genital Harmony Elixir – Temporarily perfects genital compatibility on the 1–7 relative scale.
+Mutagenic Beauty Serum – Boosts Attractiveness and Body traits.
+Risks: High backlash chance, addiction, mutation, church scrutiny.
+Herbalism Crafting (Specialized Subsystem)
+Herbalism focuses on natural infusions, teas, salves, incenses, and poultices made from plants, flowers, roots, and fungi. It is slower and gentler than alchemy but deeply tied to natural cycles.
+Requirements: Herbalism Kit proficiency or skilled herbalist slave. Dedicated herb garden (Property upgrade).
+Resolution: d20 + Wisdom or Intelligence + proficiency vs. DC 15–25. Time: 2–5 days per batch.
+Common Products:
+Blossom Tea of Calm Submission – Reduces Defiance by 10 and +2 to gentle pleasure rolls.
+Musk-Bloom Incense – Temporarily boosts Scent to 85+.
+Root Salve of Resilience – Improves Hygiene resilience and endurance.
+Fertility Nectar – Increases pregnancy chance and enhances breeding scenes.
+Dreamvine Poultice – Creates mild euphoric state for edging.
+Wildvine Binding Oil – Grants living, slightly mobile bondage.
+Risks: Seasonal dependency, subtle addiction, environmental backlash, church scrutiny.
+Sex Item Crafting (Specialized Subsystem)
+Sex Item Crafting focuses on lubricants, dildos, plugs, harnesses, bondage gear, birth control, and pleasure furniture. It draws from multiple skills and now explicitly uses the 1–7 relative genital/orifice scale.
+Requirements: Combination of Leatherwork, Carving, Alchemy, Herbalism, and/or Tailoring (see Skills_Master_List.txt).
+Resolution: d20 + Intelligence + proficiency vs. DC 16–28.
+Common Products:
+Lubricants (Alchemy/Herbalism)
+Custom dildos/plugs (Carving + Leatherwork) – Matched to 1–7 scale; high Sexual Corruption allows +1 to +3 tolerance for extreme sizes.
+Birth control tonics (Herbalism/Alchemy)
+Bondage harnesses (Leatherwork + Blacksmithing)
+Sensation oils (Alchemy/Herbalism)
+Pleasure benches (Carpentry + Leatherwork + Painting)
+Risks: High scandal potential, Defiance spikes from poor design, church condemnation.
+Multi-Skill Project Examples
+Basic Reinforced Slave Collar (Blacksmithing + Leatherwork) – DC 18, 2 days.
+Custom Pleasure Bench (see BDSM_Restraints_and_Pleasure_Gear.txt) – DC 22, 4 days. High Sexual Corruption expands safe size range for users.
+Scent-Masking Lubricant (see Alchemy_Consumables_and_Potions.txt) – DC 21, 3 days.
+Enchanted Defiance Collar (see BDSM_Restraints_and_Pleasure_Gear.txt) – DC 26, 6 days.
+High-End Bondage Harness (see BDSM_Restraints_and_Pleasure_Gear.txt) – DC 24, 5 days.
+Aphrodisiac Festival Wine (see Alchemy_Consumables_and_Potions.txt) – DC 25, 7 days.
+Giant-Sized Restraint Harness (see BDSM_Restraints_and_Pleasure_Gear.txt) – DC 28, 8 days. High Sexual Corruption allows smaller races to test or use giant-scale items safely.
+Signature Pleasure Doll (see BDSM_Restraints_and_Pleasure_Gear.txt) – DC 30, 10 days.
+Advanced Multi-Skill Synergies
+Opulent Pleasure Throne (see BDSM_Restraints_and_Pleasure_Gear.txt) – DC 28, 12 days.
+Elite Training Collar Set (see BDSM_Restraints_and_Pleasure_Gear.txt) – DC 29, 9 days.
+Scent-Infused Luxury Lingerie Line (see BDSM_Restraints_and_Pleasure_Gear.txt) – DC 26, 10 days.
+Giant-Scale Transport Harness (see BDSM_Restraints_and_Pleasure_Gear.txt) – DC 30, 14 days.
+Ritual Pleasure Altar (see BDSM_Restraints_and_Pleasure_Gear.txt) – DC 32, 16 days.
+Custom Vehicle Gadget (see Raw_Materials_Tools_Trade_Goods.txt) – DC 27, 7 days (gnome/goblin contraptions gain bonuses).
+Clothing & Footwear Crafting Synergies (New)
+Tailoring and Leatherwork now gain explicit synergies when producing or maintaining clothing and footwear from Raw_Materials_Tools_Trade_Goods.txt v1.3.
+- Women’s dresses, gowns, and luxury garments (practical shifts to decadent court gowns, sheer erotic pieces, punishment/humiliation styles, lactation display outfits) use Tailoring + Leatherwork/Painting. Base DC 15–26 depending on complexity and luxury level. Successful masterwork versions grant General Attractiveness bonuses (+1 practical to +5 high-luxury/decadent) that increase slave market value and pleasure service premiums by 10–40%.
+- Footwear (especially women’s high heels, stilettos, elevated boots, punitive hobbling heels) uses Leatherwork + Tailoring + Carving. Base DC 16–28. Masterwork versions provide Foot Attractiveness bonuses (+3 to +6) that enhance foot-focused BDSM scenes, seduction rolls, and display value, but add grimdark drawbacks: increased discomfort during labor (+2 to +8 Defiance if not properly maintained) and higher upkeep costs in Estate_Management_and_Daily_Life routines.
+- On-site crafting at Resource & Industrial properties (e.g., Sawmill for wooden heel bases or Workshop for metal accents) lowers related DCs by 2–4 when raw materials are immediately available.
+- High Sexual Corruption slaves excel at testing extreme or depraved clothing/footwear designs and reduce sabotage risk for erotic styles.
+New On-Site Crafting Synergies (Resource & Industrial Properties)
+Working at a Modest Mine Shaft / Quarry: +4 to Blacksmithing and Engineering checks; raw ore/stone is immediately available (lowers material costs 15–25%).
+Working at an Established Lumber Camp or Sawmill: +6 to Lumberjacking and Carpentry checks; processed lumber lowers all wood-related DCs by 3.
+Working at a Remote Hunting / Trapping Cabin: +5 to Trapping and Skinning/Butchering checks; fresh hides and meat available.
+Working at a Windmill or Watermill: +4 to any grain-processing or mechanical projects; reliable power source reduces Engineering DCs by 2.
+Working at a Trade Road Segment: +3 to Vehicle-related Engineering checks and faster transport of finished goods.
+================================================================
+ESTATE MANAGEMENT INTEGRATION (New Section)
+All crafting now operates under the daily, weekly, and seasonal management framework in Estate_Management_and_Daily_Life.txt v1.2. Workshop output, project speed, material efficiency, and labor quality are directly modified by estate routines.
+Key Mechanical Ties:
+- Daily Routine Framework (Labor Block, Maintenance Block, Interaction Block, Recovery Block) determines base crafting efficiency. Proper hygiene/maintenance reduces penalties from poor Scent/Hygiene; Interaction Block BDSM motivation scenes grant advantage or temporary Defiance reduction for the day’s work. Clothing and footwear maintenance is now explicitly part of the Maintenance Block and affects output quality.
+- Overseer NPC Mechanics and loyalty tracking heavily impact group crafting: loyal overseers provide +2 to +5 on all group checks and reduce sabotage risk; disloyal or betrayed overseers add +3 to +10 Defiance daily and increase failure chances or flawed item rates.
+- Estate Security Patrols and Beast Security Mechanics protect workshops from raids or sabotage (especially on Resource & Industrial properties), but failed security events can interrupt multi-day projects or damage tools/materials.
+- Seasonal Event Tables now apply mandatory modifiers: Spring and Autumn often grant +10–30% faster completion or bonus quality for organic/herbal projects; Winter and Summer hardships increase DCs by 2–5 and raise Defiance drift.
+- Resource & Industrial properties gain the strongest synergies when managed through full estate routines. On-site labor blocks with good overseers and security provide the listed on-site bonuses plus additional stability against Defiance spikes.
+Specific Interactions:
+- Labor Integration: Slave labor checks now incorporate estate management modifiers. Overwork penalties stack with poor estate conditions. Clothing/footwear production and maintenance add upkeep costs but preserve attractiveness bonuses that boost final item value.
+- Multi-Skill Projects: Large projects (especially on-site at mines, lumber camps, or mills) benefit from dedicated workshop upgrades and daily estate Interaction Blocks. Tailoring/Leatherwork projects for dresses and heels gain efficiency from proper estate maintenance routines.
+- Alchemical / Herbalism / Sex Item Subsystems: Dedicated labs or herb gardens (Property upgrades) only provide full benefits when incorporated into estate daily routines and protected by security.
+- Guild Politics & Commissions: Noble or guild commissions may require proof of well-managed estates (loyal overseers, secure workshops) for higher-tier work or better payment. Luxury clothing and high-heeled footwear commissions from decadent houses grant reputation bonuses but increase scandal risk.
+- Output Value & Sales: Finished goods quality and sale price (see Economy_Trade_System v1.24) are modified by estate management quality. High overseer loyalty or strong seasonal performance can push items into higher value tiers. Clothing and footwear with preserved attractiveness bonuses add 10–40% market premiums.
+Crafting Guild Politics
+The Hammer & Anvil Guild is the dominant force in crafting, but internal and external politics are cutthroat.
+Guild Ranks Hierarchy
+Apprentice: Basic labor, high Defiance risk.
+Journeyman: Leads small teams, modest commissions.
+Master Craftsman: Oversees workshops, negotiates with nobles.
+Grand Master / Guild Elder: Sets policy, controls major contracts (only 5–7 exist).
+Guild Advancement Challenges
+Apprentice to Journeyman: Produce a functional multi-skill item under supervision.
+Journeyman to Master: Complete a signature project for a noble house or senior Master.
+Master to Grand Master: Invent a groundbreaking technique or item and gain Elder approval.
+Rival Crafting Guild Factions
+Iron Vein Collective (Radical Traditionalists): Purity of metal, despise erotic crafting.
+Velvet Hammer (Decadent Innovators): Beauty and pleasure as highest craft; luxury sensual items.
+Shadow Forge (Independent Underground): Freedom from control, black-market production and innovation.
+Noble House Crafting Ties & Commissions
+House Voss: Balanced, reliable items for stability.
+House Thorne: Heavy military and punishment gear.
+House Ravenscar: Experimental magical alterations.
+House Silkveil: Opulent sensual luxury (pleasure thrones, scent lingerie).
+House Ironroot: Industrial and vehicle-focused mass production.
+House Bloodvein: Brutal punishment devices.
+House Evergreen: Natural, herbal, organic designs.
+House Stormforge: Trade and transport equipment.
+House Whisperveil: Discreet espionage and concealment tools.
+Output Value & Sales
+Crafted items sell for 1.5–4× material cost (higher for masterwork/exotic).
+Market Fluctuations (see Economy_Trade_System) heavily affect final sale price.
+Selling to specific factions or noble houses can yield bonuses or special commissions.
+Risks & Consequences
+Overworking slaves: Spikes Defiance, possible sabotage, lower quality, or uprisings.
+Poor Hygiene/Scent in workshop: Penalties to rolls, disease risk, or reputation damage.
+Rare materials: Attract thieves or rival attention.
+Flooding the market: Lowers local prices.
+Guild or noble commission failures: Blacklisting or violent reprisals.
+Magical crafting: Full backlash risk from Magic_System.
+Extreme erotic items: High Sexual Corruption in the workforce improves success but risks church scandals or noble jealousy. Poor estate management amplifies these risks through higher Defiance or interrupted projects. Clothing and footwear projects add maintenance burden — neglected luxury garments or heels cause rapid value loss and Defiance spikes.
+Integration with Other Systems
+Property_Ownership v1.7: Workshops, alchemical labs, and herb gardens are property upgrades that reduce DCs and time. Resource & Industrial properties (mines, lumber camps, mills, hunting cabins, roads) now provide major on-site bonuses as listed above, strongly enhanced by daily estate management. Clothing & Footwear Display & Maintenance Upgrades tie directly into prestige and upkeep.
+Slavery_and_Defiance_Core_Mechanics v1.8: Labor source and major risk factor. High Sexual Corruption accelerates erotic crafting and provides non-magical size tolerance. Estate routines directly feed Defiance drift and rebellion risk during crafting. Clothing/footwear maintenance now explicitly modifies daily Defiance.
+Economy_Trade_System v1.24: Primary way to turn crafted goods into profit; market fluctuations and passive estate income apply. Estate management quality modifies output value and reduces sabotage-related losses. Luxury clothing and high-heeled footwear add direct value multipliers.
+Vehicles: Transport of finished goods or materials; custom vehicle parts can be crafted using Engineering.
+Sex/BDSM: Custom toys, restraints, furniture, potions, and herbal oils directly improve scene outcomes. 1–7 genital scale and Sexual Corruption are now core to design and testing. Clothing and footwear from Tailoring/Leatherwork now enhance scene value through attractiveness bonuses.
+Magic: Enchanted or alchemical crafting combines with ritual schools (high risk/reward).
+Factions & Noble Houses: Guild alliances or commissions from houses provide bonuses or quests. Well-managed estates improve reputation for high-end commissions.
+Crime/Justice: Counterfeit goods, stolen materials, or illegal enchanted restraints can trigger investigations. Failed estate security increases exposure risk.
+Edge Cases
+Player as Crafter: High Intelligence or tool proficiencies speed progress.
+Downtime Crafting: Can occur between sessions or during rests, modified by estate Interaction Blocks.
+Quality Tiers: Poor (breaks easily, penalties), Standard, Masterwork (+1 bonuses), Exotic (rare materials + high skill).
+Racial Labor Nuances: Dwarves excel at metalwork; Gnomes at intricate mechanisms and Engineering; Orcs at heavy labor; Dryads at organic/herbal materials. High Sexual Corruption overrides some racial size limits in erotic projects. Estate overseers and security must account for racial compatibility. Clothing/footwear crafting must consider racial body ranges and comfort for optimal attractiveness bonuses.
+House Rule Options
+“Narrative Crafting”: For minor items, resolve with one roll and narration.
+“Workshop Focus”: Dedicated workshops can grant advantage or reduced time for specific item types.
+“Estate Crafting Focus”: Resolve large projects through full Estate_Management_and_Daily_Life routines for deeper simulation, or abstract daily labor into single monthly modifiers for lighter play.
+This system encourages investment in infrastructure, labor specialization, and multi-step projects while remaining volatile and tied to the grimdark reality of exploitation and consequence.
+We will continuously expand this system together.
+Update Log:
+- Version 1.18 – Added full ESTATE MANAGEMENT INTEGRATION section referencing Estate_Management_and_Daily_Life.txt v1.2. Integrated daily/weekly/seasonal routines, overseer loyalty, security patrols, and beast security into labor efficiency, project DCs, output quality, and risk calculations. Updated all cross-references to Property_Ownership v1.7, Slavery_and_Defiance_Core_Mechanics v1.8, and Economy_Trade_System v1.24. All previous content (including On-Site Synergies, Guild Politics, Subsystems, and Multi-Skill Examples) preserved verbatim. Stronger ties between workshop output and active estate management achieved.
+- Version 1.19 – Added Clothing & Footwear Crafting Synergies referencing Raw_Materials_Tools_Trade_Goods.txt v1.3. Integrated Tailoring and Leatherwork production/maintenance of dresses, gowns, and women’s footwear (General Attractiveness +1 to +5, Foot Attractiveness +3 to +6) into crafting DCs, output value, erotic synergies, and grimdark maintenance risks. All previous content preserved verbatim. Stronger ties between crafting, attractiveness bonuses, estate upkeep, and pleasure economy value achieved.
+</Crafting_System.txt>

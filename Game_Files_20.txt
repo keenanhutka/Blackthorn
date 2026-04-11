@@ -1,0 +1,615 @@
+<Settlement_system_extended>
+
+SETTLEMENT EXPANSION: URBAN WARFARE & VERTICALITY - Version 1.0 (70 AE)
+
+Integrates with Settlement_Thornhaven.txt, LUXURY_FASHION_AND_STATUS.txt v1.2, Combat_Rules.txt v1.7, Property_Ownership.txt v1.9, Crime_Justice_System.txt v1.8, Wilderness_Areas.txt v1.16 (Freeborn League), and Random_Events_Table.txt v1.15
+
+1. DISTRICT INFILTRATION (The Stratified City)
+Thornhaven and other Principalities capitals are vertical caste systems made physical. Moving from Southbank Slums to Noble District unobserved requires more than stealth—it requires Social Engineering, Status Display, and Institutional Bribery.
+
+The District Security Ladder
+Each district has Access Requirements and Patrol Density:
+
+Tier 0 (Slums/Sewers)
+
+Requirement: None (entry unrestricted)
+Security: Crimson Watch patrols (1 per 100 inhabitants), gang enforcers
+Risk: Random violence, disease (Medical_Trauma.txt), theft
+Stealth Penalty: None (crowded chaos provides cover)
+Tier 1-2 (Artisan/Trade Quarters)
+
+Requirement: Apprentice papers or guild token (Crafting_System affiliation)
+Security: Guild guards (1 per 50), Watch checkpoints at main avenues
+Bribery Cost: 5-20 gp to pass checkpoint without papers
+Stealth Penalty: -2 to Stealth (open streets, better lighting)
+Tier 3 (Merchant/Courtesan Districts)
+
+Requirement: Respectable clothing (Tier 2+, LUXURY_FASHION_AND_STATUS.txt), clean Hygiene (under 40), appropriate Scent (Tier 2+ perfume)
+Security: Private guards, social scrutiny ("Who is that ragged man?")
+Disguise Check: DC 15 Deception to appear as servant; DC 20 to appear as minor merchant
+Bribery Cost: 50-200 gp (expensive because guards risk reputation)
+Tier 4-5 (Noble Districts)
+
+Requirement: Invitation or House affiliation, Tier 4+ clothing, known face (Reputation 50+ with local nobility)
+Security: House guards (2-4 per entrance), magical detection (Arcana DC 18 to spot illusions/disguises), patrol hounds
+Infiltration Methods:
+Servant's Entrance: DC 18 Stealth (Disguise as staff; requires stolen livery)
+Rooftop: Climbing DC 20 (see Urban Exploration below)
+Sewer Access: Navigation DC 16 (emerges in villa basements; 40% chance of guard encounter)
+Social Engineering: Seduction/Deception DC 24 (become plus-one at party)
+The Passage Mechanics
+The Checkpoint Encounter When crossing between districts, roll District Alertness (d20 + district Tier):
+
+15 or less: Clear passage
+16-20: Guard scrutiny (Deception/Intimidation/Bribery check required)
+21+: Stopped and questioned (DC 18 Persuasion or arrested)
+Status as Armor: Your Social Standing Tier acts as automatic "disguise":
+
+If your Tier matches/exceeds district: Automatic passage (you "belong")
+If one Tier below: DC 12 Deception (act like you belong)
+If two+ Tiers below: Automatic suspicion (must use Stealth/Bribery)
+The Fashion Checkpoint (LUXURY_FASHION_AND_STATUS.txt Integration) Guards make visual assessment:
+
+Tier 0 clothing in Tier 3+ district: Immediate detention (vagrancy)
+Mismatched luxury (Tier 4 coat with Tier 1 boots): DC 14 Insight check; if failed, guards assume stolen goods (confiscate clothing, -2 Social Standing for "impersonation")
+Bloodstains/Scent: Hygiene over 60 or "death scent" (Necromancy) triggers Disease Protocol (Medical_Trauma.txt quarantine; 1d4 days isolation or 100 gp bribe)
+Bribery Networks
+The Grease (ongoing costs to operate in forbidden districts):
+
+Weekly Pass: 50 gp (guards "forget" your face for 7 days)
+Monthly Papers: 300 gp (forged guild membership; lasts 30 days, DC 15 to spot forgery)
+Noble Shadow: 2,000 gp/month (minor house provides cover identity; can access Tier 4, but if caught, both you and house suffer scandal)
+The Whispered Ledger (Factions_and_Politics.txt): Can arrange "ghost passage" (undocumented movement) for 10× standard bribery cost, but creates Faction Debt (must perform favor within 1 month or lose cover).
+
+2. URBAN EXPLORATION (The Vertical City)
+Thornhaven's architecture accommodates three-dimensional movement—rooftops for the desperate, sewers for the hunted, and the precarious "Middle" of interconnected balconies and bridges.
+
+Rooftop Navigation
+Movement Mechanics:
+
+Standard Roof: Movement speed half (difficult terrain)
+Slate/Tile Roofs: DC 12 Acrobatics per round or slip (prone, 1d6 falling damage)
+Steep Pitched Roofs: DC 15 Athletics to climb; failure means slide (Dex save DC 12 or fall off edge)
+Thatched/Weak Roofs: Risk of collapse (see below)
+Rooftop Chase Rules (Combat_Rules.txt v1.7 expansion): When pursuing/fleeing across roofs:
+
+Gap Jumps: Strength (Athletics) or Dexterity (Acrobatics) DC 10-20 depending on gap width (5 ft = DC 10, 15 ft = DC 20)
+Failed Jump: Fall (damage per standard fall rules; 1d6 per 10 ft)
+Pursuer Advantage: If pursuer is lighter (lower Weight spectrum, Body_Ranges_Reference.txt), gap DCs are -2 for them, +2 for heavier pursuer
+Rooftop Combat:
+
+Balance: All melee attacks at disadvantage unless both parties succeed DC 12 Acrobatics check (stance)
+Shove: Special rooftop shove—target saves vs. falling off edge (Str save DC = shover's Athletics roll)
+Called Shots (Combat_Expansion.txt): Target "hand" to make them drop rope/weapon (they fall if not anchored)
+The High Society Bypass: Noble districts connect via "sky bridges" (covered walkways between estates):
+
+Security: Locked (Thieves' Tools DC 20) or guarded (1 guard per bridge)
+Prestige Access: If wearing Tier 4+ clothing, guards assume you belong (no check)
+Dropping In: Entering buildings via rooftop hatch: DC 18 Stealth (noisy) or DC 24 Sleight of Hand (silent lockpick)
+Sewer Navigation (The Undercity)
+The Maze: Sewers require Survival or Engineering checks to navigate (DC 15 base, +5 if no light source).
+
+Hazards:
+
+Toxic Fumes: Constitution save DC 12 per hour or Poisoned (-2 to all rolls); failure by 5+ causes 1d6 poison damage (Medical_Trauma.txt: chemical exposure)
+Flooding: During spring melt/rain, DC 20 Athletics to resist current or swept to drowning (underwater combat rules)
+Disease: Contact with sewage requires DC 14 Con save or contract The Weeping Pox (Medical_Trauma.txt) or Cholera (rapid dehydration, -4 Con until treated)
+Wildlife: Giant rats, slime molds, and Sundering Amalgams (Bestiary_Shattered_Principalities.txt) flushed from upper city experiments
+Strategic Use:
+
+Smuggling: Goods moved via sewer avoid street tolls; +50% cargo capacity but 25% spoilage rate (water damage)
+Escape: Pursuers rarely follow into sewers (disgust/danger); -10 to tracking checks
+Freeborn League Safehouses: Wilderness_Areas.txt cells often connect to sewer networks (DC 18 to find hidden entrances)
+Building Collapse & Structural Integrity
+Dilapidation Mechanics: Old buildings (Southbank slums, pre-Sundering ruins) have Structural Integrity (SI) scores:
+
+New Construction: SI 20 (stable)
+Aging: SI 10 (creaky, cosmetic cracks)
+Dilapidated: SI 5 (visible sagging, dangerous)
+Ruinous: SI 0 (collapse imminent)
+Collapse Triggers:
+
+Explosion/Spell Backlash: DC 15 + damage dealt vs. SI; failure means partial collapse (2d6 bludgeoning damage, DC 14 Dex save for half)
+Overcrowding: If occupants exceed capacity by 50%, test SI monthly (d20 vs. SI; failure reduces SI by 1)
+Earthquake/Heavy Siege: Automatic SI check; failure means collapse
+Festival/Riot Collapse: During Random_Events_Table "Major Incident" (riot), buildings in affected area test SI:
+
+Collapse: Blocks movement through street; creates cover but also traps (DC 18 Athletics to dig out; trapped characters take 1d6 damage per hour until rescued)
+3. PROPERTY DEVELOPMENT (Gentrification as Warfare)
+Property in Thornhaven isn't just owned—it's contested. Slum clearances, Freeborn League strongholds, and noble "urban renewal" are battles fought with deeds, arson, and midnight abductions.
+
+Gentrification Mechanics (Slum to Respectable)
+The Process: Converting a Tier 0/1 property (Slum Shack) to Tier 2+ (Respectable Workshop) requires:
+
+Phase 1: Clearance (Driving Out Current Occupants)
+
+Legal: Buy out tenants (200 gp per family; takes 2 months; requires Administration skill DC 16 or they refuse to leave)
+Coercive: Eviction via Crimson Watch (500 gp bribe; -10 Reputation with Broken Chain; 20% chance of "accidental" fire during eviction)
+Hostile: Hire thugs (Shadow Forge, 300 gp/week) to harass residents; increases Defiance of residents (+20 daily) until they flee; risk of Freeborn League Resistance (becomes combat encounter)
+Phase 2: Sanitation (The Scouring)
+
+Cost: 1,000 gp + 1 month
+Mechanics: Remove "blight" (disease, vermin, Freeborn graffiti); requires Labor Block with slaves (high Defiance risk; +15 daily due to disgusting conditions)
+Risk: Workers contract diseases (Medical_Trauma.txt); if 3+ workers die, property gains Haunted reputation (-2 Social Standing, attracts necromantic anomalies)
+Phase 3: Construction
+
+Standard: Follow Property_Ownership.txt upgrade rules
+Expedited: Pay 50% extra to complete in half time; risk of shoddy work (SI starts at 15 instead of 20)
+Phase 4: Security (Keeping the "Wrong Element" Out)
+
+Gentrified Defense: Property gains +4 to security checks vs. infiltration (better locks, guards)
+Racial Covenant: Some districts require "No Orc/Goblin" covenants (illegal but enforced by private security; -5 Reputation with racial factions, +2 with noble houses)
+Defending Against Urban Renewal (The Siege of Home)
+When your property is targeted by noble "urban renewal" (seizure for "public improvement" that enriches the noble):
+
+The Eminent Domain Claim: Noble uses Eminent Domain (legal under Barony law) to seize property at "fair market value" (50% of actual value).
+
+Defense Options:
+
+1. Legal Battle (Crime_Justice_System.txt)
+
+Hire Barrister: 1,000 gp upfront; extends process 3 months
+Counter-Claim: Prove property has historical value (DC 22 History check to find pre-Sundering deed) or is "vital to community" (requires 20+ NPC signatures)
+Bribe the Judge: 5,000 gp to noble's court; 50% chance of success (roll secretly)
+2. Political Battle (Factions_and_Politics.txt)
+
+Public Outcry: Stage protest (requires 10+ followers; DC 20 Performance to incite crowd; success adds 1 month delay and -10 Reputation to noble)
+Faction Pressure: Get Iron Collar or Hammer & Anvil to claim property is "industrially vital" (requires Ally status with guild)
+3. Guerrilla Warfare (Combat_Expansion.txt)
+
+Hold Out: Refuse to leave; noble sends mercenaries (Mass Combat rules; 2-3 Standard Units vs. your forces)
+Sabotage: Destroy neighboring properties (arson) to make area less attractive for renewal (major Crime, -20 Reputation, but renewal halted 1d6 months)
+Freeborn Alliance: Allow Freeborn League to use property as safehouse (they defend it against mercenaries; you retain ownership but gain Seditious Property status; constant risk of Crimson Watch raids)
+4. The Counter-Offer
+
+Sell at Premium: Negotiate (DC 24 Negotiation) for 150% market value plus right to operate business in new development
+Trade for Favor: Exchange property for noble's backing in Social Advancement (Tier increase) or protection of another property
+The Freeborn League Cell (Urban Insurgency)
+When Freeborn League occupies a slum property (Wilderness_Areas.txt integration):
+
+Detection:
+
+Passive: DC 20 Perception (over 1 week observation) to notice unusual traffic (escaped slaves entering)
+Active: Interrogation of locals (Intimidation DC 18; they fear League reprisal)
+Infiltration: Join League as sympathizer (Loyalty +10 with Freeborn, -20 with Iron Collar; risk of being branded terrorist)
+Clearing the Cell:
+
+Assault: Combat encounter (5-10 Freeborn fighters, traps, possible civilian shields)
+Starvation: Siege building; cut off supplies (requires 2 weeks; Freeborn try to break out or tunnel out to sewers)
+Negotiation: Persuasion DC 20 to convince them to relocate (must provide alternative safehouse or risk reputation as "slaver collaborator")
+Consequences:
+
+Success: Property becomes "Cleared" (+2 Social Standing with noble houses, +10 Reputation with Crimson Watch)
+Failure (Cell Escapes): Freeborn burn property on way out (total loss); gain Blood Feud with local Freeborn chapter (Rivalry System, Stage 2)
+Urban Renewal as Investment
+The Block Purchase: Buy multiple adjacent slum properties simultaneously:
+
+Cost: 60% of individual prices (bulk discount for misery)
+Development: Convert to Tier 3+ housing for "respectable poor" (artisans)
+Profit: Rental income 200% of slum rates; tenants have lower Defiance (grateful for improved conditions) but higher expectations (repair demands)
+Risk: If you cut maintenance costs, properties revert to slum conditions in 1 year (gentrification reversed; -3 Social Standing "slumlord")
+INTEGRATION SUMMARY
+LUXURY_FASHION_AND_STATUS.txt v1.2: Clothing acts as "armor" for district infiltration; fashion checks determine passage; mismatched status triggers suspicion.
+
+Combat_Rules.txt v1.7: Rooftop chases use expanded Called Shots (shoving off edges); building collapse adds environmental hazards; Mass Combat for urban renewal evictions.
+
+Crime_Justice_System.txt v1.8: Eminent domain legal battles; bribery costs scale by district; arson/sabotage as criminal responses to seizure.
+
+Medical_Trauma.txt v1.0: Sewer diseases; building collapse injuries; stress from gentrification enforcement (Insanity Points for evicting families).
+
+Wilderness_Areas.txt v1.16: Freeborn League urban cells function like wilderness enclaves but with verticality; sewer networks as "urban wilderness."
+
+Property_Ownership.txt v1.9: Gentrification as upgrade path with social/political costs; defending against seizure as new property risk category.
+
+Random_Events_Table.txt v1.15: Riot/festival events trigger building collapse checks; urban renewal attempts appear as "Noble House Interference" events.
+
+<Settlement_system_extended>
+
+<Random_Name_Generator.txt>
+
+RANDOM_NAME_GENERATOR - Version 2.9 (Grimdark Erotic Fantasy, 70 AE)
+
+Core Philosophy
+This generator provides quick, flavorful names for NPCs, slaves, freeborn citizens, nobles, and bloodline heirs in the Shattered Principalities (70 AE). Names are divided by barony/region, social class, gender presentation, and racial flavor to match the grimdark tone. 
+
+All names can be mixed and matched (e.g., first name from one table + surname from another) for variety. Use d20 or d100 rolls for random selection during Random_Npc_Generator sessions or when new characters appear in play. 
+
+Names carry subtle mechanical flavor: noble-sounding names grant +1 to initial reputation checks with high-status factions, while lowly slave names increase starting Defiance by 2–5 unless the owner invests in re-naming rituals or luxury presentation. Expanded mechanical effects are listed for each barony and settlement. Epithets for notable deeds are appended to any generated name and tie into Sexual Corruption, Defiance management, BDSM scenes, reputation, and Legacy_Tracker. Racial epithet mechanics can be added when the character's race is known or revealed (they stack with standard epithet effects and provide race-specific BDSM flavor, bonuses, and penalties). Epithet BDSM synergies have been further detailed with specific scene-type interactions, aftercare requirements, Corruption scaling, Defiance drift modifiers, size compatibility notes, and cross-system ties to Inventory_Master, Property_Ledger, Sex_BDSM_System, Pregnancy_Breeding_Rules, and Legacy_Tracker.
+
+================================================================
+BARONY-SPECIFIC NAME TABLES
+================================================================
+
+**Blackthorn Vale** (Harsh, industrial, militaristic – heavy on hard consonants)
+Male: Garrick, Thorne, Draven, Kael, Borak, Varg, Rorik, Malgrim, Stone, Ironfist, Harald, Viktor, Ragnar, Brutal, Crag, Doom, Fang, Grim, Hades, Jorm, Garr, Thorne, Draven, Kael, Borak, Varg, Rorik, Malgrim, Stone, Ironfist, Harald, Viktor, Ragnar, Brutal, Crag, Doom, Fang, Grim, Hades, Jorm, Garrick, Thorne, Draven, Kael, Borak, Varg, Rorik, Malgrim, Stone, Ironfist
+Female: Briar, Sable, Vesper, Raven, Morwen, Thalia, Grimhild, Nyx, Asha, Ironvein, Valeria, Sigrun, Hel, Kara, Lira, Morga, Nera, Onyx, Petra, Quill, Briar, Sable, Vesper, Raven, Morwen, Thalia, Grimhild, Nyx, Asha, Ironvein, Valeria, Sigrun, Hel, Kara, Lira, Morga, Nera, Onyx, Petra, Quill, Briar, Sable, Vesper, Raven, Morwen, Thalia, Grimhild, Nyx, Asha, Ironvein
+Surnames: Blackthorn, Ironvein, Stonecrag, Bloodvein, Grimforge, Ravencrest, Darkmoor, Skullcrag, Deathcrag, Warvein, Boneforge, Shadowcrag, Steelthorn, Nightvein, Gorecrag, Ashforge, Bloodcrag, Doomvein, Ironthorn, Ravencrag, Blackthorn, Ironvein, Stonecrag, Bloodvein, Grimforge, Ravencrest, Darkmoor, Skullcrag, Deathcrag, Warvein, Boneforge, Shadowcrag, Steelthorn, Nightvein, Gorecrag, Ashforge, Bloodcrag, Doomvein, Ironthorn, Ravencrag, Blackthorn, Ironvein, Stonecrag, Bloodvein, Grimforge, Ravencrest, Darkmoor, Skullcrag, Deathcrag
+Mechanical Name Effects: +1 Intimidation when dealing with military or labor factions. Slaves with these names suffer +3 daily Defiance in luxury or pleasure-focused estates unless compensated with harsh BDSM aftercare or public displays of ownership. In Legacy_Tracker, heirs inheriting these names gain +1 to Combat-related feats but +2 risk of rebellion chains.
+
+**Ironvein** (Mining, hardy, earthy – short and guttural)
+Male: Brock, Durin, Thrain, Gorrim, Haldor, Magnus, Rurik, Torvald, Grimnir, Balor, Dain, Eirik, Fjorn, Gunnar, Hjalmar, Ingvar, Jorund, Kaelin, Lothar, Mjoln, Brock, Durin, Thrain, Gorrim, Haldor, Magnus, Rurik, Torvald, Grimnir, Balor, Dain, Eirik, Fjorn, Gunnar, Hjalmar, Ingvar, Jorund, Kaelin, Lothar, Mjoln, Brock, Durin, Thrain, Gorrim, Haldor, Magnus, Rurik, Torvald, Grimnir, Balor
+Female: Hilda, Freya, Brunhild, Sigrid, Astrid, Eira, Dagny, Helga, Thyra, Solveig, Brynja, Dagmar, Elda, Frida, Gerd, Hildr, Idun, Jorunn, Kari, Liv, Hilda, Freya, Brunhild, Sigrid, Astrid, Eira, Dagny, Helga, Thyra, Solveig, Brynja, Dagmar, Elda, Frida, Gerd, Hildr, Idun, Jorunn, Kari, Liv, Hilda, Freya, Brunhild, Sigrid, Astrid, Eira, Dagny, Helga, Thyra, Solveig
+Surnames: Ironvein, Deepvein, Stonehammer, Orebreaker, Forgeheart, Rockfist, Deepforge, Stonevein, Hammercrag, Oreheart, Rockvein, Forgecrag, Deephammer, Stonedeep, Ironfist, Orehammer, Stonefist, Forgevein, Rockhammer, Deepfist, Ironvein, Deepvein, Stonehammer, Orebreaker, Forgeheart, Rockfist, Deepforge, Stonevein, Hammercrag, Oreheart, Rockvein, Forgecrag, Deephammer, Stonedeep, Ironfist, Orehammer, Stonefist, Forgevein, Rockhammer, Deepfist, Ironvein, Deepvein, Stonehammer, Orebreaker, Forgeheart, Rockfist, Deepforge, Stonevein, Hammercrag
+Mechanical Name Effects: +2 to Crafting_System checks involving mining or blacksmithing. Slaves gain +2 resistance to daily Defiance from physical labor but –1 Foot Attractiveness unless heavy boots replace heels. Heirs in Legacy_Tracker inherit +1 Endurance but accelerated aging penalties in cold environments.
+
+**Silken Reach** (Elegant, decadent, pleasure-focused – flowing and sensual)
+Male: Lysander, Valerian, Dorian, Cassian, Aurelian, Seraph, Lucian, Raphael, Orion, Silas, Alaric, Bastian, Corvin, Damien, Elias, Fabian, Gabriel, Hadrian, Isidore, Julian, Lysander, Valerian, Dorian, Cassian, Aurelian, Seraph, Lucian, Raphael, Orion, Silas, Alaric, Bastian, Corvin, Damien, Elias, Fabian, Gabriel, Hadrian, Isidore, Julian, Lysander, Valerian, Dorian, Cassian, Aurelian, Seraph, Lucian, Raphael, Orion, Silas
+Female: Isolde, Seraphine, Liliana, Vespera, Aurelia, Celestine, Ophelia, Mirabel, Elowen, Fiora, Amara, Belladonna, Callista, Delphine, Evangeline, Fiorenza, Giselle, Helena, Isadora, Juliana, Isolde, Seraphine, Liliana, Vespera, Aurelia, Celestine, Ophelia, Mirabel, Elowen, Fiora, Amara, Belladonna, Callista, Delphine, Evangeline, Fiorenza, Giselle, Helena, Isadora, Juliana, Isolde, Seraphine, Liliana, Vespera, Aurelia, Celestine, Ophelia, Mirabel, Elowen, Fiora
+Surnames: Silken, Velvet, Roseveil, Moonlace, Whisperveil, Silkthread, Pleasureborn, Laceborn, Velvetrose, Moonwhisper, Silkveil, Rosewhisper, Pleasurelace, Velvetthread, Moonrose, Whisperlace, Silkpleasure, Roseveil, Moonthread, Pleasurewhisper, Silken, Velvet, Roseveil, Moonlace, Whisperveil, Silkthread, Pleasureborn, Laceborn, Velvetrose, Moonwhisper, Silkveil, Rosewhisper, Pleasurelace, Velvetthread, Moonrose, Whisperlace, Silkpleasure, Roseveil, Moonthread, Pleasurewhisper, Silken, Velvet, Roseveil, Moonlace, Whisperveil, Silkthread, Pleasureborn, Laceborn, Velvetrose, Moonwhisper
+Mechanical Name Effects: +2 to Seduction or Domination rolls in Sex_BDSM_System scenes within noble courts. Slaves require constant luxury clothing/footwear maintenance (see Inventory_Master and Property_Ledger) or suffer +5 Defiance and Hygiene decay. Heirs gain +1 General Attractiveness but higher scandal risk in Faction_Reputation_System.
+
+**Verdant March** (Rural, fertile, wild – nature-tinged and earthy)
+Male: Rowan, Ash, Linden, Oaklen, Bramble, Fern, Moss, Reed, Thorn, Willow, Cedar, Elm, Hawthorn, Juniper, Maple, Pine, Spruce, Yew, Alder, Birch, Rowan, Ash, Linden, Oaklen, Bramble, Fern, Moss, Reed, Thorn, Willow, Cedar, Elm, Hawthorn, Juniper, Maple, Pine, Spruce, Yew, Alder, Birch, Rowan, Ash, Linden, Oaklen, Bramble, Fern, Moss, Reed, Thorn, Willow
+Female: Ivy, Hazel, Rowan, Briar, Meadow, Fern, Blossom, Willow, Sage, Laurel, Clover, Daisy, Flora, Grove, Heather, Juniper, Lily, Marigold, Poppy, Rose, Ivy, Hazel, Rowan, Briar, Meadow, Fern, Blossom, Willow, Sage, Laurel, Clover, Daisy, Flora, Grove, Heather, Juniper, Lily, Marigold, Poppy, Rose, Ivy, Hazel, Rowan, Briar, Meadow, Fern, Blossom, Willow, Sage, Laurel
+Surnames: Greenmarch, Wildroot, Thornvale, Earthbloom, Fertilefield, Harvestborn, Rootvale, Bloomthorn, Wildfield, Earthroot, Fertilethorn, Harvestvale, Greenroot, Wildbloom, Thornfield, Earthharvest, Fertilemarch, Bloomroot, Wildthorn, Harvestroot, Greenmarch, Wildroot, Thornvale, Earthbloom, Fertilefield, Harvestborn, Rootvale, Bloomthorn, Wildfield, Earthroot, Fertilethorn, Harvestvale, Greenroot, Wildbloom, Thornfield, Earthharvest, Fertilemarch, Bloomroot, Wildthorn, Harvestroot, Greenmarch, Wildroot, Thornvale, Earthbloom, Fertilefield, Harvestborn, Rootvale, Bloomthorn, Wildfield, Earthroot
+Mechanical Name Effects: +1 to Agriculture, Breeding, or Pregnancy_Breeding_Rules checks. Slaves from this barony reduce initial Defiance by 2–4 with proper aftercare but gain +3 Defiance if forced into heavy labor without seasonal rest. Heirs inherit +1 Fertility but increased risk of generational Hygiene issues.
+
+**Bloodthorn** (Violent, ritualistic, blood-soaked – sharp and ominous)
+Male: Crimson, Blade, Ravager, Bloodreaver, Skull, Gore, Wrath, Vile, Scar, Rend, Carnage, Death, Fury, Hate, Kill, Maul, Rage, Slash, Torment, Venom, Crimson, Blade, Ravager, Bloodreaver, Skull, Gore, Wrath, Vile, Scar, Rend, Carnage, Death, Fury, Hate, Kill, Maul, Rage, Slash, Torment, Venom, Crimson, Blade, Ravager, Bloodreaver, Skull, Gore, Wrath, Vile, Scar, Rend
+Female: Scarlet, Crimson, Ravenblood, Thornwhip, Bloodrose, Nightshade, Viper, Widow, Briar, Asha, Carnagea, Deatha, Furya, Hatea, Killa, Maula, Ragea, Slasha, Tormenta, Venoma, Scarlet, Crimson, Ravenblood, Thornwhip, Bloodrose, Nightshade, Viper, Widow, Briar, Asha, Carnagea, Deatha, Furya, Hatea, Killa, Maula, Ragea, Slasha, Tormenta, Venoma, Scarlet, Crimson, Ravenblood, Thornwhip, Bloodrose, Nightshade, Viper, Widow, Briar, Asha
+Surnames: Bloodthorn, Deathrose, Skullthorn, Gorevein, Ravencall, Bloodreaver, Thornblood, Deathcall, Skullvein, Gorethorn, Ravencrag, Bloodcall, Deathvein, Skullreaver, Gorecall, Thornreaver, Bloodskull, Deaththorn, Skullblood, Gorevein, Bloodthorn, Deathrose, Skullthorn, Gorevein, Ravencall, Bloodreaver, Thornblood, Deathcall, Skullvein, Gorethorn, Ravencrag, Bloodcall, Deathvein, Skullreaver, Gorecall, Thornreaver, Bloodskull, Deaththorn, Skullblood, Gorevein, Bloodthorn, Deathrose, Skullthorn, Gorevein, Ravencall, Bloodreaver, Thornblood, Deathcall, Skullvein
+Mechanical Name Effects: +2 to Intimidation or Interrogation checks. Slaves trigger +4 starting Defiance and higher rebellion chain risk unless broken with public punishment scenes. Heirs gain +1 Combat prowess but carry +3 risk of bloodline curses in Legacy_Tracker.
+
+**Shadowfen** (Misty swamp barony bordering Bloodthorn – treacherous, secretive, disease and ritual heavy)
+Male: Mire, Fog, Shade, Whisper, Bog, Dusk, Murk, Veil, Silt, Rot, Damp, Gloom, Haze, Lurk, Mist, Ooze, Puddle, Quag, Sludge, Swamp, Mire, Fog, Shade, Whisper, Bog, Dusk, Murk, Veil, Silt, Rot, Damp, Gloom, Haze, Lurk, Mist, Ooze, Puddle, Quag, Sludge, Swamp, Mire, Fog, Shade, Whisper, Bog, Dusk, Murk, Veil, Silt, Rot
+Female: Misty, Willow, Shadea, Fogara, Bogwen, Duska, Murka, Veila, Silta, Rothe, Dampa, Glooma, Hazea, Lurka, Mista, Oozea, Puddlea, Quaga, Sludgea, Swampa, Misty, Willow, Shadea, Fogara, Bogwen, Duska, Murka, Veila, Silta, Rothe, Dampa, Glooma, Hazea, Lurka, Mista, Oozea, Puddlea, Quaga, Sludgea, Swampa, Misty, Willow, Shadea, Fogara, Bogwen, Duska, Murka, Veila, Silta, Rothe
+Surnames: Shadowfen, Mistveil, Bogthorn, Duskmarsh, Whisperfen, Rotroot, Siltblood, Dampveil, Gloomthorn, Hazemarsh, Lurkfen, Mistroot, Oozeblood, Puddlefem, Quagthorn, Sludgeroot, Swampveil, Shadowmarsh, Mistblood, Bogroot, Shadowfen, Mistveil, Bogthorn, Duskmarsh, Whisperfen, Rotroot, Siltblood, Dampveil, Gloomthorn, Hazemarsh, Lurkfen, Mistroot, Oozeblood, Puddlefem, Quagthorn, Sludgeroot, Swampveil, Shadowmarsh, Mistblood, Bogroot, Shadowfen, Mistveil, Bogthorn, Duskmarsh, Whisperfen, Rotroot, Siltblood, Dampveil, Gloomthorn, Hazemarsh
+Mechanical Name Effects: +2 to Stealth, Interrogation, or Poison-related checks in Crime_Justice_System. Slaves suffer +4 starting Defiance due to oppressive conditions; luxury scented oils from Inventory_Master can reduce this to +1 but require weekly maintenance. Heirs gain +1 to ritual Magic_System rolls but higher Medical_Trauma risk from disease.
+
+**Stormcrag** (Rugged coastal/highland barony in the north – stormy, seafaring, raiding culture)
+Male: Storm, Gale, Thunder, Wave, Krag, Bolt, Rift, Tempest, Crash, Squall, Cyclone, Deluge, Hurricane, Lightning, Monsoon, Rain, Surge, Tide, Vortex, Wind, Storm, Gale, Thunder, Wave, Krag, Bolt, Rift, Tempest, Crash, Squall, Cyclone, Deluge, Hurricane, Lightning, Monsoon, Rain, Surge, Tide, Vortex, Wind, Storm, Gale, Thunder, Wave, Krag, Bolt, Rift, Tempest, Crash, Squall
+Female: Storma, Galesa, Thundara, Waverly, Kraga, Bolta, Rifta, Tempesta, Crasha, Squalla, Cyclonea, Delugea, Hurricanea, Lightninga, Monsoona, Raina, Surgea, Tidea, Vortexa, Winda, Storma, Galesa, Thundara, Waverly, Kraga, Bolta, Rifta, Tempesta, Crasha, Squalla, Cyclonea, Delugea, Hurricanea, Lightninga, Monsoona, Raina, Surgea, Tidea, Vortexa, Winda, Storma, Galesa, Thundara, Waverly, Kraga, Bolta, Rifta, Tempesta, Crasha, Squalla
+Surnames: Stormcrag, Wavebreaker, Thunderhold, Galeborn, Kragreef, Tempestcall, Riftsea, Cyclonecrag, Delugehold, Hurricaneborn, Lightningreef, Monsooncall, Raincrag, Surgebreaker, Tidehold, Vortexreef, Windbreaker, Stormhold, Waveborn, Thunderreef, Stormcrag, Wavebreaker, Thunderhold, Galeborn, Kragreef, Tempestcall, Riftsea, Cyclonecrag, Delugehold, Hurricaneborn, Lightningreef, Monsooncall, Raincrag, Surgebreaker, Tidehold, Vortexreef, Windbreaker, Stormhold, Waveborn, Thunderreef, Stormcrag, Wavebreaker, Thunderhold, Galeborn, Kragreef, Tempestcall, Riftsea, Cyclonecrag, Delugehold, Hurricaneborn
+Mechanical Name Effects: +2 to Vehicle_System (ship or storm travel) or Combat in bad weather. Slaves show visible storm scars that can be eroticized for +1 Foot Attractiveness in BDSM scenes but add +3 Defiance if heels are worn during travel. Heirs inherit +1 to raiding feats but increased risk of generational vehicle accidents.
+
+**Emberfall** (Volcanic ashlands barony near Ironvein – fiery, industrious, ash-covered forges)
+Male: Ember, Blaze, Forge, Ashen, Cinder, Scorch, Magma, Pyre, Flare, Soot, Burn, Char, Flame, Heat, Ignite, Kindle, Lava, Sear, Smoke, Spark, Ember, Blaze, Forge, Ashen, Cinder, Scorch, Magma, Pyre, Flare, Soot, Burn, Char, Flame, Heat, Ignite, Kindle, Lava, Sear, Smoke, Spark, Ember, Blaze, Forge, Ashen, Cinder, Scorch, Magma, Pyre, Flare, Soot
+Female: Embra, Blazara, Forga, Ashena, Cindra, Scorcha, Magara, Pyra, Flarea, Soota, Burna, Chara, Flamea, Heata, Ignita, Kindlea, Lavaa, Seara, Smokea, Sparka, Embra, Blazara, Forga, Ashena, Cindra, Scorcha, Magara, Pyra, Flarea, Soota, Burna, Chara, Flamea, Heata, Ignita, Kindlea, Lavaa, Seara, Smokea, Sparka, Embra, Blazara, Forga, Ashena, Cindra, Scorcha, Magara, Pyra, Flarea, Soota
+Surnames: Emberfall, Ashforge, Cinderpeak, Magmavein, Scorchcrag, Pyrehold, Sootvein, Burnpeak, Charforge, Flamevein, Heatcrag, Ignitehold, Kindlefell, Lavavein, Searpeak, Smokevein, Sparkcrag, Emberforge, Ashpeak, Cinderhold, Emberfall, Ashforge, Cinderpeak, Magmavein, Scorchcrag, Pyrehold, Sootvein, Burnpeak, Charforge, Flamevein, Heatcrag, Ignitehold, Kindlefell, Lavavein, Searpeak, Smokevein, Sparkcrag, Emberforge, Ashpeak, Cinderhold, Emberfall, Ashforge, Cinderpeak, Magmavein, Scorchcrag, Pyrehold, Sootvein, Burnpeak, Charforge, Flamevein
+Mechanical Name Effects: +2 to Crafting_System (Blacksmithing or Alchemy with fire) and heat resistance. Ash marks boost exotic attractiveness (+1 General Attractiveness) but accelerate Hygiene decay unless dedicated cleaning stations in Property_Ledger are used. Heirs gain +1 fire-related feats but faster aging in non-volcanic climates.
+
+**Goldenweald** (Wealthy river valley barony in Silken Reach – opulent, trade-heavy, politically scheming)
+Male: Gold, River, Vale, Silk, Crown, Jewel, Coin, Lux, Pearl, Gilt, Amber, Bronze, Diamond, Emerald, Fortune, Gem, Ivory, Opal, Ruby, Silver, Gold, River, Vale, Silk, Crown, Jewel, Coin, Lux, Pearl, Gilt, Amber, Bronze, Diamond, Emerald, Fortune, Gem, Ivory, Opal, Ruby, Silver, Gold, River, Vale, Silk, Crown, Jewel, Coin, Lux, Pearl, Gilt
+Female: Golda, Rivera, Valera, Silka, Crowna, Jewela, Coina, Luxa, Pearla, Gilta, Ambera, Bronza, Diamonda, Emeralda, Fortuna, Gema, Ivora, Opala, Rubya, Silvera, Golda, Rivera, Valera, Silka, Crowna, Jewela, Coina, Luxa, Pearla, Gilta, Ambera, Bronza, Diamonda, Emeralda, Fortuna, Gema, Ivora, Opala, Rubya, Silvera, Golda, Rivera, Valera, Silka, Crowna, Jewela, Coina, Luxa, Pearla, Gilta
+Surnames: Goldenweald, Rivergold, Silkweald, Crownveil, Jewelborn, Cointhread, Luxveil, Amberweald, Bronzethread, Diamondveil, Emeraldborn, Fortunethread, Gemveil, Ivoryweald, Opalborn, Rubythread, Silverweald, Goldveil, Riverborn, Crownthread, Goldenweald, Rivergold, Silkweald, Crownveil, Jewelborn, Cointhread, Luxveil, Amberweald, Bronzethread, Diamondveil, Emeraldborn, Fortunethread, Gemveil, Ivoryweald, Opalborn, Rubythread, Silverweald, Goldveil, Riverborn, Crownthread, Goldenweald, Rivergold, Silkweald, Crownveil, Jewelborn, Cointhread, Luxveil, Amberweald, Bronzethread, Diamondveil
+Mechanical Name Effects: +2 to Economy_Trade_System rolls and merchant guild reputation. Slaves demand perfect luxury clothing/footwear upkeep or suffer +6 Defiance and scandal risk in Faction_Reputation_System. Heirs gain +1 to political intrigue but higher chance of inheritance disputes.
+
+**Frostvein** (Frozen northern marches bordering Verdant March – cold, hardy, survivalist with ice rituals)
+Male: Frost, Ice, Winter, Chill, Glacier, Snow, Rime, Bite, Shiver, Freeze, Arctic, Blizzard, Cold, Crystal, Flurry, Hoarfrost, Icicle, Polar, Sleet, Tundra, Frost, Ice, Winter, Chill, Glacier, Snow, Rime, Bite, Shiver, Freeze, Arctic, Blizzard, Cold, Crystal, Flurry, Hoarfrost, Icicle, Polar, Sleet, Tundra, Frost, Ice, Winter, Chill, Glacier, Snow, Rime, Bite, Shiver, Freeze
+Female: Frosta, Icea, Wintera, Chilla, Glaciera, Snowa, Rimea, Bita, Shivera, Freeza, Arctica, Blizzarda, Colda, Crystala, Flurriesa, Hoarfrosta, Iciclea, Polara, Sleeta, Tundraa, Frosta, Icea, Wintera, Chilla, Glaciera, Snowa, Rimea, Bita, Shivera, Freeza, Arctica, Blizzarda, Colda, Crystala, Flurriesa, Hoarfrosta, Iciclea, Polara, Sleeta, Tundraa, Frosta, Icea, Wintera, Chilla, Glaciera, Snowa, Rimea, Bita, Shivera, Freeza
+Surnames: Frostvein, Icecrag, Winterhold, Chillmarch, Glacierborn, Snowthorn, Rimeroot, Arcticcrag, Blizzardhold, Coldmarch, Crystalborn, Flurrythorn, Hoarfrostroot, Iciclevein, Polarthorn, Sleetroot, Tundravein, Frosthold, Iceborn, Winterthorn, Frostvein, Icecrag, Winterhold, Chillmarch, Glacierborn, Snowthorn, Rimeroot, Arcticcrag, Blizzardhold, Coldmarch, Crystalborn, Flurrythorn, Hoarfrostroot, Iciclevein, Polarthorn, Sleetroot, Tundravein, Frosthold, Iceborn, Winterthorn, Frostvein, Icecrag, Winterhold, Chillmarch, Glacierborn, Snowthorn, Rimeroot, Arcticcrag, Blizzardhold, Coldmarch
+Mechanical Name Effects: +2 to Survival in cold environments and cold Trauma resistance. Pale skin tones boost Foot/General Attractiveness in luxury displays (+1–2) but accelerate aging without longevity potions. Heirs inherit +1 Endurance but higher risk of generational fertility decline.
+
+================================================================
+ELVEN RACIAL NAME TABLES
+================================================================
+Elves in the Shattered Principalities are often ancient, graceful, and subtly corruptible. Their names are melodic, flowing, with ethereal suffixes. They blend well with barony/settlement tables (e.g., Lysandriel of Moonstone the Heeled Temptress). 
+
+**Elven Male Names**
+Aelrindel, Caladrel, Elandor, Faelar, Galadrel, Haladriel, Ilphar, Laeroth, Maelor, Naeril, Othorion, Paelthar, Quaelor, Raevor, Silthar, Thalor, Uldor, Vaelith, Xaelor, Yllandor, Zaelith, Aerendil, Beltharion, Caelumir, Daerith, Elenmir, Faerandil, Galthor, Halion, Illyndor, Aelrindel, Caladrel, Elandor, Faelar, Galadrel, Haladriel, Ilphar, Laeroth, Maelor, Naeril, Othorion, Paelthar, Quaelor, Raevor, Silthar, Thalor, Uldor, Vaelith, Xaelor, Yllandor
+**Elven Female Names**
+Aeloria, Calindra, Elandra, Faelith, Galadria, Halindra, Ilphira, Laeriel, Maeloria, Naerith, Othoria, Paelith, Quaelia, Raevora, Silthara, Thalindra, Uldora, Vaelithra, Xaeloria, Yllandria, Zaelithra, Aerin, Belthara, Caelindra, Daeriel, Elenora, Faerith, Galthara, Halindra, Illyndra, Aeloria, Calindra, Elandra, Faelith, Galadria, Halindra, Ilphira, Laeriel, Maeloria, Naerith, Othoria, Paelith, Quaelia, Raevora, Silthara, Thalindra, Uldora, Vaelithra, Xaeloria, Yllandria
+**Elven Surnames / House Descriptors**
+Moonwhisper, Starveil, Silverthorn, Nightbloom, Dawnweave, Shadowlily, Eternalrose, Crystalveil, Frostpetal, Bloodpetal, Silkshadow, Whisperthorn, Lumina, Eclipseveil, Starlily, Moonthorn, Silverlily, Nightrose, Dawnthorn, Shadowpetal, Eternalveil, Crystalthorn, Frostrose, Bloodwhisper, Silklily, Whisperlily, Luminathorn, Eclipsebloom, Starpetal, Moonlily, Moonwhisper, Starveil, Silverthorn, Nightbloom, Dawnweave, Shadowlily, Eternalrose, Crystalveil, Frostpetal, Bloodpetal, Silkshadow, Whisperthorn, Lumina, Eclipseveil, Starlily, Moonthorn, Silverlily, Nightrose, Dawnthorn, Shadowpetal
+Mechanical Name Effects (Elven): +2 to Magic_System or ritual rolls (especially longevity or breeding rituals). +1 General Attractiveness and +2 Foot Attractiveness when wearing luxury heels or sheer silks from Inventory_Master. Slaves: Elves start with lower base Defiance (-3) due to graceful poise but suffer +6 Defiance if forced into heavy labor without aftercare (their delicate bodies bruise easily and show marks dramatically). In Legacy_Tracker: Elven bloodlines grant +2 Sexual Corruption baseline to heirs and slower aging, but high Corruption risks "eternal youth" backlash (rapid mutation or sudden aging catch-up).
+
+================================================================
+DWARVEN RACIAL NAME TABLES
+================================================================
+Dwarves are sturdy, resilient, and deeply tied to stone, forges, and underground life. Their names are short, hard, guttural, often ending in harsh consonants. They blend well with barony/settlement tables, especially Ironvein and Deepvein Hold (e.g., Durinna Stonehammer the Polished of Deepvein Hold).
+
+**Dwarven Male Names**
+Balin, Dain, Durin, Eitri, Fargrim, Gimli, Hargrim, Iorik, Jorund, Khain, Lodur, Mjolnir, Nain, Orik, Thorin, Ulfar, Valgrim, Wulfgar, Ymir, Zorin, Brokk, Dwalin, Eirik, Fjalar, Gloin, Hjalmar, Ingvar, Jorik, Kili, Loni, Balin, Dain, Durin, Eitri, Fargrim, Gimli, Hargrim, Iorik, Jorund, Khain, Lodur, Mjolnir, Nain, Orik, Thorin, Ulfar, Valgrim, Wulfgar, Ymir
+**Dwarven Female Names**
+Brynja, Dagmar, Elda, Frida, Gerd, Hildr, Idun, Jorunn, Kari, Liv, Astrid, Brunhild, Dagny, Eira, Freya, Helga, Hilda, Sigrid, Solveig, Thyra, Disa, Eydis, Frigg, Groa, Hrefna, Inga, Jora, Kára, Lofn, Magna, Brynja, Dagmar, Elda, Frida, Gerd, Hildr, Idun, Jorunn, Kari, Liv, Astrid, Brunhild, Dagny, Eira, Freya, Helga, Hilda, Sigrid, Solveig, Thyra
+**Dwarven Surnames / Clan Descriptors**
+Stonehammer, Deepvein, Ironfist, Rockforge, Orebreaker, Forgeheart, Stonecrag, Deepdelve, Ironvein, Rockdelve, Forgecrag, Stonefist, Deephammer, Ironhold, Rockvein, Orevein, Forgevein, Stonehold, Deepfist, Ironcrag, Rockhammer, Orehold, Forgehold, Stonevein, Deepcrag, Ironbreaker, Rockbreaker, Orehammer, Forgefist, Stoneheart, Stonehammer, Deepvein, Ironfist, Rockforge, Orebreaker, Forgeheart, Stonecrag, Deepdelve, Ironvein, Rockdelve, Forgecrag, Stonefist, Deephammer, Ironhold, Rockvein, Orevein, Forgevein, Stonehold, Deepfist
+Mechanical Name Effects (Dwarven): +3 to Crafting_System checks involving mining, blacksmithing, or stonework (synergizes strongly with Inventory_Master tools and Property_Ledger workshops). +2 resistance to daily Defiance from physical labor or Trauma. Slaves: Dwarves have high base Endurance but –2 Foot Attractiveness and +4 Defiance when forced to wear high heels or delicate luxury footwear for extended periods (their sturdy builds make elegant display difficult without custom reinforcements). In Legacy_Tracker: Dwarven bloodlines grant +2 Endurance and +1 Crafting skill to heirs, but slower Fertility and higher risk of generational stubbornness leading to rebellion chains if not managed with firm but fair treatment.
+
+================================================================
+ORCISH RACIAL NAME TABLES
+================================================================
+Orcs and half-orcs are powerful, brutal, and often viewed as natural warriors or laborers in the Shattered Principalities. Their names are guttural, aggressive, with heavy consonants and harsh sounds. They blend especially well with Bloodthorn, Thornhaven, Gurt, and Blackcrag tables (e.g., Thragor Bloodthorn the Defiance Breaker of Thornhaven).
+
+**Orcish Male Names**
+Grimgor, Thragor, Krag, Gorg, Urgash, Nazg, Brak, Drek, Gorzod, Hrok, Jark, Karg, Lorg, Mork, Narg, Orgh, Ruk, Skarg, Thok, Varg, Worg, Xarg, Yrg, Zog, Brog, Drak, Gash, Harg, Krush, Lorgash, Grimgor, Thragor, Krag, Gorg, Urgash, Nazg, Brak, Drek, Gorzod, Hrok, Jark, Karg, Lorg, Mork, Narg, Orgh, Ruk, Skarg, Thok, Varg
+**Orcish Female Names**
+Grula, Thragga, Karga, Drukka, Vorna, Gromma, Rukka, Skarna, Halda, Bruka, Gorga, Urga, Nazga, Brakka, Dreka, Gorzoda, Hroka, Jarka, Karga, Lorga, Morka, Narga, Orgha, Rukka, Skarga, Thokka, Varga, Worga, Xarga, Yrga, Grula, Thragga, Karga, Drukka, Vorna, Gromma, Rukka, Skarna, Halda, Bruka, Gorga, Urga, Nazga, Brakka, Dreka, Gorzoda, Hroka, Jarka, Karga, Lorga
+**Orcish Surnames / Clan Descriptors**
+Bloodfist, Skullcrusher, Bonebreaker, Warfang, Gorehowl, Ironjaw, Deathgrip, Rageborn, Thunderfist, Stormtusk, Blackclaw, Redmaw, Steelgore, Brutalhide, Fangscar, Bloodtusk, Skullfang, Bonehowl, Warjaw, Goreclaw, Ironfang, Deathclaw, Ragefist, Thunderjaw, Stormclaw, Blackfang, Redtusk, Steelhide, Brutalfang, Fanghowl, Bloodfist, Skullcrusher, Bonebreaker, Warfang, Gorehowl, Ironjaw, Deathgrip, Rageborn, Thunderfist, Stormtusk, Blackclaw, Redmaw, Steelgore, Brutalhide, Fangscar, Bloodtusk, Skullfang, Bonehowl, Warjaw, Goreclaw
+Mechanical Name Effects (Orcish): +3 to Combat, Intimidation, or heavy labor checks. +2 resistance to daily Defiance from pain or harsh treatment. Slaves: Orcs have very high base Endurance and size compatibility advantages in Sex_BDSM_System (easier to handle larger partners without magic), but +5 Defiance when forced into delicate luxury clothing or high heels (their powerful builds strain fine materials and cause rapid wear). In Legacy_Tracker: Orcish bloodlines grant +3 Combat/Endurance to heirs and faster physical maturation, but higher baseline Defiance inheritance and stronger rebellion chain risk if not regularly dominated with public or ritualistic displays.
+
+================================================================
+GNOME RACIAL NAME TABLES
+================================================================
+Gnomes are small, clever, inventive, and often eccentric tinkerers or illusionists. Their names tend to be whimsical, compound, or overly long with playful or mechanical flair. They blend well with Silken Reach, Goldenweald, or craft-focused settlements (e.g., Pimwick Glowforge the Polished of Silkweave).
+
+**Gnome Male Names**
+Brindle Gearlock, Norbin Fizzcap, Torkel Rustbranch, Pimwick Glowforge, Zorvin Whistleleaf, Darnel Cogroot, Merrin Stonegleam, Orbin Leafspindle, Crindle Gearthorn, Fendrin Mosscap, Wizzleyn Tinkerglow, Glimble Nettler, Fizzlegrin Tinkershadow, Brimlark Gorthendil, Tynord Phexil, Jazrak Fizzlenoot, Quorland Snagglebranch, Feldagis Sparkleblock, Hunbe Heplemiple, Panakur Deepkind, Brindle Gearlock, Norbin Fizzcap, Torkel Rustbranch, Pimwick Glowforge, Zorvin Whistleleaf, Darnel Cogroot, Merrin Stonegleam, Orbin Leafspindle, Crindle Gearthorn, Fendrin Mosscap, Wizzleyn Tinkerglow, Glimble Nettler, Fizzlegrin Tinkershadow, Brimlark Gorthendil, Tynord Phexil, Jazrak Fizzlenoot, Quorland Snagglebranch, Feldagis Sparkleblock, Hunbe Heplemiple, Panakur Deepkind, Brindle Gearlock, Norbin Fizzcap, Torkel Rustbranch, Pimwick Glowforge, Zorvin Whistleleaf, Darnel Cogroot, Merrin Stonegleam, Orbin Leafspindle
+**Gnome Female Names**
+Poppy Brightcap, Lirra Mossbloom, Nyssa Fizzwhistle, Tilda Gearleaf, Mella Dewshine, Orla Sparkroot, Winda Thimblefern, Fenla Copperbell, Brindy Glowthread, Yessa Starbloom, Ylliwen, Yllietta, Bryony Glitterbit, Lurindel Sparkdancer, Venelith Brightharp, Jynxi Slywhisper, Ermop Drabek, Sinbar Berrytrick, Kaflinkleys Broadcraft, Wrebar Tinkcrank, Poppy Brightcap, Lirra Mossbloom, Nyssa Fizzwhistle, Tilda Gearleaf, Mella Dewshine, Orla Sparkroot, Winda Thimblefern, Fenla Copperbell, Brindy Glowthread, Yessa Starbloom, Ylliwen, Yllietta, Bryony Glitterbit, Lurindel Sparkdancer, Venelith Brightharp, Jynxi Slywhisper, Ermop Drabek, Sinbar Berrytrick, Kaflinkleys Broadcraft, Wrebar Tinkcrank, Poppy Brightcap, Lirra Mossbloom, Nyssa Fizzwhistle, Tilda Gearleaf, Mella Dewshine, Orla Sparkroot, Winda Thimblefern, Fenla Copperbell, Brindy Glowthread
+**Gnome Surnames / Clan Descriptors (often compound or repeating)**
+Bafflestone, Ironhide, Gimlen, Garrick, Humplebumple, Fabblestabble, Gearfizzle, Sparktangle, Rustbranch, Whistleleaf, Cogroot, Stonegleam, Leafspindle, Gearthorn, Mosscap, Tinkerglow, Nettler, Tinkershadow, Snagglebranch, Sparkleblock, Deepkind, Glowthread, Starbloom, Brightcap, Mossbloom, Fizzwhistle, Gearleaf, Dewshine, Sparkroot, Thimblefern, Copperbell, Bafflestone, Ironhide, Gimlen, Garrick, Humplebumple, Fabblestabble, Gearfizzle, Sparktangle, Rustbranch, Whistleleaf, Cogroot, Stonegleam, Leafspindle, Gearthorn, Mosscap, Tinkerglow, Nettler, Tinkershadow, Snagglebranch, Sparkleblock
+Mechanical Name Effects (Gnome): +2 to Crafting_System or Alchemy checks involving small mechanisms, illusions, or gadgets (strong synergy with Inventory_Master tools and on-site workshops in Property_Ledger). +1 to Stealth or trickery rolls. Slaves: Gnomes have low base physical Endurance but high resistance to boredom-induced Defiance (+3 daily if given inventive tasks); they suffer +4 Defiance and rapid Hygiene decay in oversized luxury clothing or heels (poor fit causes chafing and frustration). In Legacy_Tracker: Gnomish bloodlines grant +2 Crafting or Magic_System aptitude to heirs and slower physical aging, but higher risk of eccentric rebellion or inventive sabotage if understimulated.
+
+================================================================
+GIANT RACIAL NAME TABLES
+================================================================
+Giants are massive, imposing beings suited to heavy labor, raiding, or intimidation in the Shattered Principalities. Their names are short, powerful, and guttural, often evoking strength or elemental forces. They blend especially well with Gurt, Stormcrag, Blackcrag, or Bloodthorn tables (e.g., Thrymrek Ironcrush the Rage-Breaker of Gurt).
+
+**Giant Male Names**
+Hargun, Drogath, Fenrusk, Koldar, Grendeloth, Borvak, Thrymrek, Vallun, Storvak, Jorbrak, Meldor, Ragnorath, Tyrmos, Vodgrun, Kaelor, Druldin, Ulfgar, Bergroth, Brakthor, Korvash, Grendor, Stoneheart, Frostfist, Thornwhisper, Rimeheart, Ironclad, Rhunokar, Fireforge, Stormcaller, Fjordrek, Hargun, Drogath, Fenrusk, Koldar, Grendeloth, Borvak, Thrymrek, Vallun, Storvak, Jorbrak, Meldor, Ragnorath, Tyrmos, Vodgrun, Kaelor, Druldin, Ulfgar, Bergroth, Brakthor
+**Giant Female Names**
+Morvessa, Thalindra, Gornelia, Vashmira, Olvanna, Feskara, Krella Stormgaze, Bryndra Frosthair, Talluna, Yevrinda, Dhalmara, Jeshaya, Korrinthia, Emvara, Zelmira, Brunhalla, Mar’gathra, Grimhildra, Thora, Sigridra, Helgara, Brunnhildra, Freydis, Astridra, Dagnyra, Solveigra, Thyra, Hilda, Freya, Brunhild, Morvessa, Thalindra, Gornelia, Vashmira, Olvanna, Feskara, Krella Stormgaze, Bryndra Frosthair, Talluna, Yevrinda, Dhalmara, Jeshaya, Korrinthia, Emvara, Zelmira, Brunhalla, Mar’gathra, Grimhildra, Thora, Sigridra
+**Giant Surnames / Clan Descriptors**
+Towering, Colossus, Monolith, Thoughtful, Tranquil, Magnificent, Sunseeker, Fierce, Wise, Seafarer, Massive, Stalwart, Behemoth, Stoic, Fearless, Earthshaker, Noble, Wyrmclaw, Gentle, Stormgaze, Frosthair, Ironcrush, Stonebreaker, Chainlord, Hammerhand, Giantforge, Bloodfist, Skullcrusher, Bonebreaker, Warfang, Towering, Colossus, Monolith, Thoughtful, Tranquil, Magnificent, Sunseeker, Fierce, Wise, Seafarer, Massive, Stalwart, Behemoth, Stoic, Fearless, Earthshaker, Noble, Wyrmclaw, Gentle, Stormgaze
+Mechanical Name Effects (Giant): +4 to Intimidation, Combat, or heavy labor checks (excellent for Vehicle_System slave-drawn transport or estate construction). Extreme size compatibility advantages in Sex_BDSM_System (can safely accommodate or dominate much larger partners, with high Corruption amplifying pleasure tools). Slaves: Giants have massive base Endurance and low daily Defiance from labor, but +8 Defiance and severe Hygiene/Scent penalties in any standard luxury clothing or heels (requires custom oversized items from Inventory_Master; poor fit causes constant discomfort and public spectacle). In Legacy_Tracker: Giant bloodlines grant +4 Endurance/Combat to heirs and massive physical presence bonuses, but extremely slow maturation, higher resource costs for feeding/clothing, and elevated rebellion risk if not given suitably grand tasks or displays.
+
+================================================================
+GOBLIN RACIAL NAME TABLES
+================================================================
+Goblins are small, sneaky, opportunistic, and often chaotic scavengers or tinkerers. Their names are sharp, hissing, repetitive, or crude with lots of "k", "z", "g", and "x" sounds. They blend well with Shadowfen, Bloodfen, or black-market settings (e.g., Zikzik Sniksnik the Gearwhisper of Silkweave).
+
+**Goblin Male Names**
+Zikzik, Sniksnik, Grix, Kraz, Blik, Drekz, Fizzik, Grot, Hizz, Jik, Krazz, Lurk, Mizz, Nib, Orkz, Plix, Quik, Razz, Skrik, Tzik, Vex, Wrix, Xik, Yzz, Zog, Bliknik, Drekzit, Fizzgrot, Grixnik, Hizzlurk, Zikzik, Sniksnik, Grix, Kraz, Blik, Drekz, Fizzik, Grot, Hizz, Jik, Krazz, Lurk, Mizz, Nib, Orkz, Plix, Quik, Razz, Skrik
+**Goblin Female Names**
+Zikka, Snikka, Grixa, Kraza, Blikka, Drekza, Fizzika, Grota, Hizza, Jikka, Krazza, Lurka, Mizza, Nibba, Orkza, Plixza, Quikka, Razza, Skrikka, Tzika, Vexxa, Wrixa, Xikka, Yzza, Zogga, Bliknika, Drekzita, Fizzgrota, Grixnika, Hizzlurka, Zikka, Snikka, Grixa, Kraza, Blikka, Drekza, Fizzika, Grota, Hizza, Jikka, Krazza, Lurka, Mizza, Nibba, Orkza, Plixza, Quikka, Razza, Skrikka
+**Goblin Surnames / Clan Descriptors**
+Sniksnik, Grixgrot, Bliknik, Drekzit, Fizzlurk, Hizzkraz, Jikplix, Krazzrazz, Lurkmizz, Nibquik, Orkzrazz, Plixvex, Quikwrix, Razzxik, Skriktzik, Tzikyzz, Vexzog, Wrixblik, Xikdrek, Yzzfizz, Zoggritz, Snikgrot, Grixblik, Blikdrek, Drekfizz, Fizzhizz, Grotjik, Hizzkraz, Jikplix, Krazlurk, Sniksnik, Grixgrot, Bliknik, Drekzit, Fizzlurk, Hizzkraz, Jikplix, Krazzrazz, Lurkmizz, Nibquik, Orkzrazz, Plixvex, Quikwrix, Razzxik, Skriktzik, Tzikyzz, Vexzog, Wrixblik, Xikdrek
+Mechanical Name Effects (Goblin): +2 to Stealth, Pickpocketing, or black-market Crime_Justice_System rolls. +2 to small-scale Crafting or sabotage. Slaves: Goblins have high boredom resistance but +6 daily Defiance if not given chaotic or inventive tasks; they suffer +5 Defiance and rapid wear in luxury clothing (poor fit and mischievous nature leads to constant tearing or staining). In Legacy_Tracker: Goblin bloodlines grant +2 Stealth/Crafting to heirs and faster maturation, but higher risk of inventive sabotage or petty theft leading to rebellion chains.
+
+================================================================
+DRYAD RACIAL NAME TABLES
+================================================================
+Dryads are nature-bound, seductive, and tied to specific trees or groves. Their names are flowing, organic, with plant, forest, or seasonal elements. They blend well with Verdant March, Verdant Hollow, or Lariss tables (e.g., Willowthorn Bloomveil the Eternal Pet of Verdant Hollow).
+
+**Dryad Male Names**
+Thornroot, Ashveil, Oakenshade, Fernwhisper, Mossgrove, Bramblethorn, Reedshadow, Willowbark, Cedarsong, Elmwhisper, Hawthornveil, Juniperbloom, Mapleshade, Pineveil, Sprucegrove, Yewthorn, Aldershade, Birchwhisper, Rowanroot, Lindenveil, Thornroot, Ashveil, Oakenshade, Fernwhisper, Mossgrove, Bramblethorn, Reedshadow, Willowbark, Cedarsong, Elmwhisper, Hawthornveil, Juniperbloom, Mapleshade, Pineveil, Sprucegrove, Yewthorn, Aldershade, Birchwhisper, Rowanroot, Lindenveil, Thornroot, Ashveil, Oakenshade, Fernwhisper, Mossgrove, Bramblethorn, Reedshadow, Willowbark, Cedarsong
+**Dryad Female Names**
+Willowthorn, Ivybloom, Hazelshade, Briarveil, Meadowwhisper, Fernroot, Blossomgrove, Sageveil, Laurelshade, Cloverbloom, Daisythorn, Florashade, Grovewhisper, Heatherbloom, Juniperthorn, Lilyveil, Marigoldroot, Poppywhisper, Rosegrove, Laurelthorn, Willowthorn, Ivybloom, Hazelshade, Briarveil, Meadowwhisper, Fernroot, Blossomgrove, Sageveil, Laurelshade, Cloverbloom, Daisythorn, Florashade, Grovewhisper, Heatherbloom, Juniperthorn, Lilyveil, Marigoldroot, Poppywhisper, Rosegrove, Laurelthorn, Willowthorn, Ivybloom, Hazelshade, Briarveil, Meadowwhisper, Fernroot, Blossomgrove, Sageveil, Laurelshade
+**Dryad Surnames / Grove Descriptors**
+Bloomveil, Thornwhisper, Rootveil, Shadowgrove, Petalshade, Leafwhisper, Barkveil, Vinebloom, Mossveil, Fernshade, Grovewhisper, Bloomthorn, Shadeveil, Rootbloom, Whispergrove, Veilthorn, Bloomshade, Thornveil, Rootwhisper, Grovebloom, Bloomveil, Thornwhisper, Rootveil, Shadowgrove, Petalshade, Leafwhisper, Barkveil, Vinebloom, Mossveil, Fernshade, Grovewhisper, Bloomthorn, Shadeveil, Rootbloom, Whispergrove, Veilthorn, Bloomshade, Thornveil, Rootwhisper, Grovebloom, Bloomveil, Thornwhisper, Rootveil, Shadowgrove, Petalshade, Leafwhisper, Barkveil, Vinebloom, Mossveil, Fernshade
+Mechanical Name Effects (Dryad): +2 to Agriculture, Breeding, or nature-based Magic_System rolls. +3 General Attractiveness and +2 Foot Attractiveness in natural or woodland luxury settings (synergizes with Inventory_Master natural-fiber clothing). Slaves: Dryads have low base Defiance in natural environments (-4) but +8 Defiance in urban or industrial estates (separation from nature causes withering and despair); they require frequent "rooting" aftercare or risk rapid Hygiene decay and Fertility loss. In Legacy_Tracker: Dryad bloodlines grant +2 Fertility and nature affinity to heirs, but strong seasonal aging swings and higher risk of "withering" rebellion if kept away from groves.
+
+================================================================
+EPITHETS FOR NOTABLE DEEDS (BDSM Synergies Detailed)
+================================================================
+Roll d20 or choose based on character history. Epithets grant mechanical bonuses/penalties and tie into Sexual Corruption, Defiance management, BDSM scenes, reputation, and Legacy_Tracker. High Sexual Corruption characters can "embrace" certain epithets for amplified effects. BDSM synergies are now fully detailed for every epithet with specific scene-type interactions, aftercare requirements, Corruption scaling, Defiance drift modifiers, size compatibility notes, and cross-system ties.
+
+**Low Deeds (Common for Low-Defiance or Newly Acquired Slaves)**
+1. the Broken → +1 immediate Defiance reduction after any BDSM scene; –1 General Attractiveness until at least one luxury clothing/footwear upgrade from Inventory_Master is applied; heirs inherit +1 submissive Breeding trait but +2 rebellion risk if left untreated. 
+   BDSM Synergies: +2 to initial submission rolls in any scene type (especially pain-to-submission conversion in whipping or spanking). Aftercare: 10 minutes of gentle holding reduces Defiance by additional 2; neglect causes +3 daily drift. Corruption scaling: +1 per session if Broken is embraced. Size compatibility: Works best with smaller partners (Gnomes/Elves gain extra +1 grace). Cross-system: Reduces Property_Ledger clothing wear by 1 if luxury heels are introduced post-scene; Legacy_Tracker passes submissive trait with 20% chance.
+2. the Collared → +1 to psychological dominance rolls; visible collar grants +1 owner reputation in public but +2 daily Defiance if collar comfort is neglected. 
+   BDSM Synergies: +2 to collar/leash restraint scenes (leash-pulling adds +1 Seduction); +1 to psychological aftercare (verbal commands). Aftercare: Daily collar polishing (Inventory_Master) prevents +2 Defiance drift. Corruption scaling: +2 if used in public display. Size compatibility: Giants gain +2 intimidation from oversized collar. Cross-system: Boosts Faction_Reputation_System in decadent circles; ties to Crime_Justice_System for legal ownership proof.
+3. the Leashed → +2 to quick-access BDSM rolls; –1 mobility during labor; heirs may inherit leashed loyalty traits (+1 to Aftercare success). 
+   BDSM Synergies: +3 to leash-controlled movement or pulling scenes (crawling adds +2 humiliation). Aftercare: Leash removal massage reduces Trauma by 1. Corruption scaling: +1 per public leashing. Size compatibility: Goblins gain +2 sneaky pull resistance. Cross-system: Integrates with Vehicle_System for leashed transport; Property_Ledger tracks leash maintenance cost.
+4. the Branded → Permanent ownership mark grants +2 to Intimidation with the branded slave; +1 scandal risk in puritanical factions. 
+   BDSM Synergies: +2 to branding or marking ritual scenes (fresh brand adds +3 pain/pleasure conversion for 24 hours). Aftercare: Cooling salve (Medical_Trauma) prevents infection. Corruption scaling: +3 permanent if brand is eroticized. Size compatibility: Orcs gain +1 blood synergy. Cross-system: Legacy_Tracker marks bloodline with ownership trait; Inventory_Master branding tools required.
+5. the Well-Used → +1 to repeated BDSM endurance rolls; minor Hygiene decay acceleration unless cleaned daily. 
+   BDSM Synergies: +2 to multi-round or extended sessions (cumulative +1 per round after third). Aftercare: Full body wash (Property_Ledger station) negates decay. Corruption scaling: +1 per extended session. Size compatibility: Giants gain +2 endurance. Cross-system: Accelerates Hygiene decay in Sex_BDSM_System unless countered by luxury soaps.
+6. the Footworn → +1 Foot Attractiveness from visible wear marks; +3 Defiance from pain if heels are worn over 4 hours without aftercare. 
+   BDSM Synergies: +2 to foot worship or trampling scenes (worn soles add +1 tactile pleasure). Aftercare: Foot massage with oils reduces Defiance by 3. Corruption scaling: +2 if heels are kept on during worship. Size compatibility: Dryads gain +2 natural foot synergy. Cross-system: Ties directly to Inventory_Master footwear upgrades; boosts General Attractiveness when displayed.
+7. the Heeled → +2 Foot Attractiveness when wearing heels; –2 mobility in labor; +2 Seduction if heels are part of the scene. 
+   BDSM Synergies: +3 to heel-focused domination or posture training (posture failure adds +2 humiliation). Aftercare: Heel removal and foot soak prevents +4 Defiance. Corruption scaling: +3 if heels are worn for full scene. Size compatibility: Giants require custom heels (+2 cost). Cross-system: Heavy integration with Property_Ledger luxury maintenance; reduces Foot Attractiveness penalty over time with training.
+8. the Milked → +2 to lactation/breeding synergy rolls; +1 Attractiveness during milking scenes; requires regular milking to avoid +4 Defiance from discomfort. 
+   BDSM Synergies: +3 to breast play or milking scenes (milking during orgasm adds +2 pleasure conversion). Aftercare: Gentle breast massage prevents swelling. Corruption scaling: +2 per milking session. Size compatibility: Dryads gain +2 sap synergy. Cross-system: Boosts Pregnancy_Breeding_Rules yields; Inventory_Master milking tools recommended.
+9. the Quick → +2 to quick BDSM access rolls; –1 General Attractiveness from frequent rough use. 
+   BDSM Synergies: +3 to spontaneous or quick-access scenes (no warm-up adds +1 intensity). Aftercare: 5-minute cuddle reduces drift. Corruption scaling: +1 per quick session. Size compatibility: Goblins gain +2 sneaky access. Cross-system: Reduces scene preparation time in Sex_BDSM_System.
+10. the Silent → +1 to discreet or public BDSM rolls; +2 Defiance if forced to speak during scenes. 
+    BDSM Synergies: +2 to gag or silence play (gagged whimpers add +2 psychological dominance). Aftercare: Verbal reassurance post-gag. Corruption scaling: +2 if silence is maintained full scene. Size compatibility: Dryads gain +1 vine-gag synergy. Cross-system: Aids discreet scenes in Crime_Justice_System.
+11. the Hobbled → +3 to humiliation-based Defiance reduction; –3 mobility; strong visual for public ownership displays. 
+    BDSM Synergies: +3 to hobbling or restricted movement scenes (hobble walking adds +2 exhibition). Aftercare: Mobility massage. Corruption scaling: +3 in public. Size compatibility: Giants gain +2 visual impact. Cross-system: Enhances public display in Faction_Reputation_System.
+12. the Chained → +2 to restraint synergy in BDSM; +3 daily Defiance if chains cause chafing without maintenance. 
+    BDSM Synergies: +3 to chain bondage or heavy restraint scenes (chain rattling adds +1 sensory). Aftercare: Chain oiling and skin check. Corruption scaling: +2 per chained hour. Size compatibility: Dwarves gain +2 durability. Cross-system: Property_Ledger chain maintenance required.
+13. the Stripped → +2 to vulnerability-based domination rolls; –2 General Attractiveness until luxury clothing is restored. 
+    BDSM Synergies: +3 to stripping or exposure scenes (slow strip adds +2 Seduction). Aftercare: Clothing restoration ritual. Corruption scaling: +2 if fully stripped. Size compatibility: Elves gain +1 graceful strip. Cross-system: Ties to Inventory_Master clothing replacement.
+14. the Whimpered → +1 to emotional aftercare success; +2 Defiance if whimpers are ignored. 
+    BDSM Synergies: +2 to whimper-inducing pain or edging scenes (whimpers add +1 emotional intensity). Aftercare: Praise for whimpers. Corruption scaling: +1 per emotional release. Size compatibility: Gnomes gain +1 inventive whimper. Cross-system: Boosts Aftercare in Sex_BDSM_System.
+15. the Trembling → +2 to fear/anticipation BDSM rolls; minor Trauma resistance bonus but +1 Medical_Trauma risk if overused. 
+    BDSM Synergies: +2 to anticipation or light fear play (trembling adds +1 tension). Aftercare: Calming touch. Corruption scaling: +2 if fear is embraced. Size compatibility: Dryads gain +1 leaf tremble visual. Cross-system: Minor link to Medical_Trauma tracking.
+16. the Obeying → +1 daily Defiance resistance with consistent commands; heirs may inherit obedient baseline. 
+    BDSM Synergies: +2 to command/response training scenes (immediate obey adds +1 loyalty). Aftercare: Command affirmation. Corruption scaling: +1 per obeyed command set. Size compatibility: Dwarves gain +1 stubborn conversion. Cross-system: Reduces rebellion chains in Legacy_Tracker.
+17. the Servile → +2 to daily labor productivity under strict oversight; +3 Defiance if kindness is shown without dominance. 
+    BDSM Synergies: +2 to service-oriented submission scenes (servile acts add +1 partner satisfaction). Aftercare: Reward service. Corruption scaling: +2 if service is sexualized. Size compatibility: Giants gain +3 heavy service. Cross-system: Boosts Estate_Management daily output.
+18. the Cowering → +2 to Intimidation rolls; +1 to quick submission in scenes. 
+    BDSM Synergies: +2 to cowering or fear-based initiation (cower adds +1 dominance). Aftercare: Safety reassurance. Corruption scaling: +1 per cower trigger. Size compatibility: Orcs gain +2 rage-flip potential. Cross-system: Enhances Intimidation in Faction_Reputation_System.
+19. the Begging → +3 to plea-based pleasure rolls; strong for training but risks +4 Defiance if begging is denied too often. 
+    BDSM Synergies: +3 to begging or denial play (successful beg adds +2 pleasure). Aftercare: Granting plea reduces drift. Corruption scaling: +3 if begging is rewarded. Size compatibility: Dryads gain +1 nature-plea. Cross-system: Ties to orgasm control in Sex_BDSM_System.
+20. the Marked → +1 to all ownership-related reputation checks; visible marks boost exotic attractiveness by +1 in decadent factions. 
+    BDSM Synergies: +2 to marking or temporary tattoo scenes (fresh mark adds +2 visual during scene). Aftercare: Mark care. Corruption scaling: +2 permanent. Size compatibility: Orcs gain +1 blood-mark. Cross-system: Legacy_Tracker inheritance of mark trait.
+21. the Shamed → +2 to public humiliation Defiance reduction; –2 reputation in noble courts. 
+    BDSM Synergies: +3 to humiliation or degradation scenes (shame adds +2 intensity). Aftercare: Private reassurance. Corruption scaling: +3 in public. Size compatibility: Gnomes gain +1 humorous shame. Cross-system: Scandal risk in Faction_Reputation_System.
+22. the Exposed → +2 to exhibitionist BDSM rolls; +3 scandal risk. 
+    BDSM Synergies: +3 to public or semi-public exposure scenes (exposure adds +2 vulnerability). Aftercare: Covering ritual. Corruption scaling: +3 if witnessed. Size compatibility: Giants gain +2 massive exposure. Cross-system: High scandal in Crime_Justice_System.
+23. the Pinched → +1 to pain/pleasure mixing; minor bruising adds to visual appeal but accelerates Hygiene issues. 
+    BDSM Synergies: +2 to pinching or nipple/clitoral torment (pinch adds +1 sharp sensation). Aftercare: Soothing cream. Corruption scaling: +2 per pinch session. Size compatibility: Dryads gain +1 sap-pinch. Cross-system: Minor Hygiene decay in Property_Ledger.
+24. the Spanked → +2 to spanking synergy rolls; +1 Foot Attractiveness from associated postures. 
+    BDSM Synergies: +3 to spanking or impact play (spank marks add +1 visual). Aftercare: Cooling gel. Corruption scaling: +2 if spanked to orgasm. Size compatibility: Giants gain +2 massive impact. Cross-system: Posture tie to heel training in Inventory_Master.
+25. the Denied → +2 to orgasm control training; builds strong eventual loyalty but +5 temporary Defiance per denial session. 
+    BDSM Synergies: +3 to edging and denial scenes (denial buildup adds +2 intensity). Aftercare: Controlled release. Corruption scaling: +3 if denial is prolonged. Size compatibility: Elves gain +1 graceful denial. Cross-system: Strong link to Breeding rules for frustration buildup.
+
+**Mid Deeds (After Several Sessions or Notable Events)**
+1. the Obedient → +2 to Seduction/Domination rolls when publicly known; +2 daily Defiance resistance with proper aftercare and luxury footwear maintenance. 
+   BDSM Synergies: +3 to obedience training or protocol scenes (protocol adherence adds +2 loyalty). Aftercare: Command praise. Corruption scaling: +2 per protocol set. Size compatibility: Dwarves gain +2 stubborn conversion. Cross-system: Reduces daily Defiance in Estate_Management.
+2. the Pleasing → +2 to partner satisfaction rolls; +1 owner reputation in pleasure-focused factions. 
+   BDSM Synergies: +3 to service and pleasure-giving scenes (pleasing acts add +2 satisfaction). Aftercare: Mutual pleasure reward. Corruption scaling: +2 if pleasing is sexual. Size compatibility: Gnomes gain +2 inventive pleasing. Cross-system: Boosts owner reputation in Faction_Reputation_System.
+3. the Marked → +1 to all ownership-related reputation checks; visible marks boost exotic attractiveness by +1 in decadent factions. 
+   BDSM Synergies: +2 to marking or temporary tattoo scenes (fresh mark adds +2 visual). Aftercare: Mark care. Corruption scaling: +2 permanent. Size compatibility: Orcs gain +1 blood-mark. Cross-system: Legacy_Tracker inheritance of mark trait.
+4. the Displayed → +2 to public display reputation bonuses; +1 General Attractiveness when shown off. 
+   BDSM Synergies: +3 to display or objectification scenes (display pose adds +2 exhibition). Aftercare: Private recovery. Corruption scaling: +3 if displayed publicly. Size compatibility: Giants gain +3 massive display. Cross-system: Enhances decadent faction reputation.
+5. the Polished → +2 Foot/General Attractiveness maintained; reduces Hygiene-related Defiance drift by 3 daily when upkeep is performed. 
+   BDSM Synergies: +2 to polished presentation or inspection scenes (inspection adds +1 dominance). Aftercare: Polishing ritual. Corruption scaling: +2 if polished for scene. Size compatibility: Dwarves gain +2 metal synergy. Cross-system: Direct tie to Inventory_Master upkeep and Property_Ledger stations.
+6. the Corseted → +2 to posture and domination rolls; +1 Attractiveness but +2 Defiance if worn during labor without relief. 
+   BDSM Synergies: +3 to corset or waist training scenes (tightening adds +2 restriction). Aftercare: Corset loosening massage. Corruption scaling: +3 if worn full scene. Size compatibility: Dryads gain +2 vine-corset. Cross-system: Posture link to heel training.
+7. the Whipped → +2 to flagellation/impact play rolls; +1 to pain-to-pleasure conversion. 
+   BDSM Synergies: +4 to whipping or flogging scenes (whip marks add +2 visual appeal). Aftercare: Soothing balm. Corruption scaling: +3 per whipping session. Size compatibility: Orcs gain +2 tough skin. Cross-system: Pain synergy with Medical_Trauma tracking.
+8. the Kneeling → +2 to submission rituals; strong visual for ownership displays. 
+   BDSM Synergies: +3 to kneeling or worship scenes (kneeling duration adds +2 intensity). Aftercare: Knee massage. Corruption scaling: +2 if kneeling is prolonged. Size compatibility: Giants gain +3 massive kneeling. Cross-system: Visual boost in public displays.
+9. the Scented → +2 Scent preservation; +1 to seduction rolls in close quarters. 
+   BDSM Synergies: +2 to scent play or pheromone-enhanced scenes (scent adds +1 sensory). Aftercare: Scent reapplication. Corruption scaling: +2 if scent is eroticized. Size compatibility: Dryads gain +3 natural scent. Cross-system: Hygiene preservation in Property_Ledger.
+10. the Yielding → +2 to Breeding and size accommodation rolls; easier Corruption gain. 
+    BDSM Synergies: +3 to yielding or total surrender scenes (yielding adds +2 pleasure). Aftercare: Gentle holding. Corruption scaling: +3 if yielding is total. Size compatibility: Orcs gain +2 size yielding. Cross-system: Direct boost to Pregnancy_Breeding_Rules.
+11. the Trained → +2 to skill-based labor or BDSM performance; reduced Defiance from routine tasks. 
+    BDSM Synergies: +3 to trained response or conditioned scenes (conditioned trigger adds +2 reliability). Aftercare: Training review. Corruption scaling: +2 per trained behavior. Size compatibility: Dwarves gain +2 disciplined. Cross-system: Labor productivity in Estate_Management.
+12. the Tamed → +3 daily Defiance resistance under consistent management; heirs inherit partial taming. 
+    BDSM Synergies: +3 to taming or breaking-in scenes (taming progress adds +2 loyalty). Aftercare: Taming affirmation. Corruption scaling: +3 if tamed fully. Size compatibility: Giants gain +3 massive taming. Cross-system: Reduces rebellion in Legacy_Tracker.
+13. the Presented → +2 to court or faction presentation rolls; +1 reputation when displayed properly. 
+    BDSM Synergies: +3 to formal presentation or inspection scenes (inspection adds +2 dominance). Aftercare: Presentation debrief. Corruption scaling: +2 if presented erotically. Size compatibility: Elves gain +2 graceful. Cross-system: Boosts noble court reputation.
+14. the Oiled → +2 to massage/aftercare synergy; reduces Trauma risk from scenes. 
+    BDSM Synergies: +3 to oil massage or sensory scenes (oiled skin adds +2 tactile). Aftercare: Extended oiling. Corruption scaling: +2 if oil is sensual. Size compatibility: Dryads gain +3 sap synergy. Cross-system: Trauma reduction in Medical_Trauma.
+15. the Perfumed → +2 Scent display bonuses; +1 Attractiveness in social scenes. 
+    BDSM Synergies: +2 to perfume or scent-teasing scenes (teasing adds +1 anticipation). Aftercare: Perfume refresh. Corruption scaling: +2 if perfume is used in scene. Size compatibility: Gnomes gain +2 gadget perfume. Cross-system: Scent preservation in Hygiene rules.
+16. the Leashed Proudly → +2 to public ownership pride rolls; +1 Intimidation with other owners. 
+    BDSM Synergies: +3 to proud leash or public control scenes (proud strut adds +2 exhibition). Aftercare: Private leash removal. Corruption scaling: +3 in public. Size compatibility: Giants gain +3 massive leash. Cross-system: Intimidation boost with other owners.
+17. the Heel-Trained → +3 Foot Attractiveness with heels; reduced pain Defiance with practice. 
+    BDSM Synergies: +4 to heel training or posture domination (trained posture adds +2 grace). Aftercare: Foot soak. Corruption scaling: +4 if heels worn full scene. Size compatibility: Elves gain +2 graceful. Cross-system: Strong tie to Inventory_Master footwear.
+18. the Aftercare Regular → +3 to Aftercare success; strong loyalty building. 
+    BDSM Synergies: +4 to aftercare quality and bonding scenes (regular aftercare adds +3 emotional). Aftercare: Extended session. Corruption scaling: +3 per regular session. Size compatibility: Dryads gain +3 nature-rooting. Cross-system: Loyalty in Legacy_Tracker.
+19. the Publicly Displayed → +2 to decadent faction reputation; +3 scandal risk elsewhere. 
+    BDSM Synergies: +4 to public or semi-public display scenes (display adds +3 vulnerability). Aftercare: Private recovery. Corruption scaling: +4 if witnessed. Size compatibility: Giants gain +4 massive. Cross-system: High scandal mechanic in Faction_Reputation_System.
+20. the Dutiful → +2 to daily estate labor productivity; +1 to owner administration checks. 
+    BDSM Synergies: +2 to dutiful service scenes (dutiful acts add +1 satisfaction). Aftercare: Duty reward. Corruption scaling: +2 if sexualized. Size compatibility: Dwarves gain +3 disciplined. Cross-system: Estate_Management output boost.
+21. the Compliant → +2 to command obedience; reduced rebellion chain triggers. 
+    BDSM Synergies: +3 to compliance testing scenes (compliance adds +2 reliability). Aftercare: Command praise. Corruption scaling: +2 per test. Size compatibility: Elves gain +2 graceful. Cross-system: Rebellion reduction in Legacy_Tracker.
+22. the Graceful → +2 to elegant BDSM or court scenes; +1 Attractiveness in Silken Reach style. 
+    BDSM Synergies: +3 to graceful or artistic BDSM (grace adds +2 aesthetic). Aftercare: Pose review. Corruption scaling: +2 if graceful is emphasized. Size compatibility: Elves gain +3 extra. Cross-system: Court reputation boost.
+23. the Submissive → +3 to partner pleasure rolls; strong for long-term loyalty. 
+    BDSM Synergies: +4 to deep submission scenes (submission adds +3 intensity). Aftercare: Submissive affirmation. Corruption scaling: +4 if deep. Size compatibility: Dryads gain +3 nature-submissive. Cross-system: Long-term loyalty in Sex_BDSM_System.
+24. the Eager → +2 to initiative in scenes; faster Corruption gain. 
+    BDSM Synergies: +3 to eager or enthusiastic participation scenes (eagerness adds +2 partner pleasure). Aftercare: Eager reward. Corruption scaling: +3 per eager session. Size compatibility: Goblins gain +2 chaotic. Cross-system: Accelerated Corruption scaling.
+25. the Disciplined → +2 to labor endurance; +1 to Defiance control under routine punishment. 
+    BDSM Synergies: +3 to discipline or punishment training (discipline adds +2 control). Aftercare: Discipline debrief. Corruption scaling: +2 per punishment. Size compatibility: Dwarves gain +3 extra. Cross-system: Defiance control in daily routines.
+
+**High Deeds (Legendary or High Corruption Achievements)**
+1. the Well-Broken → +3 to all BDSM and pleasure rolls when epithet is invoked; –5 daily Defiance with consistent aftercare; +2 General/Foot Attractiveness when wearing high heels or luxury items from Inventory_Master. 
+   BDSM Synergies: +5 to any scene type involving total control (broken state adds +3 across all rolls). Aftercare: Daily full ritual prevents any drift. Corruption scaling: +5 if embraced fully. Size compatibility: All races gain +2 synergy. Cross-system: Near-zero rebellion in Legacy_Tracker; heavy Property_Ledger upkeep synergy.
+2. the Heeled Temptress / Heeled Tempter → +4 Foot Attractiveness and seduction in heel-focused scenes; strong visual dominance tool. 
+   BDSM Synergies: +5 to heel-specific domination or worship (heel commands add +4 Seduction). Aftercare: Foot ritual with oils. Corruption scaling: +5 if heels central. Size compatibility: Dryads +2 vine-heel. Cross-system: Ultimate Inventory_Master footwear integration.
+3. the Public Prize → +3 to faction reputation in decadent circles; +2 scandal risk but high value as display asset. 
+   BDSM Synergies: +4 to public performance or exhibition scenes (prize display adds +4 reputation). Aftercare: Private debrief. Corruption scaling: +4 if performed. Size compatibility: Giants +4 massive. Cross-system: High value in Economy_Trade_System rental.
+4. the Aftercare Devotee → +4 to Aftercare and loyalty building rolls; near-zero Defiance drift with routine care. 
+   BDSM Synergies: +5 to aftercare bonding and recovery scenes (devotee state adds +5 emotional). Aftercare: Extended devotee ritual. Corruption scaling: +4 per session. Size compatibility: Dryads +4 nature-rooting. Cross-system: Ultimate loyalty in Sex_BDSM_System.
+5. the Size Queen / Size King → +4 to size-mismatch accommodation without magic; +3 pleasure synergy in extreme scenes. 
+   BDSM Synergies: +5 to size play or extreme insertion scenes (size acceptance adds +4 intensity). Aftercare: Gentle stretching. Corruption scaling: +5 if extreme. Size compatibility: Orcs/Giants +4 natural. Cross-system: Breeding synergy with Pregnancy_Breeding_Rules.
+6. the Defiance Breaker → +4 to Defiance suppression and rebellion prevention; strong for high-risk slaves. 
+   BDSM Synergies: +5 to breaking or total surrender scenes (breaker state adds +5 control). Aftercare: Breaker affirmation. Corruption scaling: +5 if broken. Size compatibility: Orcs +3 rage. Cross-system: Rebellion prevention in Legacy_Tracker.
+7. the Luxury Pet → +3 General Attractiveness and owner status; requires constant high-tier upkeep from Property_Ledger. 
+   BDSM Synergies: +4 to luxury display or pampered pet scenes (pampering adds +4 status). Aftercare: Full luxury ritual. Corruption scaling: +4 if pampered. Size compatibility: Giants +4 massive. Cross-system: Direct Property_Ledger cost and benefit.
+8. the Blood-Bound → +3 to ritual or blood magic synergy; heirs start with elevated Corruption. 
+   BDSM Synergies: +4 to ritualistic or blood-play scenes (blood element adds +4 ritual). Aftercare: Blood cleansing. Corruption scaling: +5 permanent. Size compatibility: Orcs +3 blood. Cross-system: Legacy_Tracker bloodline elevation.
+9. the Ritual Thrall → +4 to Magic_System ritual assistance; backlash risk shared with owner. 
+   BDSM Synergies: +5 to ritual-integrated BDSM scenes (ritual adds +5 magic). Aftercare: Shared backlash care. Corruption scaling: +5 if ritualized. Size compatibility: Elves +4 grace. Cross-system: Magic_System synergy.
+10. the Generational Gift → +4 to Legacy_Tracker heir quality; reduced generational Defiance but accelerated founder aging. 
+    BDSM Synergies: +4 to breeding-focused or legacy scenes (gift state adds +4 heir potential). Aftercare: Generational blessing. Corruption scaling: +4 breeding. Size compatibility: Dryads +4 nature. Cross-system: Direct Legacy_Tracker integration.
+11. the Eternal Slave → +3 to longevity ritual success; demands perfect maintenance or rapid withering. 
+    BDSM Synergies: +4 to endurance or eternal service scenes (eternal adds +4 duration). Aftercare: Longevity potion. Corruption scaling: +4 eternal. Size compatibility: Elves +4 grace. Cross-system: Aging mechanics in Legacy_Tracker.
+12. the Corruption Vessel → +4 to Sexual Corruption gain rate for both parties; high risk of obsessive loyalty or rebellion flip. 
+    BDSM Synergies: +5 to corruption-inducing or transformative scenes (vessel adds +5 Corruption). Aftercare: Vessel stabilization. Corruption scaling: +6 per scene. Size compatibility: All races +2. Cross-system: Corruption tracking acceleration.
+13. the Pain Ecstatic → +4 to pain/pleasure conversion; +3 Trauma resistance but visible marks as status symbols. 
+    BDSM Synergies: +5 to intense pain or ecstatic suffering scenes (ecstatic adds +5 conversion). Aftercare: Pain soothing. Corruption scaling: +5 pain. Size compatibility: Orcs +4 tough. Cross-system: Trauma resistance boost.
+14. the Breeding Champion → +4 to Pregnancy_Breeding_Rules success and heir quality; high resource demands. 
+    BDSM Synergies: +5 to breeding or impregnation-focused scenes (champion adds +5 yield). Aftercare: Breeding recovery. Corruption scaling: +5 breeding. Size compatibility: Dryads +4 nature. Cross-system: Direct Pregnancy_Breeding_Rules integration.
+15. the Heir Bearer → +3 to bloodline stabilization; strong for Phase 3-4 campaigns. 
+    BDSM Synergies: +4 to heir-producing ritual scenes (bearer adds +4 stability). Aftercare: Heir blessing. Corruption scaling: +4 heir. Size compatibility: Giants +2 massive. Cross-system: Legacy_Tracker stabilization.
+16. the Court Favorite → +4 to noble court reputation and intrigue bonuses. 
+    BDSM Synergies: +4 to courtly or elegant domination scenes (favorite adds +4 intrigue). Aftercare: Court debrief. Corruption scaling: +4 courtly. Size compatibility: Elves +4 grace. Cross-system: Noble court mechanics.
+17. the Black Market Star → +4 to Economy_Trade_System value when sold or rented; high escape risk if not secured. 
+    BDSM Synergies: +4 to high-value rental or performance scenes (star adds +4 value). Aftercare: Market recovery. Corruption scaling: +4 performance. Size compatibility: Goblins +4 sneaky. Cross-system: Economy_Trade_System value.
+18. the Faction Darling → +4 with specific decadent factions; –4 with opposing ones. 
+    BDSM Synergies: +5 to faction-specific ritual or display scenes (darling adds +5 faction). Aftercare: Faction reaffirmation. Corruption scaling: +5 faction. Size compatibility: Dryads +4 nature. Cross-system: Faction_Reputation_System swings.
+19. the Legacy Anchor → +4 to bloodline stability; founder gains temporary aging delay. 
+    BDSM Synergies: +4 to legacy-building or succession scenes (anchor adds +4 stability). Aftercare: Anchor ritual. Corruption scaling: +4 legacy. Size compatibility: Giants +4 massive. Cross-system: Legacy_Tracker anchor effect.
+20. the Pleasure Sovereign → +4 to all domination and pleasure rolls in owned estates. 
+    BDSM Synergies: +5 to sovereign-level control or harem scenes (sovereign adds +5 control). Aftercare: Sovereign praise. Corruption scaling: +5 sovereign. Size compatibility: Orcs +4 primal. Cross-system: Estate_Management dominance.
+21. the Total Surrender → +5 to total loyalty and Defiance suppression; near-zero rebellion risk with maintenance. 
+    BDSM Synergies: +6 to complete surrender or mind-break scenes (surrender adds +6 loyalty). Aftercare: Total surrender bonding. Corruption scaling: +6 surrender. Size compatibility: Dryads +5 nature. Cross-system: Rebellion elimination in Legacy_Tracker.
+22. the Orgasmic Thrall → +4 to orgasm control and multi-orgasm synergy; strong Corruption accelerator. 
+    BDSM Synergies: +5 to orgasm control, forced orgasm, or denial scenes (thrall adds +5 control). Aftercare: Orgasm recovery. Corruption scaling: +6 orgasm. Size compatibility: Elves +4 graceful. Cross-system: Orgasm mechanics in Sex_BDSM_System.
+23. the Heir Producer → +4 to multi-heir quality and quantity; ties directly to Legacy_Tracker. 
+    BDSM Synergies: +5 to repeated breeding or fertility scenes (producer adds +5 quality). Aftercare: Producer blessing. Corruption scaling: +5 breeding. Size compatibility: Giants +4 massive. Cross-system: Direct Legacy_Tracker multi-heir.
+24. the Scandalous Icon → +4 to decadent reputation; massive scandal risk that can be leveraged for power. 
+    BDSM Synergies: +5 to scandalous or taboo public scenes (icon adds +5 leverage). Aftercare: Scandal management. Corruption scaling: +6 scandal. Size compatibility: Goblins +4 sneaky. Cross-system: Scandal power in Faction_Reputation_System.
+25. the Masterpiece Pet → +5 General/Foot Attractiveness with full luxury setup; ultimate display asset but extremely high upkeep cost. 
+    BDSM Synergies: +6 to artistic or perfected pet play scenes (masterpiece adds +6 aesthetic). Aftercare: Masterpiece maintenance. Corruption scaling: +6 pet. Size compatibility: Dryads +5 natural. Cross-system: Ultimate Inventory_Master and Property_Ledger cost/benefit.
+
+**Special Contextual Epithets (Tie to Specific Systems) + Racial Epithet Mechanics**
+Racial epithet mechanics stack with base epithet when race is known. Expanded with detailed BDSM synergies.
+
+- the Ash-Kissed (Emberfall origin) → +1 exotic attractiveness, faster Hygiene decay; +2 fire resistance in Crafting. In BDSM: +2 to fire/heat play scenes (heat adds +2 sensation). Aftercare: Cooling salve. Corruption scaling: +3 heat. Size compatibility: All +1. Cross-system: Crafting fire synergy. Racial Epithet Mechanics: Orc/Dwarf +1 extra fire endurance and heat play synergy (adds +2 pain conversion); Giant +2 massive heat visual impact (+1 intimidation); Goblin +1 sneaky fire trap (+1 sabotage); Dryad +1 natural ash wither resistance (+1 recovery); Gnome +1 gadget fire tool (+1 inventive); Elf +1 graceful fire dance (+1 Seduction).
+- the Storm-Scarred (Stormcrag origin) → +1 Foot Attractiveness in BDSM, +2 Defiance during travel; +2 Vehicle_System synergy. In BDSM: +3 to storm or weather-themed sensory scenes (storm adds +2 intensity). Aftercare: Storm calming. Corruption scaling: +3 storm. Size compatibility: All +1. Cross-system: Vehicle travel. Racial Epithet Mechanics: Giant +2 massive storm visual (+2 Intimidation); Orc +1 primal storm rage (+1 Combat); Dryad +1 natural storm leaf tremble (+1 anticipation); Elf +1 graceful storm pose (+1 grace); Goblin +1 sneaky storm escape (+1 Stealth); Gnome +1 gadget storm tool (+1 inventive); Dwarf +1 sturdy storm resistance (+1 Endurance).
+- the Fen-Whisperer (Shadowfen origin) → +2 Poison/Interrogation, +3 Medical_Trauma risk; +2 to swamp Survival. In BDSM: +2 to poison or toxin-enhanced sensation play (toxin adds +2 edge). Aftercare: Antidote care. Corruption scaling: +3 toxin. Size compatibility: All +1. Cross-system: Crime_Justice_System. Racial Epithet Mechanics: Goblin +2 sneaky toxin application (+2 sabotage); Dryad +1 natural fen sap toxin (+1 fluid); Orc +1 primal toxin rage (+1 pain); Giant +1 massive toxin visual (+1 display); Elf +1 graceful toxin dance (+1 Seduction); Gnome +1 gadget toxin tool (+1 inventive); Dwarf +1 sturdy toxin resistance (+1 Endurance).
+- the Golden Leash (Goldenweald origin) → +2 Economy_Trade_System when displayed, +4 scandal risk; +2 merchant reputation. In BDSM: +3 to luxury or wealth-display scenes (luxury adds +2 status). Aftercare: Golden polish. Corruption scaling: +3 luxury. Size compatibility: All +1. Cross-system: Trade value. Racial Epithet Mechanics: Gnome +2 inventive luxury gadget leash (+2 Crafting); Giant +2 massive golden visual (+2 Intimidation); Elf +1 graceful golden pose (+1 Attractiveness); Orc +1 raw golden tug (+1 dominance); Dryad +1 natural vine golden (+1 nature); Goblin +1 sneaky golden theft (+1 Stealth); Dwarf +1 sturdy golden chain (+1 durability).
+- the Frost Pet (Frostvein origin) → +2 cold resistance, pale skin attractiveness bonus; +2 cold Trauma resistance. In BDSM: +3 to ice or cold sensation play (cold adds +2 shiver). Aftercare: Warming ritual. Corruption scaling: +3 frost. Size compatibility: All +1. Cross-system: Cold Trauma. Racial Epithet Mechanics: Elf +2 graceful frost elegance (+2 grace); Dryad +1 natural frost leaf (+1 nature); Giant +1 massive frost visual (+1 display); Orc +1 primal frost rage (+1 pain); Goblin +1 sneaky frost slip (+1 Stealth); Gnome +1 gadget frost tool (+1 inventive); Dwarf +1 sturdy frost endurance (+1 Endurance).
+- the Eternal Pet (Elven high Corruption) → +3 to longevity ritual success, but +5 Defiance if aftercare is neglected (eternal beauty demands perfect maintenance). In BDSM: +4 to endurance or timeless service scenes (eternal adds +4 duration). Aftercare: Longevity care. Corruption scaling: +5 eternal. Size compatibility: Elf +2. Cross-system: Aging in Legacy_Tracker. Racial Epithet Mechanics (Elf only): +2 extra eternal grace and Corruption gain (+2 ritual); Dryad +1 grove-eternal tie synergy (+1 nature).
+- the Stone-Bound (Dwarven high Corruption) → +3 to Crafting_System and labor resistance, but +4 Defiance if luxury display is forced without custom heavy reinforcements. In BDSM: +3 to heavy restraint or stone/metal play (stone adds +3 durability). Aftercare: Stone polish. Corruption scaling: +4 stone. Size compatibility: Dwarf +2. Cross-system: Crafting. Racial Epithet Mechanics (Dwarf only): +2 extra stone durability in restraints (+2 Endurance); Giant +1 massive stone visual (+1 display).
+- the Rage-Breaker (Orcish high Corruption) → +4 to Intimidation and Combat dominance in BDSM scenes, +3 Defiance resistance from pain play, but +6 scandal risk in refined settlements. In BDSM: +5 to rage or primal dominance scenes (rage adds +5 intensity). Aftercare: Rage calming. Corruption scaling: +5 rage. Size compatibility: Orc +3. Cross-system: Combat. Racial Epithet Mechanics (Orc only): +3 extra primal rage power and size synergy (+3 dominance); Giant +1 massive rage visual (+1 Intimidation).
+- the Gearwhisper (Gnome high Corruption) → +3 to small Crafting or illusion tricks, +2 Defiance resistance from inventive tasks, but +5 boredom Defiance if understimulated. In BDSM: +3 to gadget or toy-enhanced scenes (gadget adds +3 inventive). Aftercare: Stimulus reward. Corruption scaling: +4 gadget. Size compatibility: Gnome +2. Cross-system: Crafting. Racial Epithet Mechanics (Gnome only): +2 extra inventive gadget creativity in scenes (+2 Crafting); Goblin +1 sneaky gadget twist (+1 Stealth).
+- the Towerlord (Giant high Corruption) → +5 to Intimidation and heavy labor, massive size advantages in scenes, but +10 Defiance and custom upkeep costs for any non-giant-scale luxury items. In BDSM: +6 to size-difference or crushing dominance scenes (tower adds +6 power). Aftercare: Giant-scale care. Corruption scaling: +6 tower. Size compatibility: Giant +4. Cross-system: Labor. Racial Epithet Mechanics (Giant only): +4 extra massive size dominance and visual impact (+4 Intimidation); Orc +1 primal size synergy (+1 Combat).
+- the Snickerpet (Goblin high Corruption) → +3 to Stealth/sabotage, +2 Defiance resistance from chaotic tasks, but +7 Defiance if bored and higher risk of petty theft. In BDSM: +3 to mischievous or trickster play (snicker adds +3 chaos). Aftercare: Chaos channel. Corruption scaling: +4 snicker. Size compatibility: Goblin +2. Cross-system: Stealth. Racial Epithet Mechanics (Goblin only): +2 extra sneaky chaotic twists and escape attempts (+2 Stealth); Gnome +1 inventive chaotic gadget (+1 Crafting).
+- the Grovebound (Dryad high Corruption) → +3 to nature magic/Breeding, +4 Attractiveness in natural settings, but +8 Defiance and withering risk if separated from groves. In BDSM: +4 to nature or plant-based bondage scenes (grove adds +4 natural). Aftercare: Rooting ritual. Corruption scaling: +5 grove. Size compatibility: Dryad +3. Cross-system: Nature magic. Racial Epithet Mechanics (Dryad only): +3 extra living plant synergy and natural fluid play (+3 Breeding); Elf +1 graceful grove grace (+1 Attractiveness).
+
+================================================================
+SOCIAL CLASS MODIFIERS
+================================================================
+Lowborn / Slave Names (add “-a”, “-us”, or diminutives for owned slaves)
+- Examples: Garrick → Garricka, Thorne → Thornie, Briar → Briara, Grul → Grula, Aelrindel → Aelrindela, Durin → Durinna, Thragor → Thragora, Pimwick → Pimwicka, Hargun → Harguna, Zikzik → Zikzika, Willowthorn → Willowthorna
+- Mechanical: Starting Defiance +3–8 unless owner grants a “proper” name via luxury gift or ritual (reduces by 4–10 with proper aftercare).
+
+Freeborn Citizen Names
+- Add modest titles: “of the Vale”, “the Miller”, “the Tanner”, “of Gurt”, “of Moonstone”, “of Blackcrag”, “of Shadowfen”, “the Eternal”, “the Stoneheart”, “the Bloodfang”, “the Gearwhisper”, “the Towerlord”, “the Snickerpet”, “the Grovebound”
+- Mechanical: Neutral starting reputation; +1 to local trade checks.
+
+Noble / Highborn Names
+- Add “von”, “de”, “Lord/Lady”, or house names (e.g., Lord Valerian Silken, Lady Seraphine Roseveil, Lord Ember Pyre of Emberfall, Lady Aeloria Moonwhisper, Lord Durin Stonehammer, Lord Thragor Bloodfist, Lord Pimwick Glowforge, Lord Hargun Towering, Lord Zikzik Sniksnik, Lady Willowthorn Bloomveil)
+- Mechanical: +2 to Diplomacy/Intimidation with noble factions; +1 scandal risk per public BDSM display involving the named individual.
+
+================================================================
+RACIAL FLAVOR ADDITIONS (Mix with above tables)
+================================================================
+Human: Standard tables above.
+Elf: Use dedicated Elven Racial Name Tables above and add melodic suffixes (–ara, –iel, –lyn, –thara) – e.g., Lysandriel, Vesperaelyn, Seraphara, Aelrindel Moonwhisper the Eternal Pet
+Dwarf: Use dedicated Dwarven Racial Name Tables above and shorten/harden as needed – e.g., Durinna Stonehammer the Polished, Brokk Ironfist the Well-Broken
+Orc/Half-Orc: Use dedicated Orcish Racial Name Tables above and add guttural prefixes/suffixes (Gr-, Kr-, Thrag-, -gash, -ash) – e.g., Thragor, Kravenna, Grulthrag, Gorg Bloodfist the Rage-Breaker
+Gnome: Use dedicated Gnome Racial Name Tables above, often with whimsical compounds – e.g., Pimwick Glowforge the Gearwhisper, Brindy Glowthread the Polished
+Giant: Use dedicated Giant Racial Name Tables above, with imposing descriptors – e.g., Thrymrek Ironcrush the Towerlord, Bryndra Frosthair the Rage-Breaker
+Goblin: Use dedicated Goblin Racial Name Tables above, with sharp hissing sounds – e.g., Zikzik Sniksnik the Snickerpet, Grixa Bliknik the Gearwhisper
+Dryad: Use dedicated Dryad Racial Name Tables above, with organic/plant elements – e.g., Willowthorn Bloomveil the Grovebound, Ivybloom Fernshade the Eternal Pet
+Beastkin/Tiefling: Add animal or infernal tones – e.g., Fangthorn, Shadowtail, Hellrose, Demonveil, Bloodfang
+
+================================================================
+QUICK GENERATION METHOD
+================================================================
+1. Roll d20 for Barony/Region or Settlement.
+2. Roll d20 for Gender presentation and pick first name (or use dedicated racial table if flavor chosen).
+3. Roll d20 for Surname, Descriptor, or Class modifier.
+4. Optionally add racial flavor (including full Elven, Dwarven, Orcish, Gnome, Giant, Goblin, or Dryad tables) or social prefix/suffix and settlement origin.
+5. Apply mechanical name effects based on barony/settlement and race.
+6. Roll or choose 1 epithet for notable deeds, apply its detailed BDSM synergies, and add expanded racial epithet mechanics if the race is known or revealed.
+7. If generating a slave, apply Lowborn diminutive and note potential Defiance impact + aftercare requirements (custom sizing and environment needs for gnome/giant/goblin/dryad slaves).
+
+Example Full Names:
+- Grula Ironcrush the Well-Broken (Gurt slave – high BDSM bonus with detailed breaking synergies, reduced Defiance with aftercare)
+- Lady Seraphine Roseveil the Heeled Temptress and the Pain Ecstatic (Moonstone noble – +3 Seduction, +4 pain/pleasure synergy with fully detailed heel and pain scene interactions, scandal risk)
+- Aeloria Moonwhisper the Eternal Pet (Elven pleasure slave in Moonstone – +3 longevity ritual with expanded racial eternal grace and detailed timeless service synergies, demands perfect luxury upkeep)
+- Durinna Stonehammer the Polished (Dwarven crafter in Deepvein Hold – +3 Crafting bonus, labor resistance but footwear challenges with expanded racial stone durability and polished synergies)
+- Thragor Bloodfist the Rage-Breaker (Orcish raider in Thornhaven – +4 Intimidation in dominance scenes with expanded racial primal rage and detailed rage synergies, high rebellion risk if not firmly controlled)
+- Pimwick Glowforge the Gearwhisper (Gnome tinkerer in Silkweave – +3 small Crafting/illusions with expanded racial inventive gadget and detailed gadget synergies, needs stimulating tasks)
+- Thrymrek Ironcrush the Towerlord (Giant laborer in Gurt – +5 Intimidation/labor with expanded racial massive size and detailed size synergies, requires massive custom luxury items)
+- Zikzik Sniksnik the Snickerpet (Goblin scavenger in Shadowfen – +3 Stealth/sabotage with expanded racial sneaky twist and detailed chaotic synergies, high boredom Defiance risk)
+- Willowthorn Bloomveil the Grovebound and the Milking Prize (Dryad in Verdant Hollow – +3 nature magic/Breeding with expanded racial sap synergy and detailed nature/breeding synergies, withering risk if kept urban)
+- Cinder Scorchvein the Ash-Kissed (Emberfall crafter – fire Crafting bonus, Hygiene management needed with expanded racial fire endurance and detailed heat synergies if Orc/Dwarf)
+- Murk Whisperfen the Fen-Whisperer (Shadowfen ritualist – Interrogation bonus, Trauma risk with expanded racial toxin and detailed toxin synergies if Goblin)
+
+================================================================
+EXPANSION NOTES
+================================================================
+Future updates will add more racial variants (beastkin, tiefling, etc. full tables), bloodline surname inheritance rules (for Legacy_Tracker integration), random epithets tied to Sexual Corruption level or notable deeds, and example filled name lists for quick NPC creation.
+
+We will expand this generator together with more names, tables for offspring, and mechanical ties to Random_Npc_Generator.txt.
+
+Update Log:
+- Version 2.9 – Detailed epithet BDSM synergies for every single epithet across all categories with specific scene-type interactions, aftercare requirements, Corruption scaling, Defiance drift modifiers, size compatibility notes, and cross-system ties to Inventory_Master, Property_Ledger, Sex_BDSM_System, Pregnancy_Breeding_Rules, and Legacy_Tracker. All previous content from Version 2.8 preserved verbatim, including all name tables, racial sections, social class modifiers, quick generation method, and expansion notes.
+
+You can now copy and paste the entire block above directly into your file named Random_Name_Generator.txt.
+
+</Random_Name_Generator.txt>

@@ -1,0 +1,483 @@
+<Bestiary_Shattered_Principalities.txt>
+
+BESTIARY_SHATTERED_PRINCIPALITIES - Version 1.0 (Grimdark Erotic Fantasy, 70 AE)
+
+Core Philosophy
+The wilderness between the five baronies teems with horrors born from the Sundering War's magical fallout, necromantic experiments gone wrong, and planar entities that slipped through rifts during the cataclysm. Seventy years later, these creatures have infested ancient ruins, polluted industrial zones, and the dreams of the corrupted. 
+
+Unlike standard beasts, many require the specific mechanics of the Shattered Principalities to harm or bind—Sundering Horrors carry mutations that interact with Body trait systems, Planar Entities demand BDSM-style binding rituals to control, and Undead variants feed on Defiance and Sexual Corruption. This bestiary integrates directly with Combat_Rules v1.7 (grapple/erotic combat), Magic_System v1.13 (binding rituals), and BDSM_Restraints_and_Pleasure_Gear.txt (specialized containment).
+
+================================================================
+SUNDERING HORRORS (Mutated Beasts)
+================================================================
+Chimeric abominations blending traits of the eight races in grotesque combinations. Created by pre-Sundering magical warfare and lingering planar contamination.
+
+The Amalgam (Common Sundering Horror)
+Size: Large (6–7 feet tall, 300–400 lbs)
+HD: 5d10+15 (42 HP)
+AC: 15 (natural armor)
+Speed: 30 ft
+Resistances: Non-magical weapons
+Weaknesses: Purified silver (Alchemy-crafted weapons)
+
+Body Traits (Grotesque):
+- Mixed racial features (roll d8: 1=Human arms, 2=Orc jaw, 3=Elf ears, 4=Dwarf torso, etc.)
+- Genital Compatibility: Variable 1–7 (changes monthly due to unstable flesh)
+- Scent: 95 (overpowering stench of rot and ozone) / Hygiene: 100 (inverted scale, maximum filth)
+
+Attacks:
+- Multi-Limb Grapple: +7 to hit, reach 5 ft. On hit, target Restrained (Combat_Rules v1.7). Amalgam gains advantage on Defiance checks against grappled targets.
+- Corrosive Touch: 2d6 acid damage + DC 14 Con save or –2 to Attractiveness permanent (scarring)
+
+Special Mechanics:
+- Unstable Anatomy: Critical hits cause mutation spray—attacker must save DC 12 or gain random Body trait shift (±10 points) over next 1d4 days
+- BDSM Vulnerability: While Restrained by living vine restraints (BDSM_Restraints_and_Pleasure_Gear.txt), loses Multi-Limb Grapple ability
+
+Tactics: Ambushes from ruins, grapples prey to immobilize then dissolve with acid. Often found guarding Sundering-era caches.
+
+Harvest: Amalgam glands worth 50–150 gp (Alchemy_Consumables reagents); chimeric skin grants +1 to Disguise checks if worn (shifts to match viewer's fears)
+
+---
+
+The Mating-Beast (Rare Sundering Horror)
+Size: Huge (8–10 feet, 600+ lbs)
+HD: 8d10+24 (68 HP)
+AC: 16 (thick hide)
+Speed: 40 ft
+Resistances: Fire, cold
+Weaknesses: Chastity—cannot harm targets with 0 Sexual Corruption (pure victims)
+
+Body Traits:
+- Exaggerated sexual characteristics of multiple races simultaneously
+- Genital Scale: 7/7 (giant-sized but functional for all races due to planar warping)
+- Corruption Aura: 30 ft radius, DC 15 Wis save or +10 Sexual Corruption for 1 hour
+
+Attacks:
+- Crushing Mount: DC 18 Str save or pinned (prone and restrained). Automatic 3d6 bludgeoning + 1d6 psychic (humiliation trauma) per round pinned.
+- Seed Spray: Ranged 20 ft, DC 16 Con save or infected with Planar Contagion (see Medical_Trauma.txt, disease DC 24)
+
+Special Mechanics:
+- Corruption Synergy: Targets with 60+ Sexual Corruption suffer –4 to saves against its attacks but gain +2 Pleasure Points if they "submit" voluntarily (complex moral choice)
+- Binding Weakness: Requires ritualized BDSM "denial" scene to harm—must be brought to edge of pleasure (PP accumulation) then denied release, causing 2d10 psychic damage per round of denial
+- Fertility Blessing/Curse: Pregnant targets guaranteed mutant offspring (hybrid traits from Random_Npc_Generator, +25% mutation chance)
+
+Tactics: Hunts isolated travelers, especially those with high Corruption. Attempts to pin and impregnate/corrupt rather than kill immediately.
+
+Harvest: Essence vials worth 300–800 gp for fertility rituals; hide creates armor granting +2 to Seduction but –2 to Intimidation (overwhelming pheromones)
+
+================================================================
+PLANAR ENTITIES (Demons & Summoned Beings)
+================================================================
+Creatures from beyond the material plane that require specific binding rituals to control or banish. Many feed on pleasure, pain, or Defiance itself.
+
+The Lust-Demon (Succubus/Incubus Variant)
+Size: Medium (appears as attractive member of viewer's preferred race)
+HD: 6d8+18 (45 HP)
+AC: 17 (natural charm)
+Speed: 30 ft, fly 60 ft
+Resistances: Psychic, charm magic
+Weaknesses: Iron collars consecrated to Broken Chain (holy BDSM restraints)
+
+Body Traits:
+- Adaptive: Matches observer's ideal Attractiveness (95+) and Scent preferences
+- Genital Compatibility: Perfect match (0 difference) to any partner due to shapeshifting
+- Sexual Corruption: 100 (maximum depravity, feeds on others' corruption)
+
+Attacks:
+- Draining Kiss: Grapple required (Combat_Rules). On successful kiss, target loses 1d6 maximum HP permanently, demon heals equal amount. Target gains +5 Sexual Corruption.
+- Domination Gaze: DC 16 Wis save or Charmed for 1 minute; while Charmed, subject views demon as ideal owner/master
+
+Binding Mechanics:
+- Cannot be killed by normal weapons; must be Bound through BDSM ritual combat
+- Binding Requirements: 
+  1. Grapple/restrain using silver-threaded restraints (BDSM_Restraints_and_Pleasure_Gear.txt, cost 200+ gp)
+  2. Successful Domination check (d20 + Cha + Seduction vs. demon's DC 18)
+  3. Bring demon to "submission" (accumulate 20+ Pleasure Points in scene)
+  4. Apply Binding Collar (Magic_System v1.13: Collar of Binding Obedience DC 26)
+- If binding fails: Demon breaks free, gains +20 HP, and becomes immune to that binder's attempts for 24 hours
+
+Controlled Benefits:
+- Bound demon serves as eternal pleasure slave (no Defiance, infinite endurance)
+- Risk: Weekly DC 20 Wisdom save for owner or become obsessed (Insanity Points from Medical_Trauma.txt)
+- Weekly upkeep: Must feed 1d4 Sexual Corruption points from victims or bound slaves, or demon turns on owner
+
+---
+
+The Defiance-Eater (Void Entity)
+Size: Large (shadowy, semi-corporeal)
+HD: 7d10+21 (59 HP)
+AC: 15 (ethereal)
+Speed: 40 ft, incorporeal movement through walls
+Resistances: Non-magical weapons, poison
+Weaknesses: High Defiance (feeds on submission, harmed by rebellion)
+
+Special Mechanics:
+- Defiance Drain: Touch attack (+6, 5 ft), DC 15 Wis save or lose 10 Defiance points (permanent reduction of Defiance floor). Entity heals 5 HP per 10 Defiance drained.
+- Paradox Vulnerability: Can only be harmed by targets with 76+ Defiance (Rebellious). Slaves with high Defiance deal normal damage; compliant slaves' attacks pass through harmlessly
+- Banishment Ritual: Requires group of high-Defiance slaves (3+ with 60+ Defiance each) to perform "Rebellion Ritual"—publicly renounce ownership while wearing Broken Chain symbols. Deals 3d10 psychic damage per round to entity
+
+Tactics: Haunts estates with well-managed slaves, draining their Defiance to create compliant, hollow shells. Avoids Freeborn League strongholds.
+
+Harvest: Crystallized Defiance (worth 100 gp per point drained to necromancers); used in Obedience Elixirs (Alchemy_Consumables)
+
+================================================================
+UNDEAD VARIANTS
+================================================================
+Famine Ghosts (Spectral Undead)
+Size: Medium (translucent, emaciated)
+HD: 4d8+8 (26 HP)
+AC: 13 (incorporeal)
+Speed: 30 ft, fly 30 ft
+Resistances: Necrotic, poison, psychic; immune to grapple (unless magical restraints)
+Weaknesses: Food/offerings (can be bargained with), consecrated pleasure (holy erotic rites of Silken Collar)
+
+Creation: Victims of 46 AE famine who died in debt bondage
+Body Traits:
+- Attractiveness: 10 (emaciated, horrifying)
+- Scent: 0 (hunger smell, causes –2 to all rolls of living within 10 ft)
+- Hygiene: Irrelevant (spectral)
+
+Attacks:
+- Starvation Touch: 2d6 necrotic damage + DC 13 Con save or begin starving (cannot benefit from food/water for 24 hours)
+- Debt Binding: DC 14 Wis save or target feels overwhelming obligation to provide for the ghost (must give away 10% of wealth per day or suffer –5 to all rolls from guilt)
+
+Special Mechanics:
+- Estate Haunting: Infests Property_Ownership locations, increasing daily Defiance drift by +5 (slaves feel guilty eating while ghost starves)
+- Exorcism: Must satisfy the debt contract that created them—either pay remaining debt to descendants (often impossible) or perform "Feast of the Dead" (Silken Collar ritual involving lavish BDSM display of abundance, costing 500+ gp in luxury goods)
+
+---
+
+Necrotic Pleasure Thralls (Constructed Undead)
+Size: Medium
+HD: 3d8+6 (19 HP)
+AC: 14 (stitched leather armor)
+Speed: 20 ft (stiff movement)
+Resistances: Poison, disease; immune to fatigue
+Weaknesses: Fire, "death scent" penalties (see Medical_Trauma)
+
+Creation: Magic_System v1.13 Necromancy—specifically Undead Pleasure Thrall ritual
+Body Traits:
+- Preserved at moment of death
+- Sexual Corruption: Fixed at 50 (halfway, obedient but not enthusiastic)
+- Defiance: 0 (permanently Broken)
+
+Attacks:
+- Tireless Service: No combat attacks unless commanded, but grants +4 to BDSM scene endurance checks (never tires, no safeword)
+- Chill of the Grave: Touch causes 1d6 cold damage to living partners (unpleasant but not harmful)
+
+Special Mechanics:
+- Maintenance: Requires weekly application of Corpse Preservation Elixir (Alchemy_Consumables v1.5, cost 40–120 gp) or decays (–1 to all physical stats per week, becomes useless at 0)
+- Defiance Inheritance: If used for breeding (some necromancers enable this via dark rituals), offspring have +20 starting Defiance and "Cursed Bloodline" trait (see Legacy_Tracker v1.2)
+- Detection Risk: Broken Chain church inquisitors automatically detect these on Property_Ownership inspections; causes immediate –30 reputation
+
+================================================================
+FACTION ENFORCERS (Templates)
+================================================================
+Crimson Watch Captain (Orc/Human hybrid common)
+HD: 6d10+18 (51 HP)
+AC: 18 (breastplate + shield)
+Class: Fighter/Enforcer Archetype
+Key Stats: Str 18, Dex 14, Con 16, Int 12, Wis 14, Cha 16
+
+Abilities:
+- Intimidating Presence: DC 15 Wis save or frightened for 1 minute (affects slaves within 30 ft, –5 Defiance if owner present)
+- Breaker: Advantage on BDSM motivation scenes to reduce Defiance by 10+ points (specialized training)
+- Equipment: Spiked Shield (Combat_Equipment.txt, +3 to Flagellation checks), Iron Collar of Command (reduces Defiance of nearby slaves by 5)
+
+Tactics: Leads slave-recovery raids, uses intimidation to prevent rebellion before combat starts. Favors public punishment displays.
+
+---
+
+Broken Chain Martyr (Suicide Agent)
+HD: 3d8+6 (19 HP)
+AC: 12 (unarmored, refuses protection)
+Special: Fanatical (immune to fear, charm, Seduction attempts)
+
+Abilities:
+- Liberation Strike: Upon death (or if reduced below 5 HP), explodes in 20 ft radius of magical backlash (Divine/Conjuration hybrid). All slaves in radius make Defiance check with advantage; on success, gain +20 Defiance immediately and Rebellion Chain triggers. All owners suffer –10 to Defiance management for 1 day.
+- Suicide Pact: If grappled, attempts to bite cyanide capsule (DC 18 Sleight of Hand to prevent)
+
+Tactics: Infiltrates estates disguised as slaves or merchants, triggers mass rebellion through martyrdom. Often carries pamphlets (Propaganda: +15 to Defiance of readers over 1 week).
+
+---
+
+Velvet Rose Assassin (Elf/Dryad common)
+HD: 5d8+10 (32 HP)
+AC: 16 (silk armor—counts as light, +2 to Seduction checks)
+Class: Courtesan/Rogue hybrid
+Key Stats: Dex 18, Cha 18
+
+Abilities:
+- Seductive Lethality: If target fails DC 16 Seduction save during "private scene," assassin can automatically critical hit with concealed weapon (dagger or poisoned needle)
+- Poisoned Kiss: Lipstick contains paralytic toxin (DC 14 Con save or paralyzed 1 minute—see Combat_Rules conditions)
+- Disguise Master: Can appear as any race/gender using Illusion magic or makeup, perfect for infiltrating pleasure houses
+
+Tactics: Uses Sex_BDSM_System mechanics to get close to targets, strikes during intimate moments. Leaves calling card (black rose) to signal Velvet Rose Society involvement.
+
+================================================================
+BINDING & BANISHMENT MECHANICS
+================================================================
+Planar entities and powerful undead cannot be destroyed by simple combat—they require ritualized binding using the BDSM and Magic systems.
+
+Ritual Combat Requirements:
+1. Grapple/Restrain: Entity must be physically restrained using appropriate gear (silver for demons, iron for undead, living vines for nature-spirits)
+2. Dominance Establishment: Accumulate Pleasure Points (PP) equal to entity's HD × 3 through scene combat
+3. Binding Check: Magic_System ritual (DC 20 + entity's HD) using appropriate school
+   - Demons: Conjuration or Enchanting
+   - Undead: Necromancy
+   - Nature-corrupted: Alteration
+4. Collar Application: Physical application of enchanted restraint (BDSM_Restraints_and_Pleasure_Gear) during the moment of "submission" (when PP threshold reached)
+
+Failure Consequences:
+- Natural 1 on binding check: Entity breaks free, gains +50% HP, and becomes immune to that specific ritual type for 30 days
+- Normal failure: Entity freed, usually hostile, gains 1d4 extra attacks next round
+- Backlash (Magic_System): Roll on Magic_Backlash_Table.txt v1.1 with +10 severity
+
+================================================================
+INTEGRATION WITH CORE SYSTEMS
+================================================================
+Combat_Rules v1.7: All creatures use grapple mechanics; Sundering Horrors require specific BDSM-style restraint to disable special abilities; Planar Entities transition from combat to BDSM scene mechanics for binding
+
+Magic_System v1.13: Binding rituals required for planar entities; necromantic creation rules for Undead variants; backlash risks when binding fails
+
+BDSM_Restraints_and_Pleasure_Gear.txt: Specialized restraints (silver-threaded, cold iron, living vine) required for different creature types; custom pleasure items effective against Corruption-feeding demons
+
+Medical_Trauma: Amalgam attacks cause mutation; Defiance-Eater causes psychological trauma; Famine Ghosts spread disease-like conditions (starvation curse)
+
+Slavery_and_Defiance_Core_Mechanics v1.8: Many creatures feed on or manipulate Defiance; Broken Chain Martyrs specifically trigger rebellion mechanics; Necrotic Thralls have fixed Defiance of 0
+
+Economy_Trade_System v1.26: Creature parts valuable for alchemy; live captures (especially planar entities) worth thousands for private collections or faction use
+
+Property_Ownership v1.7: Estate security upgrades (wards, patrols) prevent hauntings; certain creatures (Famine Ghosts) specifically target property management
+
+Random_Events_Table v1.15: These creatures appear in Rare Event rolls (13–20) during wilderness travel or estate complications
+
+================================================================
+HARVESTING & ECONOMICS
+================================================================
+Sundering Horror Parts:
+- Glands/reagents: Alchemy_Consumables prices ×2 for chimeric variants
+- Hide: Crafting_System armor with random racial bonus
+- Meat: Edible but 20% chance of mutation if consumed (Body trait shift)
+
+Planar Essence:
+- Bottled demon energy: 500–2000 gp for rituals or enchanted items
+- Bound demon service: 10,000+ gp for year-long contract (risky)
+
+Undead Components:
+- Bones: Necromancy reagents (see Alchemy_Consumables v1.5)
+- Preserved flesh: Medical study (Medicine skill advancement)
+- Spirit residue: Haunted items (cursed weapons that whisper, +2 damage but +5 daily Defiance to wielder)
+
+Update Log:
+- Version 1.0 – Initial creation of Bestiary_Shattered_Principalities. Includes Sundering Horrors (mutated beasts), Planar Entities (demons requiring BDSM binding), Undead Variants (famine ghosts, pleasure thralls), and Faction Enforcer templates. Full integration with Combat_Rules v1.7 (grapple/erotic combat), Magic_System v1.13 (binding rituals), BDSM_Restraints_and_Pleasure_Gear.txt, and Medical_Trauma systems. No prior content to preserve.
+
+You can now copy and paste the entire block above directly into your new file named Bestiary_Shattered_Principalities.txt.
+
+
+</Bestiary_Shattered_Principalities.txt>
+
+
+<Interrogation_Information_Extraction.txt>
+
+INTERROGATION_INFORMATION_EXTRACTION - Version 1.0 (Grimdark Erotic Fantasy, 70 AE - Shattered Principalities)
+
+Core Philosophy
+Information is the true currency of power in the Shattered Principalities—more valuable than gold or flesh. Seventy years of factional intrigue, black market dealings, and noble house conspiracies have refined interrogation into a dark art that blurs the line between pleasure and pain, compliance and betrayal. 
+
+Unlike standard BDSM motivation scenes (which reduce Defiance to increase productivity), interrogation targets the mind’s resistance to revealing secrets. It employs distinct mechanics: Willpower vs. Pain tolerance, information reliability checks, and the risk of creating damaged but useful double agents. This system integrates with Medical_Trauma.txt (psychological damage), Slavery_and_Defiance_Core_Mechanics.txt (breaking points), and Crime_Justice_System.txt (legal testimony).
+
+================================================================
+CORE MECHANICS: THE INTERROGATION CYCLE
+================================================================
+Every interrogation follows a three-phase cycle: Approach, Pressure, and Verification. Unlike combat or erotic scenes, the goal is not submission in the physical sense, but cognitive surrender—the breaking of mental walls while keeping the subject alive and potentially useful.
+
+Phase 1: Approach (Intelligence Gathering)
+Before physical contact, determine the subject’s psychological profile:
+- Primary Motivation: Roll Insight DC 15 or use Espionage skill to identify what the subject values most (family safety, physical comfort, pride, religious belief, fear of specific traumas)
+- Resistance Threshold: Calculate base Willpower (d20 + Wis modifier + relevant background bonuses)
+- Information Value: Determine what they know (GM assigns tiers: Minor gossip, Faction secrets, Critical blackmail, Strategic intelligence)
+
+Phase 2: Pressure (The Breaking)
+Choose methodology and engage in contested rolls:
+
+Physical Torture (Intimidation + Medicine)
+- Mechanics: d20 + Intimidation skill + equipment bonuses vs. subject’s Willpower + Constitution modifier
+- Duration: 10 minutes per "session"
+- Effects: On success, subject reveals information but gains 1d6 Insanity Points (Medical_Trauma.txt) and permanent +5 Defiance floor (hates interrogator)
+- Critical Success (beat by 10+): Subject breaks completely, reveals everything including hidden information, but suffers Major Psychological Trauma (permanent –2 to Wisdom, gains phobia of interrogator)
+- Failure: Subject resists, gains +10 temporary Willpower against future attempts for 24 hours, may lie (see False Confessions below)
+
+Pleasure Interrogation (Seduction + BDSM skills)
+- Mechanics: d20 + Seduction + Erotic Performance vs. subject’s Willpower + Sexual Corruption modifier (high Corruption makes this harder—they enjoy it too much)
+- Duration: 30–60 minutes per session
+- Effects: On success, subject reveals information while gaining +5 Sexual Corruption (becomes pliant to interrogator specifically, –10 Defiance toward them only)
+- Critical Success: Subject becomes obsessively loyal to interrogator (Stockholm Syndrome), reveals everything, and can be turned as a double agent
+- Failure: Subject recognizes manipulation, gains +15 Defiance, becomes immune to Seduction from that interrogator permanently
+
+Psychological Manipulation (Deception + Insight)
+- Mechanics: d20 + Deception vs. subject’s Insight DC
+- Method: False flag operations, convincing subject their faction abandoned them, "good cop" routine
+- Duration: Hours to days (requires multiple scenes)
+- Effects: Success reduces Willpower by 5 for future physical interrogation attempts; no physical trauma but requires high Intelligence (subject may outwit interrogator)
+- Critical Failure: Subject turns tables, feeds false intel to interrogator (see Counter-Espionage)
+
+Phase 3: Verification (The Problem of Lies)
+Information extracted under duress is unreliable. Roll Intelligence (Investigation) or Insight vs. DC set by subject’s Deception skill:
+- Success: Information verified as true (or identifies specific falsehoods)
+- Failure: Cannot determine truth; 50% chance information contains critical falsehood that endangers operations
+- Critical Success: Identifies not just truth, but what subject withheld (they reveal 80% but hide the crucial 20%)
+
+================================================================
+RESISTANCE & BREAKING MECHANICS
+================================================================
+Willpower Thresholds
+Unlike Defiance (which ranges 0–100), Willpower represents immediate mental resistance during interrogation:
+
+Willpower 1–5 (Broken): Already cracked, reveals information on any successful roll. Common in subjects who have already suffered Major Trauma.
+
+Willpower 6–12 (Vulnerable): Standard captive. Can be broken with 2–3 successful sessions.
+
+Willpower 13–20 (Trained): Agents, fanatics, or high-level faction members. Require specialized methods or 5+ sessions over days/weeks.
+
+Willpower 21+ (Fanatical): Broken Chain martyrs, Silken Collar inquisitors, House Whisperveil agents. May require magical interrogation or months of psychological manipulation.
+
+Breaking Points
+Each time a subject fails a Willpower save by 5+, they suffer a Breaking Point:
+- Immediate: Reveals current information tier
+- Permanent: –2 to future Willpower, gain 1d4 Insanity Points
+- Three Breaking Points: Subject becomes "Hollowed"—permanently compliant but useless for complex tasks (automation only, cannot be a double agent)
+
+False Confessions & Fabrication
+Under extreme physical torture (failed by 5+ on Verification check), subjects will invent information to stop pain:
+- Roll Deception (subject) vs. Insight (interrogator)
+- If subject wins: Feeds plausible but false intel that sends interrogators into ambushes or wastes resources
+- Detection: Requires external verification (days/weeks of investigation)
+
+================================================================
+SPECIALIZED TECHNIQUES
+================================================================
+The Velvet Glove (Pleasure Conditioning)
+Duration: 1–2 weeks
+Method: Isolate subject in luxury, provide only through sexual favors, deny basic human contact except via erotic service
+Mechanics: Daily Seduction checks (DC starts at 20, drops by 2 each day of isolation)
+Success: Subject develops Dependence (treats interrogator as sole source of comfort), Willpower drops by 10 permanently
+Risk: Subject may become useless as informant (too loyal to function objectively) or develops romantic obsession (dangerous if released)
+
+The Iron Maiden's Kiss (Pain/Pleasure Overlap)
+Requires: High skill in both Flagellation and Seduction
+Method: Subject brought to edge of pleasure, then pain applied at moment of climax, creating psychological association
+Mechanics: BDSM scene (accumulate 15+ PP) followed by immediate pain check (Intimidation DC 20)
+Effect: Subject gains "Conditioned Response"—can be triggered to recall information via specific stimulus (scent, phrase, touch)
+Risk: 25% chance of permanent sexual dysfunction or violent trauma response (attacks interrogator later)
+
+Chemical Interrogation (Alchemy + Medicine)
+Method: Use of "Truth Serums" (Obedience Elixirs variant from Alchemy_Consumables_and_Potions.txt v1.5)
+Mechanics: Subject drinks or is injected; makes Willpower saves at Disadvantage for 1 hour
+Effect: Cannot lie, but speaks in stream-of-consciousness (requires Intelligence check to parse useful intel from babbling)
+Side Effects: 1 in 6 chance of overdose causing permanent –3 Intelligence or addiction requiring daily doses
+
+The Long Game (Sleep Deprivation + Sensory Overload)
+Duration: 3–7 days
+Method: Subject kept awake via noise, light, uncomfortable positions; eventually hallucinates
+Mechanics: Subject gains 1 Insanity Point per day; after 3 days, Willpower halves but information becomes unreliable (50% is hallucination/fantasy)
+Use: Best for breaking fanatics or finding hidden psychological weaknesses
+
+Planar Interrogation (Magic_System v1.13)
+Method: Enter subject's dreams (Illusion school) or bind their soul for questioning (Necromancy)
+Mechanics: DC 25 ritual; subject gets no Willpower bonus (unconscious/soul-bound)
+Risk: Backlash causes interrogator to gain subject's traumatic memories (1d10 Insanity Points); subject may become possessed or soul-damaged (permanent –5 to all mental stats)
+
+================================================================
+COUNTER-INTERROGATION & RESISTANCE
+================================================================
+Trained Resistance
+Some NPCs (Velvet Rose assassins, Broken Chain cells, Whisperveil agents) have specific training:
+- Pain Conditioning: Take only half Insanity Points from physical torture; can fake compliance
+- The Dead Drop: Trained to provide false information that appears true (automatically feeds false intel on failed Verification checks)
+- Suicide Protocols: Hidden cyanide (DC 18 Sleight of Hand to detect/prevent); if captured, prefer death to interrogation
+
+Counter-Espionage
+If subject realizes they are being interrogated for specific information:
+- They may feed selective truths that implicate rivals
+- Broken Chain agents often carry "compromising Intel"—false secrets designed to make interrogators waste resources or attack wrong targets
+
+================================================================
+THE DOUBLE AGENT CREATION
+================================================================
+Successfully turned subjects become assets. Requires:
+1. Breaking (reducing Willpower to 5 or below via any method)
+2. Rebuilding (3+ successful "kindness" sessions restoring some Defiance but redirecting loyalty)
+3. Testing (verify they will betray former faction by demanding actionable intel that risks their life)
+
+Mechanics: 
+- Subject gains "Turned" trait: +10 Defiance toward former allies, –20 Defiance toward handler
+- Weekly loyalty check: d20 vs. DC 15; failure indicates relapse or secret communication with old faction
+- If caught communicating: Immediate Rebellion Chain activation (subject may attack handler or flee)
+
+Long-term Maintenance:
+- Must provide regular "rewards" (BDSM scenes, luxuries, or genuine affection) or Willpower recovers and subject may turn again
+- Risk: Turned agents often develop genuine affection mixed with hatred, creating dangerous emotional volatility
+
+================================================================
+INTEGRATION WITH CORE SYSTEMS
+================================================================
+Medical_Trauma.txt v1.0
+- Physical torture causes injuries (roll on Injury tables)
+- Psychological trauma accumulates Insanity Points
+- "Hollowed" subjects from breaking points require asylum care or euthanasia
+
+Slavery_and_Defiance_Core_Mechanics v1.8
+- Successful interrogation creates unique Defiance patterns: toward interrogator (negative, fear-based loyalty) vs. everyone else (high)
+- Turned agents trigger different Rebellion Chain risks (betrayal of former allies rather than escape)
+
+Crime_Justice_System v1.8
+- Legal testimony extracted under "excessive" torture (GM discretion) may be inadmissible in formal trials but admissible in faction arbitrations
+- Silken Collar church sanctifies "holy confession" methods; Broken Chain condemns all interrogation as sinful
+- Noble house courts accept torture-extracted testimony if performed by licensed "Truth Speakers" (guild certification, 500 gp license)
+
+BDSM_Restraints_and_Pleasure_Gear.txt
+- Specialized interrogation furniture: The Questioning Throne (DC 24 Crafting, grants +4 to Intimidation checks), Sensory Deprivation Hoods (+2 to psychological manipulation)
+- Enchanted restraints that cause pleasure on truth-telling, pain on lies (require Magic_System binding)
+
+Skills_Master_List.txt v1.12
+- New specialized skills: Interrogation (knowledge of techniques), Resistance (subject's ability to withstand), Torture (physical methods), Psychology (mental breaking)
+- Cross-training: High Medicine allows surgical torture (nerve manipulation); high Seduction allows pleasure interrogation; high Deception allows counter-interrogation
+
+Economy_Trade_System v1.26
+- Information brokers sell interrogation services: 100–1000 gp per session depending on subject difficulty
+- "Truth items" (enchanted collars, potions) black market prices 3× normal due to demand from noble houses
+
+================================================================
+EQUIPMENT & TOOLS
+================================================================
+Physical Interrogation Kit
+- Cost: 50–200 gp (Crafting: Blacksmithing + Leatherwork + Carving DC 20)
+- Contents: Precision blades (nerve manipulation), thumbscrews, branding irons, surgical needles
+- Bonus: +2 to Intimidation checks, +1 to Medicine checks for surgical torture
+
+Pleasure Interrogation Suite
+- Cost: 500–2000 gp (requires dedicated room in Property_Ownership)
+- Features: Adjustable lighting, scent dispensers (pheromones), comfortable restraint beds, privacy seals
+- Bonus: +4 to Seduction checks during interrogation, –2 to subject's Willpower (comfort lowers guard)
+
+Chemical Kit
+- Cost: 300–800 gp (Alchemy supplies)
+- Includes: Truth serums, stimulants to prevent sleep, muscle relaxants to prevent resistance
+- Risk: Overdose kills subject (lose information permanently)
+
+================================================================
+GRIMDARK IMPLEMENTATION
+================================================================
+- Interrogators often become contaminated by the act; cumulative Insanity Points from inflicting pain causes sadistic compulsions (must make DC 12 Wis save daily or seek out opportunities to interrogate even when unnecessary)
+- Successful information extraction may yield truth that destroys the interrogator (learning forbidden secrets about their own faction)
+- Subjects who survive often become broken pleasure slaves (high Corruption, low Willpower, perfect for BDSM service but useless for labor)
+- The most valuable interrogators are those who can extract information without leaving marks—keeping the subject's market value intact for resale after questioning
+
+Update Log:
+- Version 1.0 – Initial creation of Interrogation_Information_Extraction system. Provides detailed mechanics for physical torture, pleasure-based manipulation, and psychological breaking distinct from standard Defiance management. Includes Willpower thresholds, false confession mechanics, double agent creation, and integration with Medical_Trauma (psychological damage), Crime_Justice_System (legal testimony), and Magic_System (planar interrogation). No prior content to preserve.
+
+You can now copy and paste the entire block above directly into your new file named Interrogation_Information_Extraction.txt.
+
+
+</Interrogation_Information_Extraction.txt>

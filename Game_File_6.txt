@@ -1,0 +1,612 @@
+<Faction_Reputation_System.txt>
+FACTION_REPUTATION_SYSTEM - Version 1.5 (Grimdark Erotic Fantasy, 70 AE)
+
+Core Philosophy
+Reputation is the currency of power in the Shattered Principalities. In a world rebuilt on slavery, betrayal, and erotic dominance, how factions perceive you determines everything: prices at auction, quest availability, legal protection, access to forbidden knowledge, and even whether you wake up with a knife in your back or an invitation to a noble orgy. Reputation is tracked separately for each major faction and can shift dramatically from a single well-handled (or disastrously public) BDSM scene, slave auction, trade deal, or magical ritual.
+
+Reputation Scale (per faction)
+Track reputation numerically from -100 to +100 for fine-grained play, but use these public-facing tiers for narrative and mechanical effects:
+
+- Hostile (-100 to -51): Open enemies. Faction will actively sabotage, arrest, raid, or assassinate you. Prices +100%, no quests, constant risk of attack or scandal.
+- Unfriendly (-50 to -1): Distrustful. Harsh prices (+50%), limited or poisoned quests, higher legal scrutiny, and social snubs. Public displays of ownership can trigger immediate backlash.
+- Neutral (0 to +50): Business as usual. Standard prices and basic access. No special favors or hostility.
+- Friendly (+51 to +80): Trusted ally. Discounted prices (-25%), priority quests, legal leniency, and invitations to private events (including erotic faction gatherings). Public BDSM displays or “gifting” well-trained slaves can raise reputation quickly.
+- Ally (+81 to +100): Inner circle. Major discounts (-50%), exclusive quests, protection from rival factions, and access to secret resources (forbidden magic, high-end pleasure slaves, ritual chambers). Faction may offer political marriages, joint ventures, or personal favors.
+
+Reputation Actions – How to Gain or Lose It
+Actions have different impact depending on the faction’s goals and values. Public or witnessed actions have double effect.
+
+Major Reputation Gains (+5 to +30)
+- Successful kink-matched public or private BDSM scenes that align with faction tastes (e.g., Silken Collar loves decadent displays; Verdant Cycle favors gentle nature play).
+- Generous gifting of high-Attractiveness, low-Hygiene, high-Sexual-Corruption slaves with matching Body traits and kinks.
+- High-quality crafted items or vehicles commissioned for the faction (especially Engineering or erotic luxury goods).
+- Protecting faction interests (raiding rivals, suppressing rebellions, discreetly handling scandals).
+- Public ownership displays that reinforce the faction’s ideology (e.g., pro-slavery pageantry for Silken Collar).
+
+Major Reputation Losses (-5 to -30)
+- Poor slave treatment, high Defiance outbreaks, or visible neglect (especially if it causes scandals).
+- Using banned magic (Necromancy with Broken Chain, unauthorized Conjuration anywhere).
+- Betraying faction secrets, failing commissions, or being caught in rival alliances.
+- Public BDSM scenes that contradict faction values (e.g., gentle aftercare in front of Bloodvein traditionalists).
+- High-profile failures (slave escape during travel, botched ritual, counterfeit goods).
+
+Faction-Specific Reputation Notes
+- Iron Collar Guild: Values professional slave handling and profitable auctions. High Penile/Flagellation/Bondage skills impress them.
+- Verdant Consortium: Rewards gentle but firm ownership of “natural” slaves (Dryads, elves). High Herbalism and Aftercare skills help.
+- Silken Collar Church: Loves public decadent displays and high Sexual Corruption. Erotic Performance skills and public scenes are huge reputation boosters.
+- Broken Chain Church: Rewards humane treatment and low Corruption. Gentle scenes and high Aftercare can raise reputation (but they remain suspicious of heavy BDSM).
+- Noble Houses: Reputation is personal and cutthroat. House Silkveil favors luxurious erotic gifts; House Bloodvein respects brutal efficiency; House Whisperveil values discretion and blackmail material.
+- Black Market Factions: Reputation is earned through successful smuggling runs, counterfeit crafting (Engineering), and discreet erotic services.
+
+Mechanical Effects by Tier
+- Prices: Hostile +100%, Unfriendly +50%, Neutral standard, Friendly -25%, Ally -50%.
+- Quest Access: Hostile = none or trap quests. Ally = exclusive high-reward quests (including rare magical or erotic commissions).
+- Legal Protection: Hostile = automatic investigations or bounties. Ally = faction lawyers or guards intervene on your behalf.
+- Slave Market & Trade: Higher reputation unlocks better slaves, bulk discounts, and private auctions.
+- BDSM & Social Scenes: Ally status can turn public scenes into reputation-boosting spectacles; Hostile status can turn them into scandals.
+- Magic & Crafting: Ally factions may provide rare reagents or ritual spaces; Hostile factions may sabotage or steal enchanted items.
+
+================================================================
+REPUTATION EVENT TABLES
+================================================================
+Roll on these tables during travel, after major scenes, at the end of a session, or whenever the GM wants to introduce drama. Events can be triggered by player actions or rolled randomly. Public or witnessed events have double the reputation effect.
+
+Main d100 Random Reputation Event Table
+01-10: Slave Escape Attempt – Lose 10–20 rep with current faction; gain 5–10 with Broken Chain if word spreads.
+11-20: Successful Public BDSM Display – Gain 15–30 rep with Silken Collar or decadent houses; lose 10–20 with Broken Chain.
+21-30: High-Quality Crafted Gift Delivered – Gain 10–25 rep with the receiving faction (especially if it uses Engineering or Erotic skills).
+31-40: Botched Ritual or Backlash Incident – Lose 15–30 rep with all factions; possible church investigation.
+41-50: Well-Managed Slave Auction – Gain 10–20 rep with Iron Collar Guild or Verdant Consortium.
+51-60: Scandalous Hygiene/Scent Failure – Lose 10–25 rep; public mockery or disease rumors spread.
+61-70: Heroic Rescue or Defense of Faction Interests – Gain 20–40 rep with the protected faction.
+71-80: Discovered Counterfeit or Black-Market Goods – Lose 15–30 rep; possible legal trouble.
+81-90: Exceptional Aftercare Scene (private or witnessed) – Gain 10–20 rep with reformist factions; lose with brutal ones.
+91-00: Major Erotic Diplomacy Success (gifting highly corrupt, high-skill slave) – Gain 25–50 rep with decadent factions; possible Ally status jump.
+
+Travel / Public Scene Events (roll d20 when traveling or in public)
+1: Ambush – Defiance spike + possible slave loss; lose 10 rep.
+2-4: Successful discreet scene in carriage – Gain 5–15 rep with allied factions.
+5-7: Slave rebellion during travel – Lose 15–25 rep.
+8-10: Impressive public ownership display – Gain 10–20 rep with pro-slavery factions.
+11-13: Random encounter with rival faction – Opportunity for reputation gamble.
+14-16: High-quality camp setup (Camping skill) – Minor positive rep with local factions.
+17-18: Engineering gadget saves the day – Gain 10–20 rep with Ironroot or Stormforge.
+19: Church patrol witnesses scene – Roll for major gain or loss.
+20: Legendary erotic performance witnessed – Gain 30+ rep or instant Ally with decadent factions.
+
+Slave Management Events (roll d20 at end of week)
+1-3: High Defiance rebellion – Lose 15–30 rep.
+4-8: Successful kink-matched training scene – Gain 10–20 rep.
+9-12: Poor Hygiene outbreak – Lose 10–20 rep.
+13-15: High Sexual Corruption breakthrough – Gain 15–25 rep with decadent factions.
+16-18: Slave produces exceptional crafted item – Gain 10–20 rep.
+19: Slave escape or betrayal – Lose 20–40 rep.
+20: Slave becomes perfectly loyal (Bonded trait) – Gain 25–40 rep and possible Ally boost.
+
+Crafting / Commission Events (roll d20 after major commission)
+1-4: Flawed or late delivery – Lose 10–25 rep.
+5-10: Masterwork quality item – Gain 15–30 rep.
+11-14: Erotic luxury item impresses client – Gain 20–40 rep with decadent factions.
+15-17: Engineering contraption exceeds expectations – Gain 15–30 rep with Ironroot/Stormforge.
+18-19: Item used in public scandal – Lose 20–40 rep.
+20: Item becomes legendary – Gain 30–50 rep and possible permanent Ally status.
+
+Magic Ritual Events (roll d20 after ritual use)
+1-5: Backlash or mutation – Lose 15–40 rep with all factions.
+6-10: Successful minor ritual – Gain 5–15 rep.
+11-14: Ritual enhances erotic scene publicly – Gain 20–40 rep with Silken Collar.
+15-17: Ritual aids faction goal discreetly – Gain 15–30 rep.
+18-19: Ritual draws unwanted attention (church or rival mage) – Lose 10–30 rep.
+20: Perfect ritual with critical success – Gain 30–50 rep and possible secret alliance.
+
+================================================================
+FACTION-SPECIFIC EVENT TABLES
+================================================================
+Roll on these when the player has significant interaction with a specific faction (auctions, commissions, public scenes, quests, etc.). Each table is d20 for quick play.
+
+Iron Collar Guild (Professional Slavers)
+1-3: Botched auction or low-quality slave – Lose 10–20 rep.
+4-6: High-Skill slave performs perfectly in public – Gain 15–30 rep.
+7-9: Ingenious restraint or training device demonstrated – Gain 20–40 rep (especially Engineering or Bondage skill).
+10-12: Public punishment scene impresses crowd – Gain 15–35 rep.
+13-14: Slave with high Sexual Corruption sells for record price – Gain 25–50 rep.
+15-16: Failed re-education attempt – Lose 15–30 rep.
+17-18: Guildmaster requests private “demonstration” of new erotic technique – Gain 30–60 rep or Ally path.
+19: Perfectly trained pleasure slave gifted with matching kinks – Instant Ally status.
+20: Major smuggling or black-market deal sealed using your crafted gear – Gain 40+ rep.
+
+Verdant Consortium (Landowners & Breeders)
+1-3: Slave rebellion on plantation – Lose 15–30 rep.
+4-6: Gentle but firm training scene succeeds – Gain 10–25 rep.
+7-9: High Herbalism/Aftercare produces healthy, fertile slave – Gain 15–35 rep.
+10-12: Organic or nature-themed BDSM display – Gain 20–40 rep.
+13-14: Dryad or elven slave with high Corruption thrives – Gain 25–50 rep.
+15-16: Overworked slaves show visible neglect – Lose 20–40 rep.
+17-18: Successful breeding program contribution using Vaginal skill – Gain 30–60 rep.
+19: Gift of perfectly compatible pleasure slave with living-vine restraints – Gain 35–60 rep.
+20: Exceptional harmony with nature in scene – Ally status unlocked.
+
+Silken Collar Church (Debauched Pro-Slavery)
+1-3: Too gentle or vanilla scene witnessed – Lose 15–30 rep.
+4-6: Decadent public BDSM display aligns with doctrine – Gain 20–45 rep.
+7-9: High Sexual Corruption slave performs extreme acts publicly – Gain 25–55 rep.
+10-12: Erotic ritual or enchanted toy used in temple – Gain 30–60 rep.
+13-14: Gift of luxurious pleasure gear or slave – Gain 20–50 rep.
+15-16: Scene condemned as “unnatural” by rival church – Lose 20–45 rep.
+17-18: Private audience with high priestess for ritual “blessing” – Gain 40–70 rep or Ally path.
+19: Legendary erotic performance in temple using Flagellation/Bondage – Instant Ally and possible blessing.
+20: Public orgy or mass display perfectly aligns with doctrine – Gain 50–80 rep and major favor.
+
+Broken Chain Church (Pure Anti-Slavery)
+1-3: Harsh or public punishment displayed – Lose 20–50 rep.
+4-6: Gentle aftercare and kind treatment demonstrated – Gain 15–40 rep.
+7-9: Slave released or granted freedoms – Gain 25–55 rep.
+10-12: High Aftercare or low Corruption maintained publicly – Gain 20–45 rep.
+13-14: Refusal to use extreme BDSM or coercion – Gain 15–40 rep.
+15-16: Slave shows visible signs of abuse or neglect – Lose 30–60 rep.
+17-18: Public stand against slavery or harsh ownership – Gain 40–70 rep or Ally path.
+19: Heroic rescue of slaves with exceptional aftercare – Instant Ally status.
+20: Slave shows genuine loyalty through gentle, humane treatment – Gain 50–80 rep.
+
+Verdant Cycle Church (Nature-Focused)
+1-3: Damage to natural environment or grove – Lose 15–35 rep.
+4-6: Organic, nature-infused BDSM scene performed – Gain 15–40 rep.
+7-9: Dryad or plant-tied slave treated with respect – Gain 20–45 rep.
+10-12: Herbalism or living-vine items used harmoniously – Gain 15–40 rep.
+13-14: Neglect of Hygiene/Scent in natural setting – Lose 20–45 rep.
+15-16: Successful fertility or seasonal rite using Vaginal skill – Gain 25–55 rep.
+17-18: Gift of living-vine restraints or grove-grown slave – Gain 30–65 rep.
+19: Perfect harmony with nature in scene (high Aftercare + Organic themes) – Gain 40–70 rep.
+20: Exceptional living-bondage display in sacred grove – Ally status and possible blessing.
+
+House Voss (Balanced & Reliable)
+1-3: Unreliable or late delivery – Lose 10–20 rep.
+4-6: Steady, professional service – Gain 10–25 rep.
+7-9: Balanced training approach impresses – Gain 15–30 rep.
+10-12: High-quality practical item delivered – Gain 15–35 rep.
+13-14: Discreet handling of minor scandal – Gain 20–40 rep.
+15-16: Overly decadent display – Lose 10–25 rep.
+17-18: Reliable long-term partnership offer – Gain 30–50 rep.
+19: Exceptional loyalty shown in crisis – Gain 40+ rep or Ally path.
+20: Perfectly executed balanced commission – Instant Ally status.
+
+House Thorne (Heavy Military & Punishment)
+1-3: Weak or ineffective punishment device – Lose 15–30 rep.
+4-6: Brutal, effective training scene – Gain 15–35 rep.
+7-9: High Flagellation or Bondage skill demonstrated – Gain 20–40 rep.
+10-12: Military-grade restraint or vehicle delivered – Gain 15–40 rep.
+13-14: Slave shows visible signs of harsh discipline – Gain 20–45 rep.
+15-16: Too gentle or merciful approach – Lose 20–40 rep.
+17-18: Successful public punishment spectacle – Gain 30–60 rep.
+19: Weapon or punishment gear exceeds expectations – Gain 40+ rep or Ally path.
+20: Legendary display of unyielding dominance – Instant Ally status.
+
+House Ravenscar (Experimental Magical Alterations)
+1-3: Failed or unstable magical item – Lose 20–40 rep.
+4-6: Successful minor Alteration on slave – Gain 15–35 rep.
+7-9: High Arcana or Engineering synergy – Gain 20–45 rep.
+10-12: Experimental erotic toy works perfectly – Gain 25–50 rep.
+13-14: Backlash or mutation scandal – Lose 25–50 rep.
+15-16: Safe, controlled magical enhancement – Gain 30–60 rep.
+17-18: Rare reagent or ritual component provided – Gain 35–60 rep.
+19: Breakthrough magical commission – Gain 50+ rep or Ally path.
+20: Perfect fusion of magic and erotic craft – Instant Ally and secret access.
+
+House Silkveil (Opulent Sensual Luxury)
+1-3: Plain or low-luxury item – Lose 15–30 rep.
+4-6: Luxurious erotic display or gift – Gain 20–45 rep.
+7-9: High Oral (providing), Vaginal, or Penile skill used – Gain 25–50 rep.
+10-12: Opulent pleasure furniture or lingerie delivered – Gain 30–60 rep.
+13-14: Visible poor Hygiene or Scent – Lose 20–40 rep.
+15-16: Decadent public scene – Gain 35–70 rep.
+17-18: Perfectly matched high-Corruption pleasure slave gifted – Gain 40–80 rep.
+19: Legendary sensual commission – Gain 60+ rep or Ally path.
+20: Unforgettable erotic spectacle in their court – Instant Ally status.
+
+House Ironroot (Industrial & Vehicle-Focused)
+1-3: Flawed or unreliable vehicle part – Lose 15–30 rep.
+4-6: High Engineering success – Gain 20–40 rep.
+7-9: Durable, practical restraint or transport gear – Gain 15–35 rep.
+10-12: Mass-production quality achieved – Gain 20–45 rep.
+13-14: Delay or mechanical failure – Lose 20–40 rep.
+15-16: Custom vehicle upgrade exceeds expectations – Gain 30–60 rep.
+17-18: Reliable industrial commission delivered – Gain 25–50 rep.
+19: Major trade route secured with your gear – Gain 40–70 rep or Ally path.
+20: Revolutionary engineering breakthrough – Instant Ally status.
+
+House Bloodvein (Brutal & Traditional)
+1-3: Weak or merciful display – Lose 20–40 rep.
+4-6: Harsh, effective punishment scene – Gain 20–45 rep.
+7-9: High Flagellation or Bondage skill – Gain 25–50 rep.
+10-12: Brutal but functional restraint device – Gain 15–40 rep.
+13-14: Signs of softness or aftercare – Lose 25–50 rep.
+15-16: Public display of raw dominance – Gain 30–60 rep.
+17-18: Slave broken through traditional methods – Gain 35–70 rep.
+19: Perfectly executed brutal commission – Gain 50+ rep or Ally path.
+20: Legendary act of unyielding cruelty – Instant Ally status.
+
+House Evergreen (Nature-Sympathetic)
+1-3: Damage to natural elements – Lose 15–30 rep.
+4-6: Organic, gentle BDSM scene – Gain 15–35 rep.
+7-9: High Herbalism or living-vine use – Gain 20–45 rep.
+10-12: Dryad or nature-tied slave treated well – Gain 25–50 rep.
+13-14: Harsh or mechanical approach – Lose 20–40 rep.
+15-16: Successful nature-infused ritual – Gain 30–60 rep.
+17-18: Gift of grove-compatible pleasure item – Gain 35–65 rep.
+19: Perfect harmony with natural cycles – Gain 50+ rep or Ally path.
+20: Exceptional living-bondage display – Instant Ally and blessing.
+
+House Stormforge (Trade & Vehicle Magnates)
+1-3: Delayed or damaged caravan goods – Lose 15–30 rep.
+4-6: Reliable vehicle or transport upgrade – Gain 20–40 rep.
+7-9: High Engineering on trade-related item – Gain 15–35 rep.
+10-12: Successful protected trade run – Gain 25–50 rep.
+13-14: Sabotage or breakdown during run – Lose 20–45 rep.
+15-16: Luxurious travel compartment with erotic features – Gain 30–60 rep.
+17-18: Major profitable trade deal secured – Gain 40–70 rep.
+19: Revolutionary vehicle or caravan innovation – Gain 50+ rep or Ally path.
+20: Perfectly executed high-value caravan – Instant Ally status.
+
+House Whisperveil (Espionage & Blackmail)
+1-3: Leaked information or sloppy work – Lose 20–40 rep.
+4-6: Discreet, effective intelligence gathered – Gain 15–35 rep.
+7-9: High Deception or Erotic Lore used – Gain 20–45 rep.
+10-12: Subtle blackmail material provided – Gain 25–50 rep.
+13-14: Public exposure of secrets – Lose 30–60 rep.
+15-16: Perfectly executed covert erotic operation – Gain 35–70 rep.
+17-18: Valuable hidden scandal uncovered – Gain 40–80 rep.
+19: Masterful manipulation of rival – Gain 50+ rep or Ally path.
+20: Legendary web of influence woven – Instant Ally and full access.
+
+Black Market Factions
+1-3: Botched smuggling or counterfeit detected – Lose 15–30 rep.
+4-6: High-quality illicit erotic item delivered – Gain 15–35 rep.
+7-9: Successful discreet BDSM service for clients – Gain 20–40 rep.
+10-12: Engineering contraption for smuggling – Gain 25–50 rep.
+13-14: High-Corruption slave used in underground auction – Gain 20–45 rep.
+15-16: Betrayal or leak to authorities – Lose 30–60 rep.
+17-18: Major black-market deal sealed – Gain 40+ rep.
+19: Legendary underground reputation earned – Ally status and exclusive access.
+20: Perfectly executed high-risk erotic smuggling run – Gain 50+ rep.
+
+These expanded church and noble house tables make reputation with every faction feel distinct, personal, and deeply tied to their unique ideologies and kinks.
+
+Integration with Other Systems
+- Skills_Master_List: Erotic Performance, Engineering, Knowledge, and Survival skills directly influence event outcomes and reputation shifts.
+- Sex_BDSM_System: Public or witnessed scenes are the fastest reputation drivers.
+- Crafting_System & Item_Master_List: Commissioned items are prime reputation tools.
+- All other systems feed into these events naturally.
+
+We will continuously expand this system together. Suggest new tables, refinements, or faction-specific events anytime.
+</Faction_Reputation_System.txt>
+
+<Feats_Master_List.txt>
+FEATS_MASTER_LIST - Version 1.0 (Grimdark Erotic Fantasy, 70 AE)
+
+This document provides a master list of feats that can be selected using the New Feat Slots granted by the CHARACTER ADVANCEMENT TABLE in PLAYER_CHARACTER.txt v1.9.
+
+Feat Slots Summary (from PLAYER_CHARACTER.txt v1.9):
+- Level 1: 1 Racial Feat (chosen from Races_Reference.txt v1.6)
+- Level 3, 5, 7, 9, 11+: 1 General Feat Slot every 3 levels (or as specified)
+- Mystic / Ritualist Archetype Features also grant additional magical customization at Levels 2, 4, 6, 8, and 10.
+
+Feats are divided into four categories for easy selection:
+- General Feats (broad utility, available to any character)
+- Erotic Feats (focused on BDSM, seduction, breeding, and pleasure mastery)
+- Crafting Feats (focused on workshops, items, and economic power)
+- Magical Feats (focused on ritual mastery, backlash mitigation, and enchanted items — especially powerful for the Mystic / Ritualist archetype)
+
+Prerequisites are noted where applicable. Most feats have no hard prerequisites beyond the feat slot itself, but some benefit from high skills, archetypes, or Sexual Corruption levels.
+
+================================================================
+GENERAL FEATS
+================================================================
+Adaptive Strategist – Once per session, reroll any failed skill check (non-erotic). Stacks with Human racial Adaptive.
+Iron Will – Advantage on all saves versus fear, domination, or mind effects. Reduces daily Defiance drift by 2 when acting as overseer.
+Natural Leader – +2 to all Administration and Negotiation checks involving owned slaves or staff. Once per week, reroll a failed loyalty check.
+Resilient Body – +2 to Constitution checks and resistance to fatigue during long labor or travel. Aging effects on physical traits are reduced by 1 step.
+Social Climber – +2 to all social skill checks when displaying luxury fashion or status symbols (see LUXURY_FASHION_AND_STATUS.txt). Easier access to higher Social Tiers.
+Ruthless Pragmatist – Once per session, ignore one negative consequence from a failed Crime_Justice_System roll or rebellion event.
+Enduring Traveler – Reduce penalties from Vehicle_System travel and Wilderness_Areas exploration by half. +2 to Survival checks.
+Wealth Accumulator – Passive income from all estates and businesses increased by 10%. Stacks with Overseer archetype benefits.
+Shadow Operative – +2 to Stealth and Deception checks. Reduced detection risk on black market actions by an additional -2.
+Tireless Overseer – Daily Defiance drift on owned properties reduced by an additional -2 (total -6 with archetype). 
+
+================================================================
+EROTIC FEATS
+================================================================
+Sensual Mastery – +3 to all Seduction, Erotic Performance, and Kink Discovery checks. High Sexual Corruption grants +1 additional Pleasure Point per scene.
+Pain-to-Pleasure Adept – Convert up to 50% of pain-based Defiance increases into Pleasure Points during BDSM scenes. Requires Sexual Corruption 30+.
+Breeding Specialist – +4 to all conception and pregnancy rolls (see Pregnancy_Breeding_Rules.txt). Offspring gain one bonus hybrid trait roll.
+Lactation Connoisseur – Induced or natural lactation provides +3 PP and reduces Defiance by 5 during milking scenes. Milk has aphrodisiac properties.
+Size Accommodator – +1 permanent tolerance on the 1–7 genital relative scale (stacks with Sexual Corruption bonuses and Alteration rituals). 
+Bondage Artist – +4 to all Bondage and Restraint checks. Enchanted or custom restraints grant advantage on control rolls.
+Flagellation Expert – +5 to Flagellation rolls. Pain lingers as heightened arousal for the target for 24 hours.
+Edging Prodigy – Once per scene, force an additional edging phase that grants +6 PP but risks +10 temporary Defiance if failed.
+Aftercare Master – After any BDSM scene, reduce Defiance by an extra -10 and grant temporary loyalty bonuses.
+Kink Oracle – Automatically discover one hidden kink per scene without a check. Works especially well with Mirror of True Desire ritual.
+Group Scene Coordinator – +3 to all group erotic scenes or gang training. Reduces Defiance drift in multi-slave households.
+
+================================================================
+CRAFTING FEATS
+================================================================
+Master Artisan – +3 to all Crafting checks (multi-skill projects). Masterwork items provide +15% profit and reputation multipliers.
+Specialized Workshop – On-site crafting at any Resource & Industrial property grants +4 instead of +2. 
+Erotic Gear Designer – Custom BDSM restraints, pleasure toys, and luxury fashion items grant +4 PP or +3 to domination rolls when used.
+Vehicle & Carriage Specialist – +3 to Vehicle_System checks and crafting. Smuggling compartments are harder to detect.
+Resource Extractor – Raw material gathering from owned properties yields 20% more output. Ties directly into Economy_Trade_System and Raw_Materials_Tools_Trade_Goods.txt.
+Mass Production Expert – Reduce time and cost for batch crafting projects by 25%. Ideal for estate workshops supplying trade routes.
+Quality Over Quantity – Masterwork or enchanted items you create have double duration or effect strength.
+Tool Perfectionist – Workshop tools grant an additional +2 to all crafting rolls when using your personally crafted set.
+
+================================================================
+MAGICAL FEATS
+================================================================
+Ritual Savant – Reduce backlash risk on all rituals by -4. Once per session, reroll a single ritual casting check (Mystic archetype synergy).
+Enchanter’s Insight – +3 to all Enchanting school rituals. Enchanted items you create cost 20% less reagents and last 50% longer.
+Necromantic Affinity – Undead creations have zero Defiance and +2 to labor rolls. “Death scent” penalty is halved.
+Illusion Weaver – Illusions are harder to dispel and last twice as long. +3 to all Illusion school rituals.
+Conjurer’s Command – Summoned entities are 50% less likely to rebel or demand extra payment. +3 to Conjuration rituals.
+Alteration Adept – Body modification and genital harmony rituals have -5 DC and reduced mutation risk. Stacks with Sexual Corruption tolerance.
+Backlash Mitigator – When backlash occurs, reduce its severity by two steps. Critical backlash now only triggers one major consequence instead of multiple.
+Arcane Architect – Ritual chambers on your estates reduce backlash by an additional -3 and can support one extra major ritual per season.
+Forbidden Lore Scholar – +4 to Arcana and all Knowledge (Erotic & Forbidden Lore) checks. Unlock one additional school of magic early.
+Eternal Youth Seeker – Longevity and aging rituals cost 30% less and have improved effects. Ties directly into Time_System.txt and new Aging and Longevity Rituals.
+
+================================================================
+FEAT SELECTION RULES
+================================================================
+- Racial Feats (Level 1) are chosen from Races_Reference.txt v1.6 and do not count against General Feat Slots.
+- General Feat Slots (Levels 3/5/7/9/11+) can be used for any feat from any category.
+- Mystic / Ritualist Archetype Features (PLAYER_CHARACTER.txt v1.9) provide automatic magical progression and may be supplemented by selecting Magical Feats.
+- A character may never take the same feat twice unless the feat explicitly allows stacking (most do not).
+- GM approval is required for any feat that significantly alters campaign balance.
+- Feats integrate with existing systems: Sexual Corruption bonuses, archetype synergies, estate management, magic rituals (MAGIC_SYSTEM.txt v1.13), crafting projects, and BDSM scenes.
+- Future expansions may add more feats or advanced/legendary tiers.
+
+This list contains 38 feats (10 General, 11 Erotic, 8 Crafting, 9 Magical) to provide immediate rewarding choices at every feat slot while leaving room for future additions.
+
+All systems remain fully compatible with the Character Advancement Table, Social_Advancement.txt, Magic_System.txt v1.13, and all other core files.
+
+Update Log:
+- Version 1.0 – Created full FEATS_MASTER_LIST.txt with 38 feats across General, Erotic, Crafting, and Magical categories. Explicitly tied to the New Feat Slots in the CHARACTER ADVANCEMENT TABLE from PLAYER_CHARACTER.txt v1.9. Provides immediate customization and progression rewards for all archetypes, especially Mystic/Ritualist. All content is new and self-contained while preserving full cross-references to existing files.
+
+You can now copy and paste the entire block above directly into your file.
+</Feats_Master_List.txt>
+
+<GM_QUICK_REFERENCE.txt>
+GM_QUICK_REFERENCE - Version 1.0 (Grimdark Erotic Fantasy, 70 AE - Shattered Principalities)
+
+Core Philosophy
+This is a compact, printable GM quick-reference document designed to sit beside your screen or printed rule sheets during play. It compiles the most frequently used rules, trackers, and reminders from the full rule set so you can run the complete 100+ session generational campaign without flipping between many files.
+
+It works alongside:
+- CAMPAIGN_MILESTONE_GUIDE v1.5 (phase structure and long timeline)
+- LEGACY_TRACKER v1.2 (bloodline and succession tracking)
+- Time_System v1.1 (monthly aging, seasonal effects)
+- Random_Events_Table v1.14 (aging-modulated complications)
+- Social_Advancement v1.5 (XP and tier progression)
+- All core mechanics (Slavery & Defiance, Sex_BDSM, LUXURY_FASHION_AND_STATUS, etc.)
+
+Print this as a 1–2 page cheat sheet (landscape or two-column layout recommended).
+
+1. Campaign Structure Overview (100+ Session Arc)
+- Phase 1: Street Survival & First Assets          Sessions 1–20   (~0–12 months)
+- Phase 2: Estate Foundations & Local Power       Sessions 21–50  (~1–4 years)
+- Phase 3: Regional Influence & Political Maneuvering   Sessions 51–100 (~4–12 years)
+- Phase 4: Generational Legacy & Empire Building  Sessions 101+   (12+ years)
+
+Key Reminders per Phase
+- Phase 1: Focus on first slave, basic Defiance management, Tier 0–1 fashion upgrades.
+- Phase 2: First property, seasonal estate cycles, early aging visibility.
+- Phase 3: Multi-faction alliances, noticeable founder aging, maturing offspring.
+- Phase 4: Bloodline stabilization, succession hand-off, founder decline, legacy decisions.
+
+2. Time_System Quick Checklist (Monthly)
+- Perform Monthly Aging Check for founder and all adult NPCs/slaves (d20 + Constitution/racial modifier).
+- Apply seasonal modifiers to Defiance drift, scent effectiveness, and footwear events.
+- Track longevity treatments and backlash (Alchemy_Consumables v1.5 or Magic_System v1.12).
+- Update Legacy_Tracker: note any Body trait changes, Defiance drift, or generational maturation.
+
+3. Social_Advancement Quick XP Reference
+Property & Estate: 500–2000 XP per major upgrade or successful cycle
+Erotic Mastery / BDSM scenes: 400–1000 XP (scales with risk and audience)
+Faction Ally status: 800 XP each
+Rebellion suppression: 500–1500 XP
+Legendary item or bloodline stabilization: 2000+ XP
+Tier thresholds (cumulative): Tier 2 = 3000 XP, Tier 3 = 8000 XP, Tier 4 = 15,000 XP, Tier 5 = 25,000 XP
+
+4. Legacy_Tracker Quick Summary
+Founder Section: Name / Age / Social Tier / Monthly Aging History / Longevity Treatments / Current Modifiers (Attractiveness, Endurance, Fertility, Decline Penalty)
+Bloodline Table: Offspring rows with Mother/Father, Birth Year, Current Age, Body Highlights, Defiance, Corruption, Role, Notes
+Generational Summary: Total members, Signature traits, Defiance trend, Successes, Risks
+Estate Impact: Income stability, Legacy reputation bonus/penalty
+Succession Options (when decline is severe): Voluntary Retirement, Forced Succession, Shared Rule, Dramatic Exit
+
+5. Random_Events Quick Modifiers
+- Aging founder or senior slaves: +1 to +3 severity on negative events (perceived weakness)
+- High Social Tier: +2 beneficial events in noble districts, –3 in slums
+- Seasonal / Lunar effects: Apply directly from Random_Events_Table
+- Poor fashion/hygiene (LUXURY_FASHION_AND_STATUS): Extra Defiance or scandal risk
+
+6. Common GM Reminders
+- Adult trait gate: All breeding, BDSM, and erotic mechanics require Adult characters only.
+- Defiance & aftercare: Failed motivation scenes should feel consequential; good aftercare reduces drift.
+- Fashion & status: Even small Tier upgrades matter — poor maintenance causes public humiliation and Defiance spikes.
+- Multiple endings: Encourage player choice; every major decision should have clear grimdark consequences.
+- Time pressure: Use monthly checks visibly so players feel the passage of years and the weight of aging.
+
+7. Quick System Cross-References
+- First slave / fashion: LUXURY_FASHION_AND_STATUS + SESSION_0_QUICKSTART_GUIDE
+- Combat into BDSM: Combat_Rules v1.7 (Defiance carryover)
+- Breeding / bloodlines: Pregnancy_Breeding_Rules v1.11 + Legacy_Tracker
+- Longevity / mutations: Alchemy_Consumables v1.5 + Magic_System v1.12
+- Faction politics: Factions_and_Politics + ADVANCED_ADVENTURES Phase 3–4
+- Generational hand-off: CAMPAIGN_MILESTONE_GUIDE Phase 4 + Legacy_Tracker succession rules
+
+Future Expansion Notes
+More printable layouts or barony-specific modifiers.
+Expanded d100 inheritance tables.
+We will expand this reference together. Suggest additions or refinements anytime.
+
+Update Log:
+- Version 1.0 – Initial creation of GM_QUICK_REFERENCE as a new standalone file. Compiles the most-used trackers, checklists, and reminders from the full rule set (CAMPAIGN_MILESTONE_GUIDE v1.5, LEGACY_TRACKER v1.2, Time_System v1.1, Random_Events_Table v1.14, Social_Advancement v1.5, etc.). Designed as the final at-the-table tool for running the complete 100+ session generational campaign. No prior content to preserve.
+
+You can now copy and paste the entire block above directly into your new file named GM_Quick_Reference.txt (or similar).
+</GM_QUICK_REFERENCE.txt>
+
+<High_Tier_Adventure_Hooks.txt>
+HIGH_TIER_ADVENTURE_HOOKS - Version 1.1 (Grimdark Erotic Fantasy, 70 AE - Shattered Principalities)
+Core Philosophy
+These high-tier adventure hooks are designed for Sessions 009+, when the player has established a modest estate or workshop, owns several trained slaves, holds Social Standing Tier 3–4, and has meaningful reputation with at least two major factions.
+They focus on large-scale consequences, political intrigue, legendary crafting projects, major breeding programs, estate expansion, and high-stakes faction conflicts. Fashion, scent, and status display (LUXURY_FASHION_AND_STATUS v1.2) play a central role in public perception and reputation management.
+Each hook includes:
+- Premise and required assets
+- Pre-generated NPCs (using Random_NPC_Generator v1.4)
+- Key scenes with Combat, BDSM, Magic, Fashion/Status, and Defiance integration
+- Defiance trackers where relevant
+- Multiple endings with XP and Social Advancement rewards
+
+Hook 1: The Grand Breeding Contract
+Premise: A powerful noble house (e.g., Verdant Consortium or Silkveil) offers the PC a high-value, multi-year breeding contract for their best slaves. Success could grant a major estate upgrade and Tier 5 progress; failure risks public humiliation and reputation collapse.
+Pre-Gen NPCs
+- Lady Seraphine Voss – Race: Elf, Role: Noble/Landowner (Silken Collar), Defiance: N/A, Sexual Corruption: 75
+  Body Traits: Attractiveness 85, Scent 78
+  Traits: Connected to noble house + Expert at aftercare
+- Prize Breeding Slave – Race: Mixed Orc/Elf, Role: Experienced Slave, Defiance: 42, Sexual Corruption: 82
+  Body Traits: Strength 75, Attractiveness 70, Genital Scale 5/7
+Key Scenes
+1. Negotiation & Fashion Display: Present your slaves in Tier 4+ luxury attire (LUXURY_FASHION_AND_STATUS) to impress the noble.
+2. Ritual Breeding Scene (Pregnancy_Breeding_Rules + Magic_System): Optional Alteration or fertility ritual with high backlash risk.
+3. Public Announcement: Display the results at a major festival, risking massive reputation swings based on outcome and fashion presentation.
+Defiance Tracker (Prize Slave)
+Start: 42
+Successful high-tier fashion scene: –20 to –35
+Public failure or poor display: +25 Defiance spike
+Multiple Endings
+- Triumphant Contract: +2500 XP, major estate upgrade, +2 Social Standing progress toward Tier 5, permanent noble alliance.
+- Mixed Results: +1200 XP and moderate payment, but rival houses spread rumors of “inferior stock.”
+- Catastrophic Failure: Public scandal, lost reputation, possible loss of key slaves, –1 Social Standing.
+
+Hook 2: The Legendary Craft Commission
+Premise: The Hammer & Anvil Guild commissions the PC to create a one-of-a-kind legendary restraint or pleasure device for a high-ranking noble. The project requires rare reagents, multiple high-skill rolls, and a public unveiling.
+Pre-Gen NPCs
+- Master Forgewarden – Race: Dwarf, Role: Guild Master (Hammer & Anvil), Defiance: N/A
+  Body Traits: Endurance 85
+  Traits: Skilled in rare craft + Connected to noble house
+- Noble Client – Race: Human, Role: Noble/Landowner, Defiance: N/A, Sexual Corruption: 68
+Key Scenes
+1. Workshop Preparation: Multi-skill Crafting_System project using luxury materials (reference LUXURY_FASHION_AND_STATUS for final display value).
+2. Testing Phase: Private BDSM scene with a test slave to verify the item’s effectiveness.
+3. Grand Unveiling: Public demonstration at a noble gala. Fashion and status display determine success or scandal.
+Defiance Tracker (Test Slave)
+Start: 50
+Successful test with legendary item: –25 to –40
+Public unveiling failure: +30 Defiance and reputation damage
+Multiple Endings
+- Masterwork Success: +3000 XP, legendary item becomes a status symbol, +2 Social Standing, guild favor and future commissions.
+- Flawed Delivery: +1500 XP and payment, but rival crafters mock the piece, causing reputation bleed.
+- Catastrophe: Item backfires publicly, possible guild expulsion and major scandal.
+
+Hook 3: The Faction Summit Intrigue
+Premise: The PC is invited (or forces their way) into a secret summit between Silken Collar, Broken Chain, and Freeborn League representatives. Their goal is to sway the outcome in their favor while protecting their growing estate.
+Pre-Gen NPCs
+- High Priestess Veyra – Race: Elf, Role: Church Leader (Silken Collar), Defiance: N/A, Sexual Corruption: 90
+  Body Traits: Attractiveness 88, Scent 85
+  Traits: Expert at aftercare + Connected to noble house
+- Shadow Agent Thorne – Race: Human, Role: Rebel Leader (Broken Chain), Defiance: N/A
+Key Scenes
+1. Arrival & Fashion Presentation: Use Tier 4–5 luxury attire to establish status and influence first impressions.
+2. Private Negotiations & BDSM Diplomacy: Subtle domination or seduction scenes to extract information or sway opinions.
+3. Climactic Vote or Betrayal: Public or semi-public confrontation with possible combat or mass Defiance events.
+Defiance Tracker (Any involved slaves)
+Start: 40–60
+Successful diplomatic BDSM scene with perfect fashion: –20 to –35
+Public failure or scandal: +25–40 Defiance spike
+Multiple Endings
+- Masterful Manipulation: +2800 XP, major faction alliance or weakened rival, +2 Social Standing, possible new estate facility.
+- Balanced Compromise: +1400 XP and useful contacts, but lingering tensions with one faction.
+- Exposed Betrayal: Massive reputation loss, possible estate raid, –1 Social Standing.
+
+Hook 4: The Estate Expansion Crisis
+Premise: The PC’s growing estate faces a crisis — a sudden Defiance outbreak, rival sabotage, or church investigation — threatening everything built so far.
+Pre-Gen NPCs
+- Loyal Overseer – Race: Orc, Role: Overseer/Trainer, Defiance: 28, Sexual Corruption: 55
+  Body Traits: Strength 82
+  Traits: Expert at aftercare + Deep fear of rebellion
+- Saboteur Infiltrator – Race: Goblin, Role: Fugitive, Defiance: 75, Sexual Corruption: 40
+Key Scenes
+1. Investigation & Fashion Audit: Inspect slaves and property using LUXURY_FASHION_AND_STATUS rules to identify weaknesses.
+2. Crisis Response: Mass BDSM motivation scenes, crafted restraints, or magical intervention.
+3. Confrontation: Face the saboteur or church inquisitors in a high-stakes scene.
+Defiance Tracker (Affected slaves)
+Start: 60–80
+Coordinated aftercare with luxury items: –15 to –30 per group
+Failed response: +20–40 Defiance and possible rebellion chain
+Multiple Endings
+- Crisis Mastered: +2200 XP, expanded estate facilities, +1 Social Standing, stronger slave loyalty.
+- Partial Recovery: +1000 XP but lasting damage to reputation or property.
+- Collapse: Major loss of slaves or property, –1 Social Standing, possible new rival emerges.
+
+Hook 5: The Arcane Rebellion Suppression (New)
+Premise: A major backlash from a high-tier ritual (MAGIC_SYSTEM v1.13) triggers a magical rebellion chain across the player’s estate or allied properties. Planar entities or mutated slaves threaten to escalate into a full uprising unless contained with a combination of magic, BDSM mastery, and political maneuvering.
+Pre-Gen NPCs
+- Arch-Mage Thalor – Race: Elf, Role: Rival Mystic (jealous of PC’s rising power), Defiance: N/A, Sexual Corruption: 65
+  Body Traits: Attractiveness 82
+  Traits: Ritual Savant + Seeks to discredit new competitors
+- Mutated Slave Leader – Race: Human (altered), Role: Rebellious Thrall, Defiance: 95, Sexual Corruption: 70
+  Body Traits: Grotesque mutations, Genital Scale 6/7
+Key Scenes
+1. Investigation & Ritual Diagnosis: Use Arcana and new Magical Feats (FEATS_MASTER_LIST v1.0) to identify the backlash source.
+2. Containment Scenes: Mass BDSM motivation with enchanted items or Alteration rituals to suppress Defiance while managing further backlash risk.
+3. Confrontation & Political Fallout: Negotiate with factions or rival mages while displaying supreme status through luxury fashion and legendary items.
+Defiance Tracker (Affected Slaves)
+Start: 80–100 (escalating)
+Successful combined magical + erotic suppression: –40 to –60 per group + possible permanent loyalty bonuses
+Failed containment: +50 Defiance spike + potential Major Rebellion Chain or planar incursion
+Multiple Endings
+- Rebellion Quelled: +3200 XP, new arcane reputation, access to advanced ritual chambers, +2 Social Standing, possible captured planar entity as asset.
+- Costly Victory: +1600 XP but permanent mutations on key slaves and lingering faction suspicion.
+- Catastrophic Escalation: Estate damage, lost slaves, major reputation hit with churches, –2 Social Standing, new long-term rival.
+
+Hook 6: The Bloodline Succession Gambit (New)
+Premise: As the player approaches Tier 5 and generational play (Legacy_Tracker), a powerful faction offers a high-stakes alliance involving bloodline merging. The PC must prove their lineage’s worth through a public breeding display and political test while managing aging/longevity concerns (Time_System + new longevity rituals).
+Pre-Gen NPCs
+- Duchess Elandra Voss – Race: Dryad, Role: Consortium Matriarch, Defiance: N/A, Sexual Corruption: 88
+  Body Traits: Attractiveness 90 (seasonal), Scent 92
+  Traits: Master of breeding programs + Deep ties to generational politics
+- Heir Candidate – Race: Human/Dryad hybrid, Role: High-value breeding partner, Defiance: 35, Sexual Corruption: 78
+  Body Traits: Exceptional fertility markers
+Key Scenes
+1. Courtly Presentation: Extreme luxury fashion and status display (LUXURY_FASHION_AND_STATUS) to prove worthiness for bloodline alliance.
+2. Generational Breeding Ritual: High-DC ritual-enhanced scene (MAGIC_SYSTEM Aging/Longevity or Breeding Enhancement rituals) with heavy consequence for failure.
+3. Succession Negotiation: Secure inheritance rights, estate expansions, or bloodline boons while navigating church and rival interference.
+Defiance Tracker (Heir Candidate)
+Start: 35
+Successful high-tier ritual scene with perfect fashion: –30 to –50 + strong generational loyalty
+Public failure or backlash: +40 Defiance + risk of mutation or bloodline curse
+Multiple Endings
+- Bloodline Alliance Secured: +3500 XP, major estate expansion, bloodline trait bonuses for Legacy_Tracker, +3 Social Standing progress, permanent high-tier faction alliance.
+- Partial Union: +1800 XP and useful heir, but weakened bloodline traits and lingering rival claims.
+- Dynastic Disaster: Scandalous failure, lost alliance, possible aging acceleration curse, –2 Social Standing, opens new rebellion or succession crisis hooks.
+
+Integration Notes
+- All NPCs generated using Random_NPC_Generator v1.4.
+- Combat uses v1.7 rules (BDSM transitions, multi-enemy, Defiance modifiers).
+- Fashion, scent, and status mechanics use LUXURY_FASHION_AND_STATUS v1.2 for all public displays and mechanical effects.
+- Defiance, BDSM, Crafting, Magic, and Faction systems are heavily engaged.
+- New hooks explicitly integrate MAGIC_SYSTEM v1.13 (rituals & backlash), FEATS_MASTER_LIST v1.0, Character Advancement Table (PLAYER_CHARACTER v1.9), Legacy_Tracker, and Time_System longevity mechanics.
+- XP awards feed into Social_Advancement v1.5 and the Character Advancement Table for significant tier and level progression.
+XP & Advancement Rewards (per hook)
+- Each hook: 1500–3500 XP
+- Completing 2+ hooks: +1000 bonus XP and one major property or legendary fashion item upgrade.
+- Use of Magical Feats or high-tier rituals can grant additional milestone XP toward level thresholds and archetype features.
+
+This High-Tier Adventure Hook Pack provides six substantial scenarios focused on estate expansion, legendary crafting, faction politics, magical crises, and generational succession, bridging mid-tier play into full empire-building and Phase 4 legacy hand-off while keeping the grimdark tone and heavy consequences intact.
+
+Update Log:
+- Version 1.0 – Initial creation of High-Tier Adventure Hooks as a standalone file with 4 scenarios designed for Sessions 009+. All hooks built for players with established estate, multiple slaves, and Tier 3–4 Social Standing. Heavy integration with LUXURY_FASHION_AND_STATUS v1.2, Random_NPC_Generator, Combat_Rules, and core mechanics. No prior content to preserve.
+- Version 1.1 – Added two new hooks (Hook 5: The Arcane Rebellion Suppression and Hook 6: The Bloodline Succession Gambit) that explicitly tie into MAGIC_SYSTEM v1.13, FEATS_MASTER_LIST v1.0, Character Advancement Table (PLAYER_CHARACTER v1.9), Legacy_Tracker, and Time_System. Expanded Integration Notes and XP section for better compatibility with recent advancements. All previous content (Hooks 1–4, Core Philosophy, and original structure) preserved verbatim with zero data loss.
+
+You can now copy and paste the entire block above directly into your file.
+</High_Tier_Adventure_Hooks.txt>

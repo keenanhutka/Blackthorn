@@ -1,0 +1,515 @@
+<Player_Character.txt>
+PLAYER_CHARACTER - Version 1.11 (Grimdark Erotic Fantasy, 70 AE)
+
+Player Character Sheet
+Name:
+Race/Class/Background:
+Level:
+Experience:
+Core Stats:
+Strength: | Modifier:
+Dexterity: | Modifier:
+Constitution: | Modifier:
+Intelligence: | Modifier:
+Wisdom: | Modifier:
+Charisma: | Modifier:
+Skills & Proficiencies:
+- [List]
+Inventory:
+- Gold:
+- Items:
+Reputation Trackers:
+- Faction 1: Score / Level
+- Key NPC 1: Relationship
+Notes/Goals:
+
+================================================================
+CHARACTER CREATION GUIDELINES
+================================================================
+Core Philosophy
+Characters in the Shattered Principalities are ambitious individuals seeking to rise through ownership, erotic mastery, crafting skill, and political maneuvering. Creation focuses on making characters that feel part of the grimdark world — where power is intoxicating but fragile, pleasure is laced with risk, and every decision carries consequences.
+Step 1: Choose Race
+Use Races_Reference.txt v1.6 for full racial details, including maturity ages and the mandatory Adult trait. Each race has three Racial Feats/Heritage options (choose 1 at character creation unless GM allows more).
+- Human – Versatile baseline. Highly adaptable in all social and erotic contexts. Balanced Body traits make them excellent starting characters for players who want flexibility in seduction, labor, or crafting paths.
+  **Racial Feats:** Adaptive (once per session, reroll any failed skill check), Cosmopolitan (+1 to any social skill), Quick Learner (gain +10 skill ranks in one non-erotic skill at creation).
+- Orc – Strong, intimidating, high endurance. Naturally muscular builds and high baseline Defiance make them prized as guards or heavy laborers, but they respond best to raw physical dominance and honor-based training.
+  **Racial Feats:** Brutal Strength (+2 to melee damage and intimidation), Honor-Bound (advantage on saves vs fear or mind control when protecting allies), Iron Constitution (+2 to Constitution checks and resistance to fatigue during long sessions).
+- Elf – Graceful, high Attractiveness, elegant seduction. Naturally high General Attractiveness and delicate Scent make them premium pleasure slaves or diplomats; they excel at teasing, edging, and refined humiliation scenes but resent crude treatment.
+  **Racial Feats:** Graceful Tease (+3 to Seduction and edging scenes), Elegant Resilience (resistance to pain-based Defiance spikes), Ethereal Grace (+2 to Dexterity and Foot Attractiveness checks).
+- Dwarf – Sturdy, excellent crafting aptitude. Compact and resilient; they value endurance testing, possessive marking, and well-crafted restraints. Strong natural Hygiene resilience but can become stubborn if disrespected.
+  **Racial Feats:** Forge-Blood (+3 to metalwork and blacksmithing), Stubborn Will (advantage on saves vs Domination or mind effects), Enduring Frame (+2 to Constitution and resistance to environmental penalties).
+- Goblin – Small, inventive, chaotic. Highly expressive and opportunistic; they thrive in group play, trickery, and experimental toys. High energy but short attention spans make them excellent for chaotic or gadget-focused erotic scenes.
+  **Racial Feats:** Gadgeteer (+2 to Engineering and experimental crafting), Chaotic Energy (once per session, gain advantage on a chaotic or trickery-based roll), Swarm Tactics (+2 to group combat or group erotic scenes).
+- Gnome – Tiny, mechanical ingenuity. Clever and detail-oriented; they excel at puzzle-like restraints, intricate sensation play, and inventive erotic devices.
+  **Racial Feats:** Puzzle-Mind (+3 to intricate gadgets and traps), Tiny Ingenuity (advantage on checks involving small or precise mechanisms), Inventive Mind (+2 to Alchemy and experimental potion crafting).
+- Dryad – Nature-tied, high Scent and organic beauty. Strongly linked to natural cycles; they respond exceptionally well to living-vine bondage, floral scent play, and seasonal fertility rites. Neglect causes rapid withering.
+  **Racial Feats:** Living Vine Affinity (+3 to nature-infused Bondage and sensory scenes), Grove Resilience (faster recovery from damage when near nature), Seasonal Bloom (+2 to Scent and General Attractiveness during fertile cycles).
+- Giant – Massive, overwhelming physical presence. Require specially crafted massive-scale gear. Size-difference play is central; they are excellent dominants or challenging submissives but demand significant resources and reinforced facilities.
+  **Racial Feats:** Crushing Might (+3 to grapple and intimidation), Towering Presence (advantage on intimidation against smaller creatures), Massive Endurance (+2 to Constitution and resistance to size-based penalties).
+All characters must possess the Adult trait before any erotic, breeding, or BDSM mechanics can apply (see Races_Reference.txt for maturity ages).
+Step 2: Ability Scores
+Roll or assign using one of these methods (GM choice):
+- Standard Array: 15, 14, 13, 12, 10, 8
+- Point Buy (27 points)
+- Roll 4d6 drop lowest (6 times)
+Assign to: Strength, Dexterity, Constitution, Intelligence, Wisdom, Charisma.
+Step 3: Determine Background & Social Standing
+Choose a starting background that fits the world (examples below). This sets starting Social Standing tier, starting gold, and basic equipment.
+Background Examples
+- Escaped Slave / Street Urchin (Tier 0) – High Defiance knowledge, street smarts. Starting gold: 2d10 gp.
+- Apprentice Crafter (Tier 1) – Basic crafting skill. Starting gold: 4d10 gp + basic tools.
+- Minor Merchant / Caravan Guard (Tier 1–2) – Trade knowledge. Starting gold: 6d10 gp + simple weapon.
+- Indentured Overseer (Tier 2) – Experience managing slaves. Starting gold: 8d10 gp.
+- Disgraced Noble Scion (Tier 2) – Some reputation but heavy debts. Starting gold: 10d10 gp.
+Starting Social Standing is usually Tier 0 or 1. Higher starting tiers require GM approval and significant backstory justification.
+Step 4: Choose Class Archetype
+Class Archetypes define your primary path to power. They are not rigid classes but flexible roles that emphasize different strengths in this grimdark world of ownership, erotic control, and exploitation. Choose one archetype and gain its core benefits and suggested skills. Racial synergies provide additional bonuses when the archetype aligns with a race’s natural strengths.
+**Dominant Owner / Slaver Archetype**
+Focus: Mastery of slavery, Defiance management, and erotic dominance.
+Core Benefits: +2 to all Domination and Intimidation checks. +3 bonus to BDSM motivation scene rolls when reducing Defiance. Easier access to high-value slaves and training facilities. Once per session, gain advantage on a Defiance reduction roll after a successful motivation scene.
+Racial Synergies: Orc (+2 to physical domination and Flagellation scenes), Giant (+3 to intimidation and crushing restraint checks), Human (versatile +1 to any domination style).
+Suggested Skills: Domination, Bondage, Flagellation, Negotiation/Trade, Appraisal.
+Playstyle: You excel at breaking and shaping slaves, running breeding programs, and using erotic power as a tool of control and status.
+**Erotic Courtesan / Pleasure Master Archetype**
+Focus: Seduction, high-end pleasure services, and social manipulation through erotic skill.
+Core Benefits: +2 to all Seduction and Erotic Performance checks. High Sexual Corruption grants +2 additional PP per scene. Easier reputation gains with decadent factions (Silken Collar, Silkveil, Velvet Rose). Once per session, convert a failed Seduction check into a partial success by spending a point of Sexual Corruption.
+Racial Synergies: Elf (+3 to teasing/edging and elegant humiliation), Dryad (+2 to sensory and nature-infused scenes), Human (+1 to any seduction style).
+Suggested Skills: Seduction, Oral (providing), Penile, Vaginal, Insight/Kink Discovery, Deception/Espionage.
+Playstyle: You weaponize beauty, sensuality, and kink mastery to climb social ladders, gather secrets, and influence nobles through private performances.
+**Crafter / Artificer Archetype**
+Focus: Crafting high-value goods, custom restraints, vehicles, and erotic items.
+Core Benefits: +2 to all Crafting checks (multi-skill projects). On-site crafting at Resource & Industrial properties grants +3 instead of +2. Masterwork items provide +10% reputation and profit multipliers. Once per session, reroll a failed crafting check when using custom erotic or restraint gear.
+Racial Synergies: Dwarf (+3 to metalwork, blacksmithing, and engineering projects), Gnome (+3 to intricate gadgets and puzzle-like restraints), Goblin (+2 to experimental/chaotic inventions).
+Suggested Skills: Any 12 core crafting skills (especially Engineering, Leatherwork, Tailoring, Carving, Blacksmithing), Appraisal.
+Playstyle: You build your empire through workshops, custom erotic gear, and luxury goods that fuel trade and status displays.
+**Raider / Smuggler Archetype**
+Focus: Black market operations, wilderness raids, and high-risk trade runs.
+Core Benefits: +2 to Stealth, Deception, and Vehicle Operation checks. Reduced Detection risk on black market actions (-4 instead of -2). Bonus loot and smuggling opportunities. Once per session, gain advantage on a smuggling or raid-related roll.
+Racial Synergies: Orc (+2 to combat raids and intimidation during ambushes), Goblin (+3 to chaotic trickery and gadget-based smuggling), Human (+1 to versatile route planning).
+Suggested Skills: Stealth/Infiltration, Negotiation/Trade, Survival skills (Foraging, Trapping, Camping), Combat skills.
+Playstyle: You thrive on danger, smuggling forbidden goods or slaves, and turning raids into profit while navigating faction politics.
+**Overseer / Estate Manager Archetype**
+Focus: Property management, slave labor coordination, and daily estate routines.
+Core Benefits: +2 to Administration and Overseer-related checks. Reduced Defiance drift on owned properties (-4 instead of -2 daily). Better passive income from estates and workshops (+15%). Once per week, reroll a failed overseer loyalty check.
+Racial Synergies: Dwarf (+2 to industrial estate management and forge oversight), Human (+1 to balanced labor allocation), Orc (+2 to harsh but effective brute oversight).
+Suggested Skills: Administration, Animal Handling/Beast Control, Insight, Negotiation, relevant crafting or survival skills.
+Playstyle: You build long-term wealth through well-managed estates, loyal overseers, and efficient exploitation of land and labor.
+**Mystic / Ritualist Archetype**
+Focus: Rare magic use, enchanted items, and ritual enhancements.
+Core Benefits: +2 to Arcana checks. Reduced backlash risk on minor rituals (-3 instead of standard). Access to enchanted restraints and body modifications. Once per session, reduce backlash severity on a failed ritual by one step.
+Racial Synergies: Elf (+2 to Illusion and elegant ritual work), Dryad (+2 to nature/Alteration rituals), Human (+1 to versatile ritual adaptation).
+Suggested Skills: Arcana, relevant Knowledge skills (Religion & Theology, Erotic & Forbidden Lore), Alchemy/Herbalism.
+Playstyle: You wield dangerous magic to enhance slaves, create powerful items, or influence politics, always balancing power with the constant threat of backlash and church scrutiny.
+
+**Breeder / Bloodline Architect Archetype** (New)
+Focus: Generational breeding programs, pregnancy mastery, bloodline optimization, and legacy creation.
+Core Benefits: +2 to all Pregnancy_Breeding_Rules and conception checks. High Sexual Corruption grants +3 to breeding success and hybrid trait rolls. Easier access to high-fertility slaves and bloodline alliances. Once per session, reroll a failed breeding or lactation roll.
+Racial Synergies: Dryad (+3 to seasonal fertility rites and vine-bondage breeding), Elf (+2 to elegant multi-partner breeding scenes), Human (versatile +1 to any bloodline strategy).
+Suggested Skills: Breeding, Lactation, Insight/Kink Discovery, Negotiation/Trade, Alchemy/Herbalism.
+Playstyle: You build dynasties through calculated breeding, hybrid optimization, and generational power, turning slaves into living legacies while managing the grimdark risks of mutation and inheritance.
+
+**Courtier / Faction Intriguer Archetype** (New)
+Focus: Political maneuvering, reputation warfare, blackmail, and soft-power diplomacy.
+Core Benefits: +2 to all Deception, Negotiation, and Faction Reputation checks. Luxury fashion and status displays grant +4 instead of +2 to social rolls. Once per session, convert a failed social check into a partial success by revealing a hidden secret or favor.
+Racial Synergies: Elf (+3 to elegant court seduction and humiliation diplomacy), Human (versatile +1 to any intrigue style), Goblin (+2 to chaotic rumor-spreading and trickery).
+Suggested Skills: Seduction, Deception/Espionage, Insight, Negotiation/Trade, Appraisal.
+Playstyle: You climb through whispers, alliances, scandals, and erotic leverage, turning noble courts and faction summits into battlegrounds where pleasure and information are the ultimate weapons.
+
+**Enforcer / Mercenary Commander Archetype** (New)
+Focus: Combat security, slave enforcement, caravan protection, and violent reclamation of assets.
+Core Benefits: +2 to all Combat and Intimidation checks involving slaves or raids. Reduced Defiance spikes during enforcement scenes. Once per session, gain advantage on a combat or rebellion-suppression roll when leading slaves or mercenaries.
+Racial Synergies: Orc (+3 to brutal enforcement and flagellation intimidation), Giant (+2 to overwhelming physical dominance), Dwarf (+1 to fortified estate defense).
+Suggested Skills: Combat skills, Domination, Bondage, Animal Handling/Beast Control, Vehicle Operation.
+Playstyle: You maintain order through force, lead armed caravans, suppress rebellions, and reclaim escaped assets, turning violence and discipline into profitable empire-building tools.
+
+Step 5: Choose Skills & Proficiencies
+Use Skills_Master_List.txt v1.12 for the complete skill list and resolution mechanics.
+- Choose 4–6 skills based on background and archetype (GM discretion). At character creation, distribute a total of 120 skill ranks across your chosen skills (maximum 40 in any single skill). Archetype-suggested skills should receive at least 20 ranks each for optimal play.
+- Recommended archetype distributions (examples):
+  - Dominant Owner: 30+ in Domination/Bondage/Flagellation, 20+ in Negotiation/Appraisal.
+  - Erotic Courtesan: 30+ in Seduction/Erotic Performance skills, 20+ in Insight/Deception.
+  - Crafter: 30+ in primary crafting skills, 20+ in Appraisal/Engineering.
+  - Raider: 25+ in Stealth/Combat/Survival, 20+ in Negotiation.
+  - Overseer: 30+ in Administration/Insight, 20+ in relevant crafting or handling skills.
+  - Mystic: 30+ in Arcana, 20+ in Knowledge/Alchemy.
+- Erotic Performance skills (Oral providing, Anal, Vaginal, Penile, Flagellation, Bondage) are available and highly relevant.
+- Assign ranks (0–40 recommended at character creation).
+Step 6: Body Traits (1–100 Spectrum)
+Use Body_Ranges_Reference.txt v1.9 for racial minimums and maximums.
+Assign values for:
+- Height, Weight, General Attractiveness, Sexuality Orientation, Breast Size (if applicable), Buttocks Size, Hand Size, Foot Size, Foot Attractiveness, Scent, Hygiene.
+- Penis Size or Vaginal Depth on the 1–7 relative scale.
+Step 7: Sexual Corruption & Starting Defiance
+- Sexual Corruption starts at 0–20 for most new characters (higher if background or archetype justifies it).
+- If the character owns slaves at start, set their starting Defiance (usually 40–70 for new acquisitions).
+Step 8: Starting Equipment & Gold
+- Roll or choose based on background and archetype.
+- Basic clothing/footwear from Raw_Materials_Tools_Trade_Goods.txt and LUXURY_FASHION_AND_STATUS.txt v1.2.
+- One simple weapon or tool.
+- Small amount of coin (see background above).
+- Optional: One low-value slave (with GM approval).
+Starting Equipment Packages (by Archetype)
+**Dominant Owner / Slaver**
+- Iron Collar + basic restraints, simple whip, 1 low-value labor slave (Defiance 50–70), 50 gp, practical work clothes.
+**Erotic Courtesan / Pleasure Master**
+- Silk slave silks or sheer gown, courtier stilettos (+4 Foot Attractiveness), basic pleasure oils, 80 gp, elegant court clothing.
+**Crafter / Artificer**
+- Basic tool kit (hammer, chisels, sewing kit), leather apron, 40 gp, sturdy work clothes + reinforced boots.
+**Raider / Smuggler**
+- Concealable dagger, dark cloak, lockpicks, 60 gp, practical travel gear + hidden compartment pouch.
+**Overseer / Estate Manager**
+- Overseer’s leather jerkin, heavy work boots, basic ledger, 70 gp, reinforced tunic and trousers.
+**Mystic / Ritualist**
+- Basic ritual components (candles, chalk, incense), simple enchanted focus item, 50 gp, hooded robes.
+**Time & Aging Considerations (New)**
+All characters begin at a young adult age appropriate to their race (see Races_Reference.txt and Time_System.txt v1.1). During play, the player must track their character’s age using the Monthly Aging Check in Time_System.txt. Aging affects Body traits (especially Attractiveness, Endurance, and Strength), fertility, and social perception. Longevity potions or rituals (from Alchemy_Consumables_and_Potions.txt v1.5 and Magic_System.txt v1.13) can delay or manipulate aging but carry severe grimdark risks including rapid catch-up decay, mutations, Defiance spikes in slaves, and reputation loss. Starting characters are expected to be in their physical prime, but long campaigns will force meaningful choices about maintenance, alchemy, magic, and generational succession.
+Step 9: Goals & Hooks
+Write 1–3 short-term and 1 long-term goal. These will drive early sessions and tie into Factions_and_Politics and Property_Ownership.
+Step 10: Faction Backstories (Expanded)
+Factions shape the world and your character’s opportunities. Choose or note starting reputation (usually Neutral or Unfriendly) and consider how your background and archetype tie into any faction.
+Major Factions & Backstories:
+- Iron Collar Guild: Professional slavers and trainers who control legal auctions. They rose during the 46 AE famine by organizing debt bondage contracts. They value efficiency, profitability, and well-trained slaves. Strong ties to crafting and trade.
+- Verdant Consortium: Landowners and large-scale breeders who dominate agricultural and bloodline slavery. They emphasize “natural” ownership and generational stability. Close alliance with the Verdant Cycle church and dryad groves.
+- Velvet Rose Society: Secretive network of dominants and pleasure-house operators who wield soft power through seduction and blackmail. They operate in the shadows of noble courts and pleasure districts.
+- Freeborn League: Underground anti-slavery resistance born from famine survivors. They run safehouses, sabotage operations, and rescue missions. Highly active in border zones and slums.
+- Silken Collar Church: Opulent, hedonistic faith that sanctifies erotic ownership and submission as divine gifts. Dominant in cosmopolitan areas; they bless high-end pleasure training and public displays.
+- Broken Chain Church: Ascetic reformist faith that views slavery as a moral evil. They aid escapees and push for redemption. Growing influence among the poor and racial settlements.
+- Hammer & Anvil Guild: Dominant crafting guild controlling weapons, vehicles, restraints, and workshops. They protect monopolies and supply the industrial backbone of the baronies.
+
+================================================================
+ARCHETYPE FEATURE PROGRESSION
+================================================================
+
+**Dominant Owner / Slaver Archetype Features**
+- Level 1 (Core Benefit): +2 to all Domination and Intimidation checks. +3 bonus to BDSM motivation scene rolls when reducing Defiance. Once per session, gain advantage on a Defiance reduction roll after a successful motivation scene.
+- Level 2 (Feature I): Once per session, reduce a slave’s Defiance by an extra -10 during a successful motivation scene. Unlocked access to high-value slave auctions.
+- Level 4 (Feature II): Permanent +1 to Strength or Charisma. Owned slaves gain -2 daily Defiance drift while under your direct oversight.
+- Level 6 (Feature III): Once per long rest, force a slave into a “breaking point” scene that grants +20 temporary loyalty but risks +15 backlash Defiance if failed.
+- Level 8 (Feature IV): Master of the Collar – All domination checks with custom or enchanted restraints gain advantage. +2 to all Breeding rolls involving your slaves.
+- Level 10 (Capstone): Empire of Chains – Once per session, suppress a Minor or Major Rebellion Chain across your entire estate by spending one BDSM motivation scene. All owned slaves gain permanent -5 Defiance floor.
+
+**Erotic Courtesan / Pleasure Master Archetype Features**
+- Level 1 (Core Benefit): +2 to all Seduction and Erotic Performance checks. High Sexual Corruption grants +2 additional PP per scene. Once per session, convert a failed Seduction check into a partial success by spending a point of Sexual Corruption.
+- Level 2 (Feature I): Once per session, discover one hidden kink automatically during a scene. +3 to all Insight/Kink Discovery checks.
+- Level 4 (Feature II): Permanent +1 to Charisma or Wisdom. Pleasure scenes grant +1 Social Standing progress when performed for high-status clients.
+- Level 6 (Feature III): Once per session, create a “Signature Performance” that grants +8 PP and reduces target Defiance by -15.
+- Level 8 (Feature IV): Master of Desire – All erotic skills gain +2 when using luxury fashion or custom pleasure gear. Sexual Corruption bonuses increase by +1 at every threshold.
+- Level 10 (Capstone): Veil of Ecstasy – Once per session, turn any failed BDSM scene into a partial success that still grants full PP and reputation gain while shifting Defiance to the target instead.
+
+**Crafter / Artificer Archetype Features**
+- Level 1 (Core Benefit): +2 to all Crafting checks (multi-skill projects). On-site crafting at Resource & Industrial properties grants +3 instead of +2. Once per session, reroll a failed crafting check when using custom erotic or restraint gear.
+- Level 2 (Feature I): Masterwork items provide +15% profit and reputation multipliers instead of +10%.
+- Level 4 (Feature II): Permanent +1 to Intelligence or Dexterity. Crafting time for custom restraints and pleasure gear is halved.
+- Level 6 (Feature III): Once per session, create a “Signature Item” that grants +4 to relevant BDSM or domination rolls when used.
+- Level 8 (Feature IV): Workshop Overlord – All on-site crafting checks gain +4. Masterwork items you create have double duration or effect strength.
+- Level 10 (Capstone): Legendary Artificer – Once per season, craft one legendary item (see MAGIC_SYSTEM or future expansions) at half reagent cost. All crafted goods grant +2 Social Standing progress when displayed.
+
+**Raider / Smuggler Archetype Features**
+- Level 1 (Core Benefit): +2 to Stealth, Deception, and Vehicle Operation checks. Reduced Detection risk on black market actions (-4 instead of -2). Once per session, gain advantage on a smuggling or raid-related roll.
+- Level 2 (Feature I): Bonus loot tables improved by one step. +2 to all black market Negotiation checks.
+- Level 4 (Feature II): Permanent +1 to Dexterity or Intelligence. Smuggling compartments are nearly impossible to detect without magic.
+- Level 6 (Feature III): Once per session, turn a failed raid or smuggling roll into a partial success with reduced consequences.
+- Level 8 (Feature IV): Shadow Master – All wilderness and black market actions gain +3. Raided goods include higher-value slaves or reagents.
+- Level 10 (Capstone): King of the Shadows – Once per session, automatically succeed on one Stealth or Deception check during a high-risk operation. Gain permanent +1 Social Standing progress from successful smuggling runs.
+
+**Overseer / Estate Manager Archetype Features**
+- Level 1 (Core Benefit): +2 to Administration and Overseer-related checks. Reduced Defiance drift on owned properties (-4 instead of -2 daily). Once per week, reroll a failed overseer loyalty check.
+- Level 2 (Feature I): Passive income from estates and workshops increased by +20% instead of +15%.
+- Level 4 (Feature II): Permanent +1 to Wisdom or Constitution. Daily estate routines grant an extra -2 Defiance drift across all properties.
+- Level 6 (Feature III): Once per session, coordinate a mass motivation scene that reduces Defiance by -10 for an entire group of slaves.
+- Level 8 (Feature IV): Estate Lord – All property upgrades cost 15% less. Loyal overseers gain +2 to their own checks when managing your holdings.
+- Level 10 (Capstone): Iron Dominion – Once per month, suppress estate-wide Defiance spikes or rebellion risks without a scene. All properties generate +25% passive income and gain permanent loyalty bonuses.
+
+**Mystic / Ritualist Archetype Features** (from MAGIC_SYSTEM v1.13)
+- Level 1 (Core Benefit): +2 to Arcana checks. Reduced backlash risk on minor rituals (-3 instead of standard). Once per session, reduce backlash severity on a failed ritual by one step.
+- Level 2 (Feature I): Gain access to one additional school of magic. Once per long rest, reroll a single ritual casting check.
+- Level 4 (Feature II): Permanent +1 to Intelligence or Wisdom. Ritual chambers on owned properties grant an additional -2 to backlash risk.
+- Level 6 (Feature III): Once per session, convert a backlash event into a partial success by spending 10 Sexual Corruption or 1d10 temporary Defiance on a slave.
+- Level 8 (Feature IV): +2 to all ritual-related skill checks when using custom enchanted items. Unlock one major ritual per season without reagent cost (once per season).
+- Level 10 (Capstone): Master of the Veil – Choose one school as your specialty. All rituals in that school have -5 DC and -50% reagent cost. Critical successes grant permanent minor Body trait improvements. Backlash risk is halved.
+
+**Breeder / Bloodline Architect Archetype Features** (New)
+- Level 1 (Core Benefit): +2 to all Pregnancy_Breeding_Rules and conception checks. High Sexual Corruption grants +3 to breeding success and hybrid trait rolls. Once per session, reroll a failed breeding or lactation roll.
+- Level 2 (Feature I): Access to advanced breeding stock auctions. Offspring gain one bonus hybrid trait roll per pregnancy.
+- Level 4 (Feature II): Permanent +1 to Constitution or Wisdom. Lactation scenes grant +4 PP and reduce Defiance by an extra -10.
+- Level 6 (Feature III): Once per session, perform a “Bloodline Optimization” ritual (ties to MAGIC_SYSTEM) that improves offspring traits without backlash risk.
+- Level 8 (Feature IV): Master Breeder – All breeding rolls gain advantage. Generational Defiance inheritance is reduced by 20% for your bloodlines.
+- Level 10 (Capstone): Dynasty Founder – Once per campaign, establish a permanent bloodline alliance that grants +3 Social Standing and automatic legacy bonuses in Legacy_Tracker.txt.
+
+**Courtier / Faction Intriguer Archetype Features** (New)
+- Level 1 (Core Benefit): +2 to all Deception, Negotiation, and Faction Reputation checks. Luxury fashion and status displays grant +4 instead of +2 to social rolls. Once per session, convert a failed social check into a partial success by revealing a hidden secret or favor.
+- Level 2 (Feature I): Gain one additional faction contact per session. Blackmail opportunities appear more frequently.
+- Level 4 (Feature II): Permanent +1 to Charisma or Intelligence. Scandal or rumor actions grant +2 Social Standing progress.
+- Level 6 (Feature III): Once per session, orchestrate a “Private Compromise” scene that sways faction opinion without public risk.
+- Level 8 (Feature IV): Shadow Diplomat – All intrigue checks gain +3 when using luxury fashion or erotic leverage.
+- Level 10 (Capstone): Master of the Court – Once per session, automatically succeed on one faction or social check. Gain permanent +2 Social Standing from political alliances.
+
+**Enforcer / Mercenary Commander Archetype Features** (New)
+- Level 1 (Core Benefit): +2 to all Combat and Intimidation checks involving slaves or raids. Reduced Defiance spikes during enforcement scenes. Once per session, gain advantage on a combat or rebellion-suppression roll when leading slaves or mercenaries.
+- Level 2 (Feature I): Mercenary hires cost 20% less. Slave enforcement scenes reduce group Defiance by an extra -10.
+- Level 4 (Feature II): Permanent +1 to Strength or Dexterity. Caravan raids and estate defense grant bonus loot or reputation.
+- Level 6 (Feature III): Once per session, lead a “Show of Force” that prevents rebellion without a full scene.
+- Level 8 (Feature IV): Iron Commander – All combat checks with slave support gain advantage. Reclaimed assets come with reduced Defiance floors.
+- Level 10 (Capstone): Warlord of the Chains – Once per session, suppress any rebellion chain instantly. All enforcement actions grant +1 Social Standing and permanent loyalty bonuses to your forces.
+
+================================================================
+CHARACTER ADVANCEMENT TABLE
+================================================================
+
+Level | XP Threshold (cumulative) | Ability Score Increases | New Feat Slots | Archetype Feature Gained
+------|---------------------------|--------------------------|----------------|-------------------------
+1     | 0                         | -                        | 1 (Racial)     | Archetype Core Benefit
+2     | 2,000                     | +1 to one score          | -              | Archetype Feature I
+3     | 5,000                     | -                        | 1 (General)    | -
+4     | 9,000                     | +1 to one score          | -              | Archetype Feature II
+5     | 14,000                    | -                        | 1 (General)    | Social Tier 2 unlocked (if requirements met)
+6     | 20,000                    | +1 to one score          | -              | Archetype Feature III
+7     | 27,000                    | -                        | 1 (General)    | -
+8     | 35,000                    | +1 to one score          | -              | Archetype Feature IV
+9     | 44,000                    | -                        | 1 (General)    | Social Tier 3 unlocked (if requirements met)
+10    | 54,000                    | +1 to one score          | -              | Archetype Capstone Feature
+11+   | +12,000 per level         | +1 every 4 levels        | 1 every 3 levels | Further archetype or custom features (GM discretion)
+
+Notes on Advancement:
+- XP is earned through property upgrades, successful BDSM/breeding scenes, faction alliances, rebellion suppression, and major milestones (see Social_Advancement.txt v1.5).
+- Ability Score Increases can be applied to any stat (max 20 unless magical enhancement is used).
+- Feat slots: Racial feats are chosen at Level 1. General feats can be chosen from FEATS_MASTER_LIST.txt v1.0 or approved by GM.
+- Archetype Features are gained automatically at the listed levels and stack with previous benefits.
+- Social Tier progression remains separate and requires both XP thresholds and meeting advancement methods (property, erotic mastery, faction status, etc.).
+
+Character Advancement
+- Gain levels through play, major accomplishments, or significant property/wealth milestones.
+- Each level grants +1 to one ability score or +5–10 skill ranks (GM discretion).
+- New social standing tiers are earned through reputation, wealth, property, and demonstrated erotic or economic power (see Social_Advancement.txt).
+Integration Notes
+- All mechanics reference existing files: Body_Ranges_Reference, Skills_Master_List, Slavery_and_Defiance_Core_Mechanics, Sex_BDSM_System, etc.
+- The Adult trait is mandatory for any erotic, breeding, or BDSM content.
+- Starting characters are expected to be competent but not powerful — the game is designed for rags-to-riches growth through ownership and risk.
+- Clothing, footwear, scent, and status display choices are guided by LUXURY_FASHION_AND_STATUS.txt v1.2 and affect early social rolls, Defiance drift, and public perception.
+- Time and aging mechanics from Time_System.txt v1.1 must be tracked during long campaigns. Aging affects Body traits, fertility, endurance, and social standing. Alchemy longevity potions and magic rituals provide ways to delay decline but carry severe grimdark consequences (mutations, Defiance spikes, reputation loss).
+- Feats are selected from FEATS_MASTER_LIST.txt v1.0 using the feat slots in the Character Advancement Table.
+- All archetypes (now nine total) have full level-by-level feature progression that integrates with MAGIC_SYSTEM v1.13, FEATS_MASTER_LIST v1.0, and the new Character Advancement Table.
+We will expand character creation options together (more backgrounds, racial feats, starting bloodlines, etc.) as needed.
+
+Update Log:
+- Version 1.0 – Created full Character Creation Guidelines section with step-by-step process, ties to all core systems, and grimdark tone. All previous placeholder content preserved verbatim. Strong foundation for new characters established with clear integration to Body traits, Defiance, Sexual Corruption, and Social Standing.
+- Version 1.1 – Expanded Step 1 (Racial Traits) with deeper flavor and mechanical notes for each race. Added new Step 9 with expanded faction backstories. Refined wording throughout character creation steps for clarity and flow while preserving all original content verbatim. Stronger ties to world lore and faction politics achieved.
+- Version 1.2 – Added Step 4: Choose Class Archetype with six detailed archetypes (Dominant Owner, Erotic Courtesan, Crafter, Raider/Smuggler, Overseer/Estate Manager, Mystic/Ritualist). Each includes core benefits, suggested skills, and playstyle notes. All previous content preserved verbatim. Stronger mechanical identity and player choice added to character creation.
+- Version 1.3 – Expanded archetype benefits with additional mechanical bonuses and once-per-session abilities. Added Racial Archetype Synergies for each archetype, providing extra bonuses when the archetype aligns with a race’s natural strengths. All previous content preserved verbatim. Deeper racial and archetype integration achieved.
+- Version 1.4 – Added detailed Starting Equipment Packages for each archetype in Step 8. All previous content preserved verbatim. Clearer starting point for new characters achieved.
+- Version 1.5 – Added Racial Feats/Heritage options to Step 1 (one per race) and clear skill rank guidance (total 120 ranks at creation) to Step 5. All previous content preserved verbatim. Stronger player customization and guidance achieved.
+- Version 1.6 – Further expanded racial feats/heritage options to three choices per race in Step 1. Added archetype-specific skill distribution recommendations in Step 5. All previous content preserved verbatim. Stronger customization depth and clearer player guidance achieved.
+- Version 1.7 – Added explicit references to LUXURY_FASHION_AND_STATUS.txt v1.2 in Step 8 (Starting Equipment) and Integration Notes. All previous content preserved verbatim. Ensures new players are directed to the comprehensive fashion, scent, and status mechanics from the very start of character creation.
+- Version 1.8 – Added new “Time & Aging Considerations” subsection in Step 8 with direct references to Time_System.txt v1.1, including tracking requirements, effects on Body traits/fertility/social standing, and ties to alchemy longevity potions and magic rituals. All previous content preserved verbatim. Ensures long-term campaigns account for realistic aging and its grimdark consequences from the moment of character creation.
+- Version 1.9 – Added complete clean “Character Advancement Table” (XP thresholds, ability score increases, new feat slots, archetype feature progression) immediately before the existing Character Advancement paragraph. This provides clear mechanical goals beyond Social Tiers while remaining fully compatible with Social_Advancement.txt v1.5. All previous content preserved verbatim with zero data loss.
+- Version 1.10 – Added full “ARCHETYPE FEATURE PROGRESSION” section with complete level-by-level features for all six archetypes (Dominant Owner, Erotic Courtesan, Crafter, Raider/Smuggler, Overseer, and Mystic/Ritualist). This fulfills the request to expand the remaining five archetypes to match the Mystic progression already present in MAGIC_SYSTEM v1.13. All previous content (including the Character Advancement Table, creation guidelines, Time & Aging Considerations, and Integration Notes) preserved verbatim with zero data loss. Stronger player choice and long-term progression rewards now available for every archetype.
+- Version 1.11 – Revised and expanded the archetype section in Step 4 and the ARCHETYPE FEATURE PROGRESSION section by adding three new archetypes (Breeder / Bloodline Architect, Courtier / Faction Intriguer, Enforcer / Mercenary Commander) for a total of nine archetypes. Each new archetype includes full core benefits, racial synergies, suggested skills, playstyle notes, and complete level-by-level feature progression (Levels 1–10). This significantly expands player choice and ties directly into breeding, politics, and enforcement mechanics. All previous content preserved verbatim with zero data loss.
+
+You can now copy and paste the entire block above directly into your file.
+
+
+CHARACTER EXPANSION & ENDGAME - Version 1.0 (Grimdark Erotic Fantasy, 70 AE)
+THE AGING CRISIS (Post-Level 10 Mechanics)
+When a character reaches Level 10, they must confront the Aging Crisis—the grim realization that mortality, decline, and irrelevance threaten everything they've built. This triggers immediately upon reaching Level 10 or when the character turns 50 years old (whichever comes first), and recurs every 5 years thereafter.
+
+The Three Paths of Decline
+At each Aging Crisis checkpoint, the player must choose one path. This choice is permanent for that 5-year period:
+
+1. The Longevity Gamble (Magical Preservation) Postpone decay through dangerous alchemy and forbidden rituals
+
+Mechanical Effect: Halts all physical aging for 5 years; retains current Body traits
+The Cost: Roll on the Longevity Backlash Table (see below) immediately, and again at the end of the 5-year period
+Social Impact: -2 Social Standing progress per use (visible "unnatural" aura); slaves gain +10 Defiance when witnessing the ritual (unnatural fear)
+Requirements: Access to Alchemy_Consumables_and_Potions v1.5 (Youthful Vitality Tonic or better) OR Magic_System v1.13 (Eternal Youth Elixir Ritual, DC 32)
+Longevity Backlash Table (d10) 1-2: Rapid Decay Cascade - Upon expiration of the 5 years, age 15 years instantly (triple trait loss) 3-4: Mutation Bloom - Gain 1d4 random Body trait shifts (±15 points, grotesque alterations per Medical_Trauma.txt) 5-6: Addiction to Youth - Permanent "Youth-Seeker" trait: Must consume 200gp worth of alchemical maintenance monthly or suffer -5 to all mental stats 7-8: Defiance Legacy - All offspring conceived during this period inherit +25 Defiance floor and "Corrupted Bloodline" trait (Legacy_Tracker v1.2) 9: Temporal Anchoring - Become unable to age naturally; if killed, crumble to dust (no resurrection possible via Necromancy) 10: The Portrait Effect - All physical damage transfers to a "soul portrait" (enchanted item); if portrait is destroyed, instant death. Portrait requires weekly blood tribute (1 HP).
+
+2. Generational Hand-Off (Succession) Begin playing the heir, transitioning the founder to NPC status
+
+Mechanical Effect: Create new Level 5 character (offspring or designated heir); Founder becomes "Patriarch/Matriarch" NPC with limited actions
+Legacy Bonus: New character inherits 50% of parent's skill ranks and one Bloodline Trait (see Prestige Classes)
+The Cost: Founder ages normally and loses 1d4 Physical Body traits permanently; -10 Defiance floor for all former slaves (grief/loyalty to dead/absent master)
+Social Impact: +3 Social Standing progress (legitimate succession celebrated); -2 if hand-off was forced (rebellion)
+Requirements: Valid heir from Pregnancy_Breeding_Rules v1.11 OR designated successor with 3+ years of Administer Estate training
+3. The Frail Tyrant (Decline into Power) Embrace weakness as a different kind of strength
+
+Mechanical Effect: Continue playing original character, but gain Fragile Condition: All physical stats capped at 12; -5 to all physical checks; +10 to Intimidation (fear of the dying tyrant); +20 to Defiance management rolls (slaves pity/fear the aging master)
+Compensation: Unlock Wisdom of Ages - Double XP from teaching/training scenes; can cast Necromancy rituals without material components (using life force instead: -1 Con per ritual)
+The Inevitability: Every 2 years, lose 1 point from Strength, Dexterity, or Constitution permanently. When any reaches 0, death occurs within 1d4 sessions.
+Final Act: Upon death, may trigger Legacy Event - estate enters crisis mode (civil war among heirs) or Apotheosis (if prepared, become Undead Patriarch; see Ascension Rituals)
+PRESTIGE CLASSES (Tier 5+ Archetypes)
+Upon reaching Social Standing Tier 5 AND Level 10, characters may qualify for Prestige Classes. These replace standard archetype features with epic-scale abilities focused on legacy and empire.
+
+1. THE BLOODLINE PATRIARCH / MATRIARCH
+"My seed is my empire, my womb is the throne."
+
+Requirements:
+
+Social Standing Tier 5
+Successfully bred 3+ generations of slaves (Legacy_Tracker v1.2)
+Personal Sexual Corruption 60+ OR have offspring with 5+ different races
+Estate includes Grand Breeding Sanctum or Enchanted/Forbidden Breeding Sanctum (Property_Ownership v1.9)
+Features:
+
+Level 11: Genetic Dominance
+
+Offspring inherit +4 to two Body traits of your choice (instead of random)
+Can perform Bloodline Purification: Spend 10,000 gp and 1 month to remove one Hybrid Trait drawback from your bloodline permanently
+Grimdark Cost: Each purification ritual causes permanent -2 to your Constitution (genetic taxation)
+Level 12: The Dynastic Will
+
+Your bloodline becomes a tangible force. All slaves with your blood (even distant) suffer -10 Defiance when you are present (genetic awe)
+New Action: Generational Command - Once per session, issue an order that propagates through all bloodline members within 10 miles; they automatically comply (no Defiance check) but gain +5 Insanity Points (Medical_Trauma.txt) from the psychic intrusion
+Level 13: Living Legacy
+
+If killed, you may possess the body of any willing bloodline descendant (including slaves you've bred) within 1 mile. New body has your mental stats but their physical stats (minus 2d6 permanent loss from the trauma of possession)
+Limitation: Original body dies permanently; if no host available, true death
+Level 14: The Bloodline Emperor
+
+Create Bloodline Legion: Pool up to 50 bloodline slaves; they share a hive-mind Defiance score (average of all). If the group Defiance stays below 30, they fight with perfect coordination (+5 to combat rolls, no morale checks)
+The Price: If any single member of the Legion reaches Defiance 76+, the entire Legion suffers a simultaneous Major Rebellion Chain (telepathic rage cascade)
+2. THE SHADOW GUILDMASTER
+"Trade is war conducted with silk gloves and poisoned contracts."
+
+Requirements:
+
+Social Standing Tier 5
+Ally status with 3+ Black Market Factions (Shadow Forge, Crimson Veil, Bone & Blood, or Whispered Ledger)
+Successfully smuggled 100,000 gp+ worth of goods without detection
+Own at least one Hidden Outpost / Black Market Safehouse (Property_Ownership v1.9)
+Features:
+
+Level 11: The Invisible Empire
+
+Network of Eyes: Automatic -10 to all Detection rolls regarding your black market activities; you learn of any investigation into your affairs 1d4 days before it happens
+Information Brokering: Can sell "secrets" as trade goods (worth 500–5,000 gp each). Secrets harvested via Interrogation_Information_Extraction.txt have 50% premium
+Level 12: Counterfeit Reality
+
+Forged Legacy: Once per month, forge a document that retroactively alters your Social Standing or Faction Reputation by ±20 (appears to have been signed by nobles/churches years ago). Lasts until investigated (DC 30 Investigation to expose)
+Ghost Goods: Can "launder" stolen or cursed items through your network, removing negative traits (Blood Grudges, curses) by transferring them to random underlings (who die or go mad)
+Level 13: Economic Terrorism
+
+Market Crash: Spend 50,000 gp to trigger an artificial Catastrophic Market Crash (Economy_Trade_System v1.26) in one specific category (e.g., pleasure slaves, iron ore). All rivals lose 50% income for 1d6 months; you gain their losses as profit
+Grimdark Cost: Each crash causes 1d100 commoner deaths (famine/riot) and +20 Defiance for all slaves in the region (economic desperation)
+Level 14: The Shadow Throne
+
+Phantom Guild: Your black market contacts form a "shadow government" in one barony. You effectively control that barony's economy (set prices, embargo goods) but appear to be a humble merchant publicly
+The Risk: If exposed, every faction turns hostile simultaneously (Hostile reputation with all legitimate groups); becomes most wanted criminal in the Principalities
+3. THE UNDYING NOBLE (Lich-Path)
+"Death is merely a transition to more efficient labor management."
+
+Requirements:
+
+Magic_System v1.13: Successfully performed Necromancy rituals (Soul-Binding or Eternal Labor Pact)
+Must have died and been resurrected at least once, OR be over 60 years old and facing The Frail Tyrant decline
+Possess a Phylactery Vessel (enchanted item containing soul fragment, worth 10,000+ gp to create)
+Features:
+
+Level 11: The Deathless Condition
+
+Undead type: Immune to poison, disease, aging, and physical pleasure/pain (cannot generate or receive Pleasure Points)
+Sustenance: Must consume 1 soul fragment (harvested via Medical_Trauma from dying sentients) per month or lose 1 level temporarily
+Aura of Dread: All living slaves within 30 ft gain +15 Defiance (horror) but suffer -5 to escape attempts (paralytic fear)
+Level 12: Soul Economics
+
+The Ledger: Can bind souls to contracts directly. Signed documents are magically enforced; breach causes instant death (no save)
+Undead Workforce: Create tireless undead laborers from corpses that require no food/rest and have 0 Defiance, but project "Death Scent" (Medical_Trauma v1.0) causing -2 Social Standing if used publicly
+Level 13: Phylacteric Immortality
+
+If body is destroyed, reform at phylactery in 1d10 days. Lose one random Body trait permanently (the flesh remembers decay)
+Soul Division: Can split phylactery into 2 vessels; if one destroyed, survive via other. Each division causes -2 Charisma (fragmented personality)
+Level 14: The Necrotic Estate
+
+Transform your Property_Ownership holding into a Dead Zone: All dead on premises rise as controlled undead; living residents gain Immunity to disease but suffer 1 Insanity Point per week (whispers of the bound dead)
+Ultimate Price: You can no longer breed (sterile) or feel sexual pleasure; BDSM scenes become purely mechanical (defiance management only, no PP)
+4. THE LIVING SAINT (Silken Collar Ascendant)
+"Pain is prayer, submission is sacrament, and I am the altar."
+
+Requirements:
+
+Ally status with Silken Collar Church
+Sexual Corruption 90+ (true depravity sanctified)
+Have hosted 3+ Grand Revels (Random_Events_Table v1.15) without scandal
+Own a Grand Arcane Sanctum (Magic_Backlash_Table v1.1) converted to pleasure-worship
+Features:
+
+Level 11: Sacred Corruption
+
+Your Sexual Corruption is treated as "Divine Grace." Can perform "miracles":
+Blessing of Obedience: Touch reduces target's Defiance to 0 for 24 hours (they become perfectly compliant but gain +20 Sexual Corruption permanently)
+Stigmata of Ecstasy: Wounds you inflict during BDSM scenes heal as pleasure (target gains HP instead of losing it, but gains 1 Insanity Point per HP healed)
+Level 12: The Orgasmic Ascension
+
+Ritual of Sacred Union: Once per month, perform a public BDSM scene with 10+ participants. Success (DC 25 Erotic Performance) grants you Ascendant Form for 1 week: +4 to all stats, fly speed 30 ft, immune to non-magical weapons
+The Cost: Participants age 1d4 years instantly (you consume their vitality)
+Level 13: Planar Touch
+
+Become a half-planar entity: No longer need food/water (feeds on worship/prayer), immune to aging, but must perform daily BDSM "sacraments" or suffer -5 to all stats (withdrawal from divine pleasure)
+Can grant Divine Commands to followers (treat as Enchanting rituals without backlash, but followers gain +10 Corruption per command)
+Level 14: The Godhead of Flesh
+
+Apotheosis: Transform into a minor deity bound to a specific estate or temple. You become an NPC demigod; players may now worship you for mechanical bonuses (your former PC grants +2 to all BDSM rolls to worshippers within 10 miles)
+Final Condition: Cannot leave your sanctum (become location-bound); can possess willing high-Corruption slaves to act in the world (one at a time)
+ASCENSION RITUALS (The Final Transformation)
+For those seeking to break the Level 14 cap or escape mortality entirely, these Legendary Rituals (DC 35+) represent the ultimate endgame.
+
+The Planar Transmigration
+Become a true demon, fey lord, or elemental prince
+
+Requirements:
+
+Level 14 in any Prestige Class
+Sexual Corruption 100 (maximum depravity) OR Defiance 0 (perfect submission to external power)
+Ritual: Must open a permanent planar rift during a 24-hour orgy involving 100+ participants (willing or otherwise)
+Cost: 100,000 gp in reagents, permanent sacrifice of all mortal offspring (they die/are dragged to the plane)
+Result:
+
+Physical body dissolves; become a spirit entity with no physical stats but +10 to all mental stats
+Can possess bodies (like Lich) but also manifest physically for limited time (1 hour per day per 10,000 gp of soul contracts owned)
+The Trap: Must still engage in the "feeding" of your plane (demons need corruption, fey need worship, elementals need environmental energy) or fade into nothingness
+The Dryad-Touched Eternal
+Merge with the Verdant Cycle itself
+
+Requirements:
+
+Ally status with Verdant Cycle Church
+Must have planted and maintained a sacred grove for 10+ years (Time_System v1.1)
+Ritual: Blood sacrifice of own mortality into a ancient tree; become plant-flesh hybrid
+Result:
+
+Body becomes living wood/vine; no longer ages, immune to piercing weapons, regeneration 10 HP/day in sunlight
+Can communicate with all plant life (intelligence network covering wilderness areas)
+The Price: Root-bound; cannot travel more than 1 mile from your anchor-tree without suffering 1d10 damage per hour. Must spend 4 hours daily in "sunlight meditation" (inert)
+The Collective Unconscious
+Dissolve into a hive-mind of your bloodline
+
+Requirements:
+
+Bloodline Patriarch/Matriarch Level 14
+100+ living descendants (slaves, offspring, or turned followers)
+Result:
+
+Physical form becomes unnecessary; exist as distributed consciousness across all bloodline members
+Cannot die unless all descendants are exterminated
+Can experience sensations through any descendant simultaneously (infinite pleasure/pain potential)
+The Horror: Gradually lose individuality; after 10 years as Collective, make DC 20 Wis save monthly or forget your original name (become "The Bloodline" entirely)
+INTEGRATION WITH EXISTING FILES
+Player_Character.txt v1.11: Insert after the Level 10 Archetype Capstone Feature section. These Prestige Classes replace standard advancement features Levels 11-14.
+
+Time_System.txt v1.1: The Aging Crisis triggers integrate with Monthly Aging Checks; characters reaching Level 10 must immediately roll for Longevity Backlash if they choose that path.
+
+Legacy_Tracker v1.2: Bloodline traits from Prestige Classes add new inheritance options; the Collective Unconscious effectively makes the Legacy Tracker the character sheet.
+
+Medical_Trauma.txt v1.0: Longevity Backlash and Ascension Rituals reference mutation mechanics and Insanity Points extensively.
+
+Magic_System v1.13: Ascension Rituals use the existing ritual framework but require DC 35+ (beyond normal caps), with catastrophic backlash on failure (usually death or permanent planar binding as a non-entity).
+
+Interrogation_Information_Extraction.txt v1.0: Shadow Guildmasters gain bonuses to information extraction via their "Invisible Empire" network.
+
+Property_Ownership.txt v1.9: The Necrotic Estate (Undying Noble) and Dead Zone modifications require specific property tiers as prerequisites.
+
+
+
+
+
+
+</Player_Character.txt>

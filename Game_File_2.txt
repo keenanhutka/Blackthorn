@@ -1,0 +1,627 @@
+<Body_Ranges_Reference.txt>
+BODY_RANGES_REFERENCE - Version 1.9 (Grimdark Erotic Fantasy, 70 AE)
+Core Philosophy
+All sentient beings in the Shattered Principalities are described using a 1–100 spectrum for key physical and sensory traits. These numbers do not represent absolute measurements but rather a character’s position on a race- and gender-specific range. A score of 1 is the minimum possible for that race/gender, while 100 is the maximum. This allows fine-grained differentiation while keeping mechanics consistent across species.
+Genital size and orifice capacity use a simplified 1–7 relative scale (detailed below) to make compatibility fast and intuitive while preserving race-based erotic tension. Sexual Corruption (0–100) is a new tracked stat that allows highly corrupt NPCs to safely accommodate larger sizes without magic or alchemy. All other traits remain on the 1–100 spectrum.
+Body traits directly influence seduction rolls, BDSM outcomes, slave market value, crafting of custom items (e.g., restraints or dildos), and social perception. Poor management of traits like Hygiene or Scent can cause Defiance spikes, reputation damage, or scene failure.
+================================================================
+ADULT TRAIT & RACIAL MATURITY REQUIREMENT
+All body trait mechanics, genital compatibility rules, erotic scenes, BDSM mechanics, breeding rules, and related content in this file (and across Sex_BDSM_System.txt, Pregnancy_Breeding_Rules.txt, Slavery_and_Defiance_Core_Mechanics.txt, and any other system file) apply exclusively to adult characters and NPCs only.
+- “Adult” is a required binary trait that must be present on any character or NPC profile before any genital compatibility calculations, erotic trait interactions, breeding mechanics, or related rules can be applied.
+- Maturity age (when the Adult trait is gained) varies by race and is defined in Races_Reference.txt v1.5:
+  - Goblins: 12–14 years (fastest maturation).
+  - Orcs and Dryads: 16–18 years.
+  - Humans, Gnomes, and Giants: 18–20 years.
+  - Elves: 25–30 years; Dwarves: 30–40 years (slowest due to long lifespans).
+- Any character or NPC lacking the “Adult” trait cannot have genital traits evaluated, participate in compatibility checks, or be subject to any erotic or breeding mechanics. Any attempt to involve non-adult individuals automatically fails, triggers severe narrative and mechanical consequences (including massive Defiance spikes, church scandals, legal penalties under Crime_Justice_System, faction backlash, or campaign-ending repercussions depending on table tone), and is strictly prohibited.
+- Offspring from any successful birth begin life without the Adult trait and only gain it upon reaching their race’s maturity age. This rule is a hard prerequisite across the entire system to ensure all content remains strictly adult-only.
+================================================================
+CLOTHING & FOOTWEAR SYNERGIES (New Section)
+Clothing and footwear from Raw_Materials_Tools_Trade_Goods.txt v1.3 now interact directly with Body traits in this reference. These items provide mechanical bonuses that enhance seduction, BDSM scenes, slave market value, and social perception while carrying grimdark trade-offs (vulnerability, discomfort, or Defiance risk when misused in labor or punishment contexts).
+Clothing Synergies
+- Practical Workwear (e.g., Simple Tunic & Trousers, Workday Tunic-Dress): +1 General Attractiveness when clean and well-fitted. Easy to tear or hike up during scenes (+1 to quick-access rolls) but offers no protection against public humiliation.
+- Luxury & Erotic Clothing (e.g., Silk Slave Silks, Decadent Court Gown, Pleasure House Sheer Silk Gown): +3 to +5 General Attractiveness depending on style and value. High-value pieces grant +2 to +4 on Seduction and Domination rolls in social or private scenes. Public wear in non-erotic contexts can increase scandal risk or Defiance if perceived as inappropriate.
+- Punishment & Humiliation Dresses (e.g., Public Shame Dress, Branded Punishment Smock): +1 to +2 General Attractiveness when deliberately displayed as humiliation. Increases Defiance checks by +10–25 in public settings; synergizes with Bondage or Flagellation for +2 to scene control.
+- Erotic & Specialty Dresses (e.g., Festival Breeding Gown, High-Society Courtesan Dress, Lactation & Breeding Display Dress): +4 to +5 General Attractiveness. Festival or breeding-themed gowns grant +2 to +3 on related performance rolls and +2 to kink discovery. Lactation display dresses add +3 to Breast Play synergy.
+Footwear Synergies
+- All women’s footwear that provides a Foot Attractiveness bonus now has increased values (+3 to +6 depending on style and quality).
+  - Simple Leather High Heels, Courtier Stilettos, Platform Heels, Strappy Gladiator Heels: +4 to +5 Foot Attractiveness. Enhances leg display and posture; +2 to Seduction rolls involving visual tease or foot play.
+  - Laced Corset Boots, Punitive “Hobbling” Heels: +5 to +6 Foot Attractiveness. Strong synergy with Bondage (+3 to restraint checks) and Flagellation/trampling scenes (+3 to +5 Pleasure Points for high-Corruption targets). However, prolonged wear causes significant foot pain and +8–20 Defiance daily unless removed for aftercare or rest.
+  - Luxury Enchanted Heels: +6 Foot Attractiveness (or higher with magic). Can add subtle vibration or illusion effects; high backlash risk if overused.
+- General Footwear Rule: High-heel and elevated styles improve visual erotic appeal and Foot Attractiveness but reduce mobility/endurance (–1 to –3 on physical checks) and increase fatigue/Defiance risk during labor, travel, or extended scenes. High Sexual Corruption can convert discomfort into pleasure, mitigating some penalties.
+- Synergies: Foot-focused BDSM scenes (footjobs, trampling, worship) gain +3 to +5 Pleasure Points or Defiance reduction when high-quality heels/sandals are used. Poorly maintained or ill-fitting footwear causes Hygiene degradation and +5–10 Defiance spikes.
+These clothing and footwear bonuses stack with base Body traits (Attractiveness, Foot Attractiveness) and Sexual Corruption but are negated or reversed in punitive/public humiliation contexts unless the scene is deliberately framed as erotic display.
+================================================================
+Trait List & Mechanical Ties
+Each NPC or player character has values in the following traits. Values are assigned during creation or discovered through play.
+1. Height (1–100)
+   Determines physical presence and intimidation factor. Taller characters gain bonuses in grapple/restraint checks but may require custom gear.
+2. Weight (1–100)
+   Affects perceived strength, endurance, and carrying capacity. Higher weight can provide natural armor-like bonuses in erotic combat but increases fatigue in long scenes.
+3. General Attractiveness (1–100)
+   Core modifier for seduction, BDSM domination rolls, and slave market value. High scores grant +1 to +4 on pleasure and social rolls. Clothing from Raw_Materials_Tools_Trade_Goods.txt v1.3 now directly modifies this trait: practical workwear +1, luxury/erotic pieces +3 to +5 (scaled by style and value), with grimdark trade-offs if neglected (Hygiene degradation accelerates, reducing effective Attractiveness and increasing Defiance).
+4. Sexuality Orientation Spectrum (1–100)
+   1 = Exclusively heterosexual, 50 = Bisexual with balanced tendencies, 100 = Exclusively homosexual. Used as a compatibility modifier in scenes.
+5. Breast Size (Female only, 1–100)
+   Influences visual appeal and sensation during scenes. Higher values provide bonuses to certain kink matches and pleasure rolls.
+6. Buttocks Size (1–100, all genders)
+   Affects visual and tactile appeal in rear-focused scenes and spanking/impact play.
+7. Penis Size (Male only, 1–7 relative scale)
+   1 = smallest possible for any race, 7 = largest possible for any race. See racial ranges below.
+8. Vaginal Depth (Female only, 1–7 relative scale)
+   1 = smallest capacity for any race, 7 = largest capacity for any race. See racial ranges below.
+9. Hand Size (1–100)
+   Affects manual dexterity in crafting, restraint application, and erotic touch.
+10. Foot Size (1–100)
+    Influences mobility and foot-related kinks.
+11. Foot Attractiveness (1–100)
+    Specific modifier for foot fetish or trampling scenes. Women’s footwear from Raw_Materials_Tools_Trade_Goods.txt v1.3 now directly modifies this trait (+3 to +6 for high-heel and elevated styles), enhancing foot-focused scenes but adding mobility penalties and Defiance risk from prolonged wear or neglect.
+12. Scent (1–100)
+    Low values = unpleasant/stinky (–2 to –4 on close-range seduction and pleasure rolls).
+    High values = pleasant/alluring (+2 to +4 on seduction and BDSM rolls).
+    Scent can be temporarily altered by crafted oils, bathing, or magic. Clothing and footwear maintenance (especially scented treatments) can preserve or boost effective Scent; neglect accelerates degradation.
+13. Hygiene (1–100, Inverted Scale)
+    Higher numbers = greater grime, dirt, and neglect (–1 to –4 on pleasure rolls, increased disease risk, higher Defiance growth).
+    Lowering Hygiene through bathing, cleaning, or grooming provides bonuses and reduces Defiance.
+    Hygiene and Scent are linked: poor hygiene often worsens scent. Neglected clothing or footwear (especially luxury garments and heels) rapidly increases Hygiene score and causes cascading penalties.
+14. Sexual Corruption (0–100) – New Stat
+    0 = completely pure (strongly dislikes anything beyond vanilla sex; depraved acts cause Defiance spikes or pleasure penalties).
+    100 = fully corrupted (actively enjoys extreme/depraved acts and heavy BDSM; gains extra Pleasure Points and faster Defiance reduction in those scenes).
+    Corruption increases through repeated kink-aligned or extreme BDSM scenes, mental manipulation, specific rewards, or forced exposure to depraved acts.
+    Corruption decreases slowly through gentle/affectionate scenes, high-quality aftercare, or positive reinforcement. High Corruption can convert discomfort from high heels or tight clothing into pleasure, mitigating some grimdark drawbacks.
+Genital Compatibility Rules (1–7 Scale)
+Penis Size and Orifice Capacity (mouth, vagina, anus) all use the same 1–7 relative scale for each race.
+Compatibility is calculated as the absolute difference between penis size and orifice capacity:
+- Difference of 0–1: Perfect match → +3 to +4 on pleasure rolls, minimal Defiance risk, easiest kink discovery.
+- Difference of 2: Good match → +1 to +2 bonus, comfortable.
+- Difference of 3–4: Significant mismatch → –2 to –3 penalty, noticeable discomfort, increased Defiance.
+- Difference of 5+: Extreme mismatch → –4 or worse, high risk of pain/injury, major Defiance spike, scene may fail.
+Size Tolerance via Sexual Corruption
+Highly corrupt NPCs can safely accommodate larger penises without magic or alchemy:
+- 40+ Corruption: +1 above normal racial max.
+- 60+ Corruption: +2 above normal racial max.
+- 90+ Corruption: +3 above normal racial max.
+Anything beyond this still requires magic, alchemy, or custom stretching devices (with the usual injury/Defiance risk).
+Orifice Rules
+- An orifice can normally only comfortably accommodate a penis of its own maximum size or smaller.
+- Anything larger requires magic, alchemy, or custom stretching devices (risk of injury, bleeding, or +15–30 Defiance) unless the NPC’s Sexual Corruption allows it.
+- Anything smaller than the orifice’s normal range still fits but provides noticeably reduced pleasure for the receiving partner (fewer Pleasure Points, weaker kink matching).
+Racial Genital Size & Orifice Capacity (1–7 Scale)
+- Goblins / Gnomes: 1–3 (1 = small, 2 = average, 3 = large for these races)
+- Dwarves: 2–5
+- Dryads / Elves / Humans: 3–6
+- Orcs: 4–6
+- Giants: 5–7 (5 = small, 6 = average, 7 = large for giants)
+Mouth and anus capacity follow the same racial 1–7 range as vaginal depth for each species.
+Genital Compatibility Examples
+1. Human Male (Penis 5) + Human Female (Vaginal Depth 5) → Difference 0 → Perfect match. +4 pleasure, smooth, low Defiance.
+2. Orc Male (Penis 6) + Elf Female (Vaginal Depth 4) → Difference 2 → Good match. +1 to +2 bonus, comfortable with mild size contrast.
+3. Giant Male (Penis 7) + Goblin Female (Vaginal Depth 2) → Difference 5 → Extreme mismatch. –4 or worse; requires magic/alchemy OR 90+ Sexual Corruption for safe accommodation.
+4. Gnome Male (Penis 2) + Giant Female (Vaginal Depth 7) → Difference 5 → Extreme mismatch. Pleasure severely reduced for the giant unless she has high Sexual Corruption.
+5. Dwarf Male (Penis 4) + Orc Female (Vaginal Depth 6) → Difference 2 → Good match. +1 to +2 bonus, comfortable with mild size contrast.
+Racial Body Ranges (1–100 Spectrum)
+Each race has unique minimum and maximum values for traits. The 1–100 score maps onto the race’s natural range. Genital and orifice sizes now use the 1–7 scale above.
+**Humans** (versatile baseline)
+- Height: 1 = 4'10" → 100 = 6'4"
+- Weight: 1 = 90 lbs → 100 = 240 lbs
+- Attractiveness: Broad spectrum
+- Penis Size / Orifice Capacity: 3–6 on 1–7 scale
+- Breast Size: 1 = very small → 100 = very large
+- Scent/Hygiene: Highly variable based on care
+**Orcs** (strong and robust)
+- Height: 1 = 5'6" → 100 = 7'2"
+- Weight: 1 = 160 lbs → 100 = 380 lbs
+- Attractiveness: Favors muscular, imposing builds
+- Penis Size / Orifice Capacity: 4–6 on 1–7 scale
+- Tend toward higher natural strength but stronger scent if not maintained
+**Elves** (graceful and refined)
+- Height: 1 = 5'0" → 100 = 7'0"
+- Weight: 1 = 80 lbs → 100 = 160 lbs
+- Attractiveness: Naturally high baseline
+- Penis Size / Orifice Capacity: 3–6 on 1–7 scale
+- Excel at sensory and teasing play; scent is delicate and easily altered
+**Dwarves** (sturdy and compact)
+- Height: 1 = 3'10" → 100 = 5'2"
+- Weight: 1 = 120 lbs → 100 = 280 lbs
+- Attractiveness: Values endurance and craftsmanship in form
+- Penis Size / Orifice Capacity: 2–5 on 1–7 scale
+- Strong natural Hygiene resilience but can become stubborn if neglected
+**Goblins** (small and wiry)
+- Height: 1 = 3'2" → 100 = 4'8"
+- Weight: 1 = 50 lbs → 100 = 110 lbs
+- Attractiveness: Chaotic and expressive
+- Penis Size / Orifice Capacity: 1–3 on 1–7 scale
+- Highly inventive with toys and restraints
+**Gnomes** (intricate and clever)
+- Height: 1 = 3'0" → 100 = 4'6"
+- Weight: 1 = 45 lbs → 100 = 95 lbs
+- Attractiveness: Values cleverness and detail
+- Penis Size / Orifice Capacity: 1–3 on 1–7 scale
+- Excel at mechanical or puzzle-like erotic play
+**Dryads** (very humanoid, nature-tied)
+- Height: 1 = 4'8" → 100 = 6'10"
+- Weight: 1 = 85 lbs → 100 = 170 lbs
+- Attractiveness: Naturally high with organic beauty
+- Penis Size / Orifice Capacity: 3–6 on 1–7 scale
+- Strong ties to natural Scent and living bondage; hygiene tied to grove health
+**Giants** (massive and imposing)
+- Height: 1 = 7'0" → 100 = 12'0"+
+- Weight: 1 = 300 lbs → 100 = 1,200+ lbs
+- Attractiveness: Values raw power and size
+- Penis Size / Orifice Capacity: 5–7 on 1–7 scale
+- Require specially crafted massive-scale gear; size difference play is central
+Mechanical Integration
+- Slave Market Value: High Attractiveness, pleasant Scent, low Hygiene, and favorable genital compatibility (including corruption-enabled tolerance) dramatically increase price. Clothing and footwear from Raw_Materials_Tools_Trade_Goods.txt v1.3 further modify market value through General Attractiveness (+1 practical to +5 luxury/erotic) and Foot Attractiveness (+3 to +6 for women’s heels) bonuses, with grimdark upkeep requirements.
+- BDSM Outcomes: Trait mismatches cause penalties; perfect matches grant bonuses and faster Defiance reduction. High Sexual Corruption turns depraved acts into powerful tools for loyalty and pleasure. Clothing and footwear synergies (General Attractiveness +3 to +5 for luxury/erotic pieces; Foot Attractiveness +3 to +6 for women’s heels) directly enhance seduction, foot play, and scene control while carrying mobility/Defiance drawbacks and requiring proper estate maintenance.
+- Crafting: Custom items (restraints, dildos, furniture) are tailored to specific Body ranges for optimal performance. Clothing and footwear upgrades integrate with Tailoring, Leatherwork, and Carving skills.
+- Social Advancement: Displaying slaves with exceptional traits or high corruption boosts reputation with decadent factions (Silken Collar, Silkveil, Velvet Hammer). Luxury clothing and high-heeled footwear amplify this effect in noble or public contexts.
+Edge Cases
+- Extreme Racial Mismatches: Giant + goblin scenes require extreme caution and custom gear or high Sexual Corruption.
+- Magical/Alchemical Alteration: Can temporarily or permanently shift traits or allow stretching (with backlash risk from Magic_System).
+- Hygiene Decay: Neglected slaves rapidly increase Hygiene score, causing cascading penalties in scenes and market value. Poorly maintained clothing or footwear (especially luxury garments and heels) accelerates this degradation.
+- Sexual Corruption Progression: Can be increased through repeated extreme scenes or mental manipulation and decreased through gentle care and aftercare. Clothing/footwear bonuses are amplified by high Corruption (pain from heels can convert to pleasure).
+- Footwear Condition: Ill-fitting or damaged heels/sandals negate attractiveness bonuses and cause Hygiene degradation or Defiance spikes. Proper maintenance in Estate_Management_and_Daily_Life routines is required to retain bonuses.
+This reference ensures consistent, granular physical description while tying directly into seduction, ownership, crafting, and erotic power mechanics.
+Update Log:
+- Version 1.6 – Original framework with Core Philosophy, Trait List, Genital Compatibility Rules, Racial Genital Ranges, Racial Body Ranges, Mechanical Integration, and Edge Cases. All content preserved in full.
+- Version 1.7 – Added new “ADULT TRAIT & RACIAL MATURITY REQUIREMENT” section immediately after Core Philosophy, establishing the hard prerequisite for all body trait evaluations, genital compatibility, erotic mechanics, and breeding rules (cross-referenced to Races_Reference.txt v1.5 and Sex_BDSM_System.txt v1.11). All previous content preserved verbatim. This ensures strict adult-only content while maintaining full grimdark integration across the system.
+- Version 1.8 – Added “CLOTHING & FOOTWEAR SYNERGIES” section referencing Raw_Materials_Tools_Trade_Goods.txt v1.3. Integrated General Attractiveness bonuses for clothing (scaled by style/value: +1 practical to +5 luxury/erotic) and increased Foot Attractiveness bonuses for women’s footwear (+3 to +6). Added mechanical effects, scene synergies, market value impact, and grimdark drawbacks (mobility penalties, Defiance risk from prolonged wear). All previous content preserved verbatim. Stronger ties to seduction, BDSM scenes, slave market value, and estate maintenance.
+- Version 1.9 – Expanded CLOTHING & FOOTWEAR SYNERGIES with deeper trait-level interactions (how clothing/footwear modifies General Attractiveness and Foot Attractiveness within the 1–100 spectrum, affects specific racial body ranges, and interacts with genital compatibility, Scent, Hygiene, and Sexual Corruption). Added explicit grimdark trade-offs (Hygiene degradation from neglected luxury items, foot pain from heels increasing Defiance drift) and cross-references to Crafting_System, Estate_Management_and_Daily_Life, Sex_BDSM_System, and Property_Ownership. All previous content preserved verbatim. Stronger integration of clothing/footwear as modifiers to core Body traits achieved.
+</Body_Ranges_Reference.txt>
+
+<Business_Income_Tracker.txt>
+
+BUSINESS_INCOME_TRACKER - Version 1.0 (Grimdark Erotic Fantasy, 70 AE)
+Core Philosophy
+This file provides simple, copy-pasteable monthly and seasonal income tracking for all estate types. It works directly with Estate_Management_and_Daily_Life v1.6 (Labor/Maintenance/Oversight/Recovery Blocks, overseer loyalty, breeding/lactation upkeep, clothing/footwear maintenance), Economy_Trade_System, Crafting_System, Slavery_and_Defiance_Core_Mechanics, Time_System v1.1 (seasonal modifiers and aging effects), and Random_Events_Table v1.15.
+Income is never guaranteed — neglect, high Defiance, poor maintenance of clothing/footwear, aging decline, or random events can reduce or eliminate profits. Successful management (low Defiance, proper upkeep, loyal overseers) increases output and unlocks bonuses. All values assume average conditions; apply modifiers from other systems as needed.
+Monthly Income Framework
+At the end of each month (after Monthly Accounting in Estate_Management_and_Daily_Life):
+
+Calculate Base Output from each estate.
+Apply modifiers (Defiance, overseer loyalty, seasonal effects, clothing/footwear maintenance, aging, random events).
+Subtract Upkeep.
+Record Net Income (in gold pieces) and any surplus resources.
+
+Estate Types & Base Monthly Income (Average Conditions)
+Agricultural Plantation
+
+Basic: 80–150 gp (crops, herbs, basic aphrodisiacs)
+Modest: 200–350 gp
+Established: 450–700 gp
+Grand: 900–1,600 gp
+Passive slave labor yield: +10 gp per 10 low-Defiance slaves assigned to fields (max +150 gp).
+
+Mining / Quarry Operation
+
+Basic: 120–220 gp (ore, stone)
+Modest: 300–500 gp
+Established: 650–1,000 gp
+Grand: 1,300–2,200 gp
+Passive slave labor yield: +15 gp per 10 low-Defiance slaves (max +250 gp). High danger increases Defiance risk.
+
+Workshop / Forge Complex
+
+Basic: 100–180 gp (basic tools, restraints)
+Modest: 250–450 gp
+Established: 550–900 gp (multi-skill commissions)
+Grand: 1,100–2,000 gp
+Crafting commissions bonus: +50–300 gp per successful multi-skill project completed this month (see Crafting_System).
+
+Lumber / Hunting Camp
+
+Basic: 90–160 gp (timber, hides, meat)
+Modest: 220–380 gp
+Established: 480–750 gp
+Grand: 950–1,500 gp
+Passive slave labor yield: +12 gp per 10 low-Defiance slaves (max +180 gp). Ties to Wilderness_Areas resource gathering.
+
+Pleasure Estate / Brothel
+
+Basic: 150–280 gp (services, private scenes)
+Modest: 400–650 gp
+Established: 800–1,400 gp
+Grand: 1,600–3,000+ gp
+Passive slave labor yield: +25 gp per 5 low-Defiance, high-Sexual-Corruption slaves in luxury fashion (max +400 gp). High Scent/Hygiene and proper clothing/footwear maintenance grant +20% bonus.
+
+Mixed/Custom Estate
+Add 70% of each included type’s base income, then apply a –15% coordination penalty unless dedicated overseers are assigned.
+Seasonal Income Modifiers (apply to Base Output before other adjustments)
+
+Spring (Fertility & Growth): +15% to Agricultural and Pleasure Estates. Breeding/lactation yields +20%.
+Summer (Heat & Oppression): –10% overall. Luxury clothing/footwear maintenance costs +25%. Defiance drift penalty reduces effective slave labor by 10–20%.
+Autumn (Harvest & Decay): +20% to Agricultural, Lumber, and Workshop Estates. Luxury goods sell at +15% premium.
+Winter (Cold & Desperation): –20% overall. Heavy warm fashion required or output drops another –15%. Pleasure Estates suffer –25% unless indoor luxury maintained.
+
+Passive Slave Labor Yields (Monthly, per estate)
+
+Low Defiance (0–30 average): Full yield listed above.
+Moderate Defiance (31–60): 70% of listed yield.
+Resistant Defiance (61–75): 40% of listed yield.
+Rebellious (76+): 10% or negative (sabotage possible).
+Aging slaves: –5% per 10 years past prime unless maintained with longevity potions (Alchemy_Consumables_and_Potions).
+Clothing/Footwear Bonus: Properly maintained luxury garments/heels on display slaves grant +10–30% to Pleasure or Social-facing estates.
+
+Crafting Commissions (Monthly Bonus Income)
+
+Basic commission: 40–120 gp
+Mid-tier (multi-skill): 150–400 gp
+High-value / enchanted: 500–1,500 gp
+Legendary / signature item: 2,000+ gp (one-time or rare)
+Success chance and payout modified by workshop level, slave skills, Defiance, and fashion/status display during delivery.
+
+Upkeep Costs (Monthly)
+
+Basic Estate: 30–60 gp
+Modest: 80–150 gp
+Established: 200–350 gp
+Grand: 500–900 gp
+Additional costs:
+Clothing/Footwear Maintenance: 10–80 gp (scales with luxury level and number of slaves in high-tier items).
+Breeding/Lactation Upkeep: 20–120 gp (nutrition, milking facilities, alchemical aids).
+Overseer Salaries: 15–60 gp per overseer.
+Longevity Potions or Rituals: 100–800+ gp (per key slave or owner).
+
+Market Fluctuation Modifiers (d20 roll once per month, applied to all income)
+1–4: Harsh downturn (–30% income, shortages common)
+5–8: Minor slump (–15%)
+9–12: Stable market (no modifier)
+13–16: Minor boom (+15%)
+17–19: Strong demand (+25%)
+20: Exceptional windfall (+40% + possible rare buyer or faction bonus)
+Net Income Calculation Example (copy-paste template)
+Estate Name: ________________________ Type: ________________ Level: ________
+Base Output: ________ gp
+Seasonal Modifier: ________ %
+Slave Labor Yield: ________ gp
+Crafting Commissions: ________ gp
+Market Fluctuation: ________ %
+Total Gross: ________ gp
+Upkeep (base + clothing/footwear + breeding + overseers): – ________ gp
+Net Income: ________ gp
+Notes (Defiance, aging, random events, etc.): ______________________________
+Tracking Tips
+
+Use one row per estate per month for easy long-term records.
+Aging decline or repeated rebellions can permanently lower base output by 10–30% until resolved.
+High Sexual Corruption slaves in properly maintained luxury fashion/heels dramatically boost Pleasure Estates.
+Successful BDSM motivation scenes and aftercare during Oversight Block can prevent yield loss from Defiance.
+
+Integration with Core Systems
+
+Estate_Management_and_Daily_Life v1.6: Income directly reflects daily block decisions, overseer loyalty, and maintenance quality.
+Slavery_and_Defiance_Core_Mechanics: High Defiance or neglected clothing/footwear reduces passive yields and can turn profit into loss via sabotage.
+Time_System v1.1: Seasonal modifiers and Monthly Aging Checks heavily impact output and upkeep.
+Random_Events_Table v1.15: Events during Labor/Maintenance blocks can add bonuses or catastrophic losses.
+Alchemy_Consumables_and_Potions & Body_Ranges_Reference: Longevity treatments and luxury fashion maintenance are tracked costs/bonuses.
+Social_Advancement: Consistent positive net income and high-status displays accelerate tier progression.
+
+We will continuously expand this tracker together. Suggest new estate types, more detailed commission tables, or printable sheet formats anytime.
+Update Log:
+
+Version 1.0 – Initial creation of BUSINESS_INCOME_TRACKER as a new standalone file. Provides simple monthly/seasonal income tables for all estate types, passive slave labor yields, crafting commission bonuses, market fluctuation roll, upkeep costs (including clothing/footwear and breeding/lactation), and a copy-paste tracking template. Full integration with Estate_Management_and_Daily_Life v1.6, Time_System v1.1, Random_Events_Table v1.15, and all core systems. No prior content to preserve.
+
+</Business_Income_Tracker.txt>
+
+<CAMPAIGN_MILESTONE_GUIDE.txt>
+CAMPAIGN_MILESTONE_GUIDE - Version 1.5 (Grimdark Erotic Fantasy, 70 AE - Shattered Principalities)
+
+Core Philosophy
+This guide provides a clear, modular campaign arc for the Shattered Principalities, designed to take a single low-resource player character (or small group) from street-level survival to generational empire-building. The structure leverages all core systems — especially Time_System.txt v1.1 for aging and generational consequences, Social_Advancement.txt v1.5 for tier progression, Random_Events_Table.txt v1.14 for volatile daily life, Slavery_and_Defiance_Core_Mechanics, Sex_BDSM_System, Estate_Management_and_Daily_Life, and the low-resource Starter_Adventures.
+
+Campaigns emphasize consequence, time passage, and legacy. Even “successful” choices carry grimdark costs: aging weakens the owner, slaves mature and develop their own Defiance, bloodlines create new assets or liabilities, and visible decline can trigger reputation bleed or rebellion chains. Sessions can be run weekly or with time-skips (weeks/months/years) using Time_System monthly checks.
+
+Campaign Structure Overview (Approximate Session Count for 2–4 hour sessions)
+- Phase 1: Street Survival & First Assets (Sessions 1–20, ~0–12 in-game months)
+- Phase 2: Estate Foundations & Local Power (Sessions 21–50, ~1–4 in-game years)
+- Phase 3: Regional Influence & Political Maneuvering (Sessions 51–100, ~4–12 in-game years)
+- Phase 4: Generational Legacy & Empire Building (Sessions 101+, 12+ in-game years)
+
+Each phase includes milestone goals, recommended XP awards (feeding into Social_Advancement), key system touchpoints, sample hooks (drawing from Starter_Adventures, Random_Events, and Random_NPC_Generator), and Time_System aging checkpoints.
+
+Phase 1: Street Survival & First Assets (Social Standing Tier 0–1)
+Goal: Survive the slums, acquire your first slave or workshop tool, establish basic income, and avoid immediate capture or starvation while learning the brutal basics of ownership and consequence.
+
+Key Milestones
+- Acquire first low-value slave or small asset through capture, black-market purchase, or opportunistic scavenging (500 XP)
+- Complete 1–2 low-risk jobs or raids (scavenging, minor smuggling, or petty theft) without major Defiance incidents or detection (300–600 XP each)
+- Survive your first public scandal or hygiene-related social failure (e.g., appearing in rags with a foul-scented slave in public) and recover through basic aftercare or quick fashion upgrade (400 XP)
+- Successfully manage your first Defiance spike with a basic motivation or restraint scene, learning the core loop of control and consequence (300 XP)
+- Reach Social Standing Tier 1 (3000 XP total + meet 2 advancement methods)
+
+Time_System Checkpoint: First 1–3 Monthly Aging Checks. Minimal visible change for the PC, but poor street conditions can cause early Hygiene/Scent penalties or minor Body trait wear on any acquired slaves. First taste of daily Defiance drift under harsh conditions. Players should feel the pressure of time even in the opening sessions — every wasted day increases drift and risk.
+
+Sample Hooks (use or adapt from Starter_Adventures v1.1)
+- Captured low-value slave attempts immediate escape (triggers Defiance mechanics and first BDSM scene with simple restraints)
+- Black-market deal gone wrong in Thornhaven alleys (ties to Loot_Tables and Crime_Justice_System, possibly resulting in your first slave or tool)
+- Scavenging ambush aftermath with scattered cargo and potential first slave
+- Random_Events_Table roll during first days leads to a desperate first motivation scene or minor combat capture (e.g., a sudden rainstorm causing Hygiene degradation)
+- First desperate attempt to clean and dress a Tier 0 slave using LUXURY_FASHION_AND_STATUS basics, highlighting immediate mechanical impact
+
+Recommended Systems Focus
+- Combat_Rules (quick non-lethal captures and grapple/restraint flow), Random_Events_Table (daily survival complications with early Time_System severity), Slavery_and_Defiance_Core_Mechanics (initial Defiance drift and first aftercare), LUXURY_FASHION_AND_STATUS (first Tier 0–1 clothing upgrades and their immediate impact on social rolls and Defiance), SESSION_0_QUICKSTART_GUIDE for onboarding tone
+
+Phase 2: Estate Foundations & Local Power (Social Standing Tier 1–2)
+Goal: Secure a small workshop or holding, stabilize 2–4 slaves, generate consistent income, begin managing daily routines, and establish a foothold reputation in one settlement while feeling the weight of ongoing time pressure.
+
+Key Milestones
+- Acquire and upgrade first basic property (Workshop or Small Holding) (800–1500 XP)
+- Complete a full Estate_Management_and_Daily_Life cycle with net positive output and no major Defiance incidents (400 XP per successful month)
+- Train at least one slave to Moderate Sexual Corruption and stable Defiance (600 XP)
+- Host first private BDSM gathering or successful crafting commission with visible fashion/status elements (600–1000 XP)
+- Survive or capitalize on your first seasonal event or festival complication (500 XP)
+- Reach Social Standing Tier 2 (additional 3000 XP + meet 2 advancement methods)
+
+Time_System Checkpoint: 6–18 Monthly Aging Checks. First visible aging on older slaves or the PC (possible –1 to Attractiveness or Endurance). Longevity potions (Alchemy_Consumables_and_Potions v1.5) or minor rituals become relevant for the first time. Generational planning begins if any breeding occurs; early offspring conception risks add tension.
+
+Sample Hooks
+- Rival petty merchant attempts to sabotage your new workshop (Random_Events + Combat)
+- Opportunity to purchase a second slave at auction with fashion/status implications and immediate Defiance management needs
+- Seasonal festival event (Festival Events Table) that risks public scandal or reputation gain, amplified by your emerging luxury items
+- First Random_Events_Table aging-modulated complication (e.g., heat wave increasing Defiance drift during early estate management)
+- First multi-slave motivation scene where poor Tier 1 fashion causes partial failure and forces quick upgrades
+
+Recommended Systems Focus
+- Estate_Management_and_Daily_Life (daily routines and seasonal effects), Economy_Trade_System, Crafting_System, Random_Events_Table (now with Time_System severity modifiers and aging influences), Social_Advancement XP tracking, LUXURY_FASHION_AND_STATUS for status displays during early public events
+
+Phase 3: Regional Influence & Political Maneuvering (Social Standing Tier 2–4)
+Goal: Expand holdings across multiple districts or baronies, forge multi-faction alliances, manage larger slave populations (8+), influence baronial politics, navigate growing personal and generational costs of aging, and begin positioning yourself as a regional power while confronting the first real signs of long-term decline.
+
+Key Milestones
+- Upgrade to Grand Estate or add multiple specialized facilities (pleasure chambers, ritual rooms, secure breeding quarters, hidden smuggling tunnels) (1000–2000 XP each)
+- Secure Ally status with at least two major factions and begin leveraging cross-faction opportunities (800 XP each)
+- Successfully resolve 1–2 Major Rebellion Chains or Festival events without catastrophic loss or major reputation bleed (1200–1500 XP each)
+- Complete high-value multi-skill commissions or breeding contracts that become regional status symbols (especially those involving luxury fashion, enchanted restraints, or signature bloodlines) (1500–2000 XP)
+- Survive or exploit a major cross-faction scandal tied to your growing visibility and aging appearance (e.g., a public display where reduced Attractiveness or scent control causes complications) (1000 XP)
+- Orchestrate or survive at least one political intrigue that shifts local power dynamics in your favor (1200 XP)
+- Reach Social Standing Tier 3 or 4 (8000–15,000 XP + meet 3–4 advancement methods)
+
+Time_System Checkpoint: 2–5 in-game years of Monthly Aging Checks. PC and senior slaves show noticeable aging (potential Body trait loss, reduced fertility, social perception penalties). Longevity treatments or necromantic options carry increasing backlash risk. First offspring from breeding programs reach maturity (use Random_NPC_Generator + NPC_System), introducing new NPCs with inherited traits, their own Defiance, and potential ambitions or value as assets. Seasonal effects begin compounding daily routines and event severity.
+
+Sample Hooks
+- Noble commission involving public erotic display or political escort (ties to LUXURY_FASHION_AND_STATUS and Factions_and_Politics, with aging-related social risks if your own appearance or slave maintenance slips)
+- Cross-faction intrigue or scandal that can elevate or destroy your standing, possibly triggered by visible owner decline or a maturing slave’s rebellion
+- Generational crisis: maturing offspring slave develops high Defiance or exceptional traits, forcing choices between control, breeding value, or risky independence
+- Random_Events_Table aging-modulated major incident (e.g., winter desperation amplifying Defiance during estate expansion or a festival where your older slaves struggle with physical demands)
+- Rival faction attempts to expose your black-market ties or poor longevity management, forcing a high-stakes public BDSM demonstration or political maneuver
+
+Recommended Systems Focus
+- Factions_and_Politics, Magic_System rituals (including aging-related options), advanced Combat_Rules (vehicle/magical/multi-enemy with Defiance carryover), Pregnancy_Breeding_Rules for bloodline creation and maturation, Time_System for long-term consequences and seasonal pressure, Random_Events_Table for personalized reputation/aging effects, LUXURY_FASHION_AND_STATUS for maintaining status displays as aging begins to show
+
+Phase 4: Generational Legacy & Empire Building (Social Standing Tier 4–5)
+Goal: Establish a lasting bloodline or empire, manage multi-generational estates, shape baronial power, confront the realities of personal aging and succession, and decide what kind of legacy you will leave as time inevitably catches up.
+
+Key Milestones
+- Create and stabilize a signature bloodline with desirable inherited traits across 2–3 generations (2000+ XP)
+- Shift regional power balance (e.g., elevate one church or crush a rival house through political, erotic, or economic means) (3000 XP)
+- Successfully hand off major responsibilities to mature offspring or loyal lieutenants while managing your own visible aging decline (1500–2500 XP)
+- Reach Social Standing Tier 5 (25,000 XP + meet all advancement methods)
+- Resolve a major succession crisis or rebellion involving your own bloodline (2000 XP)
+- Establish at least one legendary status symbol (crafted item, signature bloodline, or grand festival) that outlives your personal prime (2500 XP)
+
+Time_System Checkpoint: 5+ in-game years with frequent Monthly Aging Checks. The PC may require repeated longevity interventions with compounding grimdark costs (mutations, accelerated backlash, Defiance inheritance issues to offspring). Generational hand-off becomes central — offspring age into playable roles or key NPCs with their own Body traits, Defiance, ambitions, and potential to either strengthen or undermine your empire. Visible decline in the founder can trigger reputation bleed, slave unrest, or rival challenges. Late-game seasons and lunar cycles dramatically amplify event outcomes and daily management difficulty.
+
+Sample Hooks
+- Succession crisis or rebellion led by your own grown offspring (high Defiance or exceptional traits creating internal conflict)
+- Grand breeding festival or legendary crafting project that cements your legacy while highlighting aging contrasts with younger generations
+- Final confrontation with a long-term rival whose aging mirrors your own, possibly involving parallel longevity struggles or competing bloodlines
+- Multi-generational Random_Events_Table complication during a major estate or baronial event, where aging effects dramatically shift outcomes (e.g., a harsh winter exposing founder weakness)
+- Political summit where your mature offspring must represent you, forcing decisions about trust, training, or replacement
+
+Recommended Systems Focus
+- All core systems at full integration, with heavy emphasis on Time_System generational mechanics and aging decline, Pregnancy_Breeding_Rules bloodlines and maturation, Social_Advancement legacy benefits and tier 5 rewards, Random_Events_Table aging-modulated complications, NPC_System for mature offspring, and Estate_Management_and_Daily_Life for multi-generational upkeep.
+
+Integration Notes
+- Use Random_NPC_Generator v1.3 (with faction/race variants) for all new characters and offspring.
+- Track time visibly with Time_System monthly/seasonal checks — aging should feel consequential, not abstract.
+- XP from Social_Advancement feeds directly into tier progression; combine with milestone narrative goals for flexibility.
+- Starter_Adventures v1.1 provide immediate Phase 1 content; expand with Random_Events_Table and custom hooks for later phases.
+- Campaign length is flexible: short campaigns can end at Tier 3; long campaigns naturally transition into generational play with meaningful aging and legacy consequences.
+
+Future Expansion Notes
+Additional phase-specific adventure packs.
+Detailed succession and inheritance rules.
+Legacy tracker appendix for bloodlines and multi-generational estates.
+We will expand this guide together. Suggest refinements, new milestones, or phase-specific content anytime.
+
+Update Log:
+- Version 1.0 – Initial creation of Campaign Milestone Guide as a new standalone file. Provides a complete 4-phase campaign arc with milestones, XP ties to Social_Advancement v1.5, Time_System v1.1 aging/generational checkpoints, sample hooks, and full integration with all core systems (SESSION_0_QUICKSTART_GUIDE, Starter_Adventures, Random_Events_Table, Estate_Management, Pregnancy_Breeding_Rules, etc.). Designed as the high-level roadmap that ties the entire rule set into playable long-term campaigns. No prior content to preserve.
+- Version 1.1 – Significantly expanded each of the four phases with richer details: added specific sub-milestones, more sample hooks tied to existing systems (including Random_Events_Table and LUXURY_FASHION_AND_STATUS), deeper Time_System aging/generational integration, and clearer grimdark consequences for each phase. All previous content preserved verbatim. Makes the campaign arc more vivid, actionable, and tightly connected to the full rule set while preserving the original high-level structure.
+- Version 1.2 – Dramatically detailed Phase 1 with expanded Key Milestones (added first Defiance spike management and public scandal survival), richer Sample Hooks (including explicit ties to first fashion upgrade and Random_Events), and stronger grimdark onboarding flavor. All previous content preserved verbatim. Makes the critical starting phase more concrete and immediately actionable for new groups while maintaining seamless flow into later phases.
+- Version 1.3 – Revised Campaign Structure Overview to support a much longer campaign: Phase 1 now Sessions 1–20 (~0–12 months), Phase 2 Sessions 21–50 (~1–4 years), Phase 3 Sessions 51–100 (~4–12 years), and Phase 4 starting at Session 101+ (12+ years). All previous content preserved verbatim. This allows deep generational play and meaningful Time_System consequences to unfold naturally over many sessions while keeping earlier phases appropriately paced.
+- Version 1.4 – Expanded Phases 2, 3, and 4 in the same detailed style as Phase 1: added richer Key Milestones, more concrete Sample Hooks with explicit system ties, deeper grimdark flavor, and stronger Time_System/aging integration for each phase. All previous content preserved verbatim. Creates a fully fleshed-out, consistent campaign roadmap across all four phases while preserving the long-timeline structure.
+- Version 1.5 – Further expanded Phase 3 and Phase 4 with additional concrete Key Milestones (including political intrigue, signature bloodline establishment, and succession hand-off), richer Sample Hooks with explicit ties to aging, fashion, and generational tension, and deeper grimdark flavor highlighting long-term costs and legacy decisions. All previous content preserved verbatim. Completes the detailed campaign arc across all phases for a truly epic generational experience.
+
+You can now copy and paste the entire block above directly into your file.
+</CAMPAIGN_MILESTONE_GUIDE.txt>
+
+<Combat_Equipment.txt>
+COMBAT_EQUIPMENT - Version 1.0 (Grimdark Erotic Fantasy, 70 AE)
+This file catalogs all combat, armor, weapon, and punitive items. Each entry includes Category & Name, Crafting Requirements, Base Cost & Market Value, Mechanical Effects, System Integrations, Black Market/Illicit Notes, and Rarity & Notes.
+All items can be upgraded via Crafting_System multi-skill projects, magical enhancement, or black market modifications.
+================================================================
+ARMOR & SHIELDS
+Padded Armor (Gambeson)
+Crafting: Tailoring DC 16 + Leatherwork DC 15
+Cost: 15–40 gp
+Effects: Basic protection against bludgeoning; lightweight and quiet. Can be fitted with hidden restraint loops.
+Integrations: Combat, Vehicle escort, low-profile slave control. Synergizes with Scent/Hygiene (breathable but can trap odors if neglected).
+Notes: Common for overseers and guards in hot climates.
+Leather Armor
+Crafting: Leatherwork DC 18 + Tailoring DC 17
+Cost: 40–100 gp
+Effects: Good mobility and slashing resistance. Easily modified for BDSM harness integration.
+Integrations: Sex_BDSM (restraint-compatible), Combat, Slavery_Defiance (everyday enforcer gear).
+Notes: Favored by Crimson Veil and rural patrols.
+Studded Leather Armor
+Crafting: Leatherwork DC 20 + Blacksmithing DC 18
+Cost: 60–150 gp
+Effects: Balanced protection and mobility. Studs can double as pain points in close dominance.
+Integrations: Combat + erotic punishment hybrid, Body traits (custom fit reduces movement penalties for larger races).
+Notes: Standard for mid-tier slavers and trainers.
+Chain Mail (Hauberk)
+Crafting: Blacksmithing DC 24 + Leatherwork DC 20
+Cost: 100–250 gp
+Effects: Strong slashing/piercing resistance. Heavy weight can aid posture training or restraint.
+Integrations: Combat, Public displays of authority, Defiance control through discomfort.
+Notes: Common among House Ironroot and professional guards.
+Scale Mail
+Crafting: Blacksmithing DC 23 + Leatherwork DC 22
+Cost: 120–300 gp
+Effects: Good all-around protection. Overlapping scales create noise for psychological intimidation.
+Integrations: Combat, Slave herding, Vehicle defense.
+Notes: Popular in border baronies.
+Breastplate (Half-Plate)
+Crafting: Blacksmithing DC 26 + Leatherwork DC 21
+Cost: 200–500 gp
+Effects: Strong torso protection with good mobility. Can be engraved with ownership symbols or erotic motifs.
+Integrations: Combat, Noble house commissions (Thorne and Silkveil favor ornate versions), Public ownership displays.
+Notes: Status symbol for mid-level nobles and elite enforcers.
+Full Plate Armor
+Crafting: Blacksmithing DC 30 + Carpentry DC 22 (for under-padding) + Tailoring DC 20
+Cost: 600–1,800 gp
+Effects: Superior protection but heavy and restrictive. Can be modified into full-body restraint frames.
+Integrations: High-end combat, Extreme dominance displays, Giant-scale custom versions extremely rare/expensive.
+Notes: Rare outside major noble houses; requires skilled smiths and significant upkeep.
+Wooden Shield (Buckler or Heater)
+Crafting: Carpentry DC 16 + Leatherwork DC 15
+Cost: 10–35 gp
+Effects: Basic deflection. Can be used for bashing or pinning slaves against walls.
+Integrations: Combat, Close-quarters slave control.
+Notes: Cheap and common for militia.
+Metal Shield (Kite or Tower)
+Crafting: Blacksmithing DC 22 + Carpentry DC 18
+Cost: 50–150 gp
+Effects: Strong defense and bashing power. Tower shields excel at herding groups of slaves.
+Integrations: Combat, Vehicle escort, Public punishment formations.
+Notes: Standard for Crimson Watch and professional slavers.
+Spiked Shield
+Crafting: Blacksmithing DC 24 + Leatherwork DC 19
+Cost: 80–200 gp
+Effects: Adds offensive spikes for bashing/pain delivery. Excellent for intimidation and punitive strikes.
+Integrations: Combat + BDSM hybrid, House Bloodvein favorite.
+Notes: High risk of accidental injury to user or slaves.
+Reinforced Leather Shield
+Crafting: Leatherwork DC 20 + Blacksmithing DC 17
+Cost: 30–80 gp
+Effects: Lightweight with decent protection. Easy to integrate restraint straps or chains.
+Integrations: Sex_BDSM (defensive play or pinning), Mobile slave control.
+Notes: Popular for trainers who need mobility.
+Ornate Heraldic Shield (Noble)
+Crafting: Blacksmithing DC 25 + Painting DC 22 + Carving DC 20
+Cost: 150–600 gp
+Effects: High intimidation and status bonus. Can display house crests or erotic symbols.
+Integrations: Factions_and_Politics (reputation boost with allied houses), Public spectacles.
+Notes: Commissioned by noble houses; scandal if captured or defaced.
+================================================================
+MELEE WEAPONS
+Dagger / Knife
+Crafting: Blacksmithing DC 14 + Carving DC 12
+Cost: 8–25 gp
+Effects: Light piercing/slashing. Excellent for precise blood play, scarification, or threat displays. +1 to intimidation in close quarters.
+Integrations: Sex_BDSM (blood or edge play), Combat (concealable), Defiance (quick punitive cuts).
+Notes: Standard tool for guards and enforcers; easily hidden.
+Short Sword
+Crafting: Blacksmithing DC 18 + Leatherwork DC 15 (for grip)
+Cost: 30–80 gp
+Effects: Versatile one-handed weapon. Good for quick strikes and control in tight spaces.
+Integrations: Combat, Slavery_Defiance (close-quarters discipline), Erotic combat (threat + restraint).
+Notes: Common among Crimson Watch and urban enforcers.
+Long Sword
+Crafting: Blacksmithing DC 22 + Carving DC 18 (hilt)
+Cost: 60–150 gp
+Effects: Balanced slashing weapon. +2 to intimidation and domination rolls when used in public displays.
+Integrations: Combat, Public punishment spectacles, Noble house commissions (Thorne and Bloodvein favor them).
+Notes: Symbol of martial status; often used in ritualized “honor” duels.
+Bastard Sword (Hand-and-a-Half)
+Crafting: Blacksmithing DC 24 + Carving DC 20
+Cost: 90–220 gp
+Effects: Versatile one- or two-handed use. Excellent for powerful strikes and controlling larger slaves.
+Integrations: Combat + restraint hybrid, Size-difference play (giant control).
+Notes: Favored by House Thorne for its balance of power and control.
+Greatsword / Two-Handed Sword
+Crafting: Blacksmithing DC 26 + Carpentry DC 22 (for balance)
+Cost: 150–400 gp
+Effects: Massive slashing damage. Intimidation bonus against groups; useful for breaking formations or punishing multiple slaves.
+Integrations: Combat, Public spectacles, Giant-scale intimidation.
+Notes: Rare and expensive; status symbol for elite enforcers.
+Club / Cudgel
+Crafting: Carpentry DC 12 or Blacksmithing DC 14
+Cost: 5–20 gp
+Effects: Simple bludgeoning. Low-lethality pain delivery; +2 to basic punitive scenes.
+Integrations: Slavery_Defiance (everyday discipline), Backwards enclaves favorite.
+Notes: Improvised and ubiquitous; often the first weapon given to new guards.
+Mace
+Crafting: Blacksmithing DC 20 + Carving DC 16
+Cost: 40–100 gp
+Effects: Heavy bludgeoning with armor-piercing potential. Excellent for breaking resistance without killing.
+Integrations: Combat, Punitive BDSM (heavy impact), House Bloodvein signature weapon.
+Notes: Symbol of brutal authority.
+Morning Star (Spiked Mace)
+Crafting: Blacksmithing DC 24 + Leatherwork DC 18
+Cost: 80–200 gp
+Effects: High pain and bleeding potential. +3 to intimidation and punitive scenes.
+Integrations: Erotic punishment, Combat, High-Defiance slave breaking.
+Notes: Infamous for leaving visible scars; favored by sadistic overseers.
+Spear
+Crafting: Carpentry DC 18 + Blacksmithing DC 19 + Fletching DC 14 (butt end)
+Cost: 25–70 gp
+Effects: Reach weapon; excellent for controlling crowds or keeping distance from dangerous slaves.
+Integrations: Combat, Slave herding, Vehicle escort duty.
+Notes: Cheap and versatile; common in rural patrols.
+Halberd / Polearm
+Crafting: Blacksmithing DC 23 + Carpentry DC 21
+Cost: 70–180 gp
+Effects: Versatile reach weapon with hook and spike. Ideal for tripping or restraining at distance.
+Integrations: Combat, Slave recapture, Public punishment displays.
+Notes: Guard and militia standard.
+Pitchfork (Improvised)
+Crafting: Carpentry DC 13 + optional Blacksmithing (tines)
+Cost: 8–25 gp
+Effects: Cheap piercing weapon; useful for herding or threat.
+Integrations: Farm labor enforcement, Impromptu slave control.
+Notes: Common in rural revolts and backwards areas.
+Battle Axe
+Crafting: Blacksmithing DC 22 + Carpentry DC 18
+Cost: 50–140 gp
+Effects: Heavy chopping damage; intimidation bonus against armored or stubborn targets.
+Integrations: Combat, Brutal discipline, Orc and dwarf favorites.
+Notes: Often used for executions or public demonstrations.
+War Hammer
+Crafting: Blacksmithing DC 24 + Carving DC 19
+Cost: 80–220 gp
+Effects: Bludgeoning with armor-crushing power. Excellent for breaking defiance without lethal bleeding.
+Integrations: Combat, Punitive scenes, House Ironroot and Thorne commissions.
+Notes: Symbol of unyielding force.
+Flail
+Crafting: Blacksmithing DC 23 + Leatherwork DC 20
+Cost: 70–180 gp
+Effects: Chain-based striking; unpredictable and painful. Good for crowd control.
+Integrations: Combat, Group punishment, Erotic flailing play.
+Notes: High risk of self-injury if mishandled.
+Whip (Long Leather)
+Crafting: Leatherwork DC 18 + Tailoring DC 16
+Cost: 30–90 gp
+Effects: Reach impact weapon. Excellent for distance pain delivery and psychological dominance.
+Integrations: Sex_BDSM (impact and teasing), Slavery_Defiance (long-range control).
+Notes: Classic tool for overseers and trainers.
+Katana (Exotic Import)
+Crafting: Blacksmithing DC 28 (specialized folding technique) + Carving DC 22
+Cost: 200–600 gp (rare)
+Effects: Superior cutting edge and balance. +2 to precision strikes and ritualized duels.
+Integrations: Combat, Elegant dominance displays, Whisperveil and Ravenscar commissions.
+Notes: Imported or custom-crafted; status symbol among elite duelists and assassins.
+================================================================
+PUNITIVE ITEMS
+Iron Branding Iron (Heated) – Crafting: Blacksmithing DC 22 – Cost: 30–150 gp – Permanent ownership marks; +4 to psychological dominance.
+Thumbscrews & Finger Clamps – Crafting: Blacksmithing DC 18 + Leatherwork DC 16 – Cost: 20–80 gp – Precise pain without permanent damage.
+Stocks & Pillory – Crafting: Carpentry DC 20 + Blacksmithing DC 19 – Cost: 80–250 gp – Public restraint and humiliation; +3 to Defiance reduction through shame.
+Heavy Iron Chains (Manacles & Leg Irons) – Crafting: Blacksmithing DC 20 – Cost: 40–120 gp – Restraint and transport; can be used for weighted punishment.
+Cane / Birch Rod Bundle – Crafting: Carving DC 16 + Leatherwork DC 14 – Cost: 15–60 gp – Classic spanking tool; excellent for sustained punitive scenes.
+Spiked Collar of Shame – Crafting: Blacksmithing DC 23 + Leatherwork DC 20 – Cost: 60–200 gp – Causes discomfort and visible humiliation; +5 to public Defiance checks.
+Punishment Hood (Sensory Deprivation) – Crafting: Leatherwork DC 21 + Tailoring DC 19 – Cost: 50–180 gp – Blocks sight/sound; aids intense psychological training.
+Flogging Frame / X-Cross – Crafting: Carpentry DC 24 + Leatherwork DC 22 – Cost: 150–500 gp – Fixed restraint for prolonged impact play.
+Electric Eel Oil (punitive variant) – Crafting: Alchemy DC 24 + Herbalism DC 22 – Cost: 80–300 gp – Causes stinging pain; used in “fire” discipline.
+Necrotic Whip (minor enchantment) – Crafting: Leatherwork DC 20 + Necromancy ritual – Cost: 200–800 gp – Leaves lingering pain; high church condemnation risk.
+We will continuously expand this file together.
+</Combat_Equipment.txt>

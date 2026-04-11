@@ -1,0 +1,394 @@
+<Raw_Materials_Tools_Trade_Goods.txt>
+RAW_MATERIALS_TOOLS_TRADE_GOODS - Version 1.4 (Grimdark Erotic Fantasy, 70 AE)
+This file catalogs all raw materials, tools, furniture, clothing/garments, and miscellaneous/utility items. Each entry includes Category & Name, Crafting Requirements, Base Cost & Market Value, Mechanical Effects, System Integrations, Black Market/Illicit Notes, and Rarity & Notes.
+All items can be upgraded via Crafting_System multi-skill projects, magical enhancement, or black market modifications.
+================================================================
+RAW MATERIALS
+Common Building & Craft Materials
+Stone Blocks (Granite, Limestone, Marble) – Cost: 2–12 sp per block – Primary source: Modest Mine Shaft / Quarry. Used for Property_Ownership upgrades and ritual chambers. Marble is luxury/status symbol.
+Lumber (Oak, Pine, Cedar, Ironwood) – Cost: 5–30 sp per plank/bundle – Primary source: Abandoned Lumber Camp, Established Lumber Camp, or Sawmill (processed lumber from a Sawmill is higher quality and lowers related Crafting DCs by 2–4 when used on-site). Essential for Carpentry, Vehicle construction, and Pleasure Bench/Throne crafting.
+Clay (Common Red, White Kaolin, Fire Clay) – Cost: 1–8 sp per sack – Primary source: Modest Mine Shaft / Quarry. Used for bricks, pottery, and alchemical crucibles. Fire clay is prized for high-temperature forging.
+Sand & Gravel – Cost: 1–4 sp per load – Primary source: Modest Mine Shaft / Quarry. Basic construction; fine sand used in glassmaking or abrasive polishing for weapons/armor.
+Limestone / Quicklime – Cost: 3–10 sp per sack – Primary source: Modest Mine Shaft / Quarry. Used in mortar, whitewash, and some alchemical processes.
+Ores & Metals
+Iron Ore – Cost: 8–25 sp per load – Primary source: Modest Mine Shaft / Quarry. Primary source for Blacksmithing; abundant near Thornhaven but contested.
+Copper Ore – Cost: 12–35 sp per load – Primary source: Modest Mine Shaft / Quarry. Used for tools, pipes, and low-grade alloys.
+Tin Ore – Cost: 15–40 sp per load – Primary source: Modest Mine Shaft / Quarry. Essential for bronze and pewter.
+Coal / Charcoal – Cost: 4–15 sp per sack – Primary source: Modest Mine Shaft / Quarry. Fuel for forges and alchemical fires.
+Silver Ore – Cost: 2–8 gp per load – Luxury metal and Enchanting reagent.
+Gold Ore (rare) – Cost: 15–60 gp per load – High-value trade good and status symbol.
+Rare Minerals (Quartz, Obsidian, Bloodstone) – Cost: 1–12 gp per piece – Used in Enchanting and Necromancy rituals.
+Fibers & Textiles
+Wool – Cost: 5–20 sp per bale – Common clothing and padding.
+Linen / Flax – Cost: 8–25 sp per bale – Breathable fabric; favored for luxury garments and aftercare linens.
+Cotton (scarce post-famine) – Cost: 15–50 sp per bale – High demand in pleasure districts.
+Silk (imported or dryad-grown) – Cost: 2–10 gp per bolt – Luxury for high-end restraints and noble clothing.
+Animal & Organic Products
+Leather Hides (Cow, Deer, Orc, Giant) – Cost: 20–300 gp per hide – Primary source: Remote Hunting / Trapping Cabin. Core for Leatherwork; giant hides are extremely rare and valuable.
+Bone (Animal, Monster, Giant) – Cost: 2–40 sp per bundle – Primary source: Remote Hunting / Trapping Cabin. Used in Carving and Necromancy.
+Horn / Antler – Cost: 10–80 sp per piece – Primary source: Remote Hunting / Trapping Cabin. Decorative or tool-making.
+Tallow / Beeswax – Cost: 5–20 sp per pound – Candles, lubricants, and salves.
+Monster Glands / Essence – Cost: 5–100+ gp – Rare reagents for Alchemy and Magic (especially Alteration and Conjuration).
+Exotic / Rare Materials
+Dragonscale or Wyvern Hide (extremely rare) – Cost: 50–500+ gp – Superior armor material.
+Ancient Ruins Stone (enchanted rubble) – Cost: 10–80 gp per piece – Potent for ritual spaces.
+Verdant Sap / Dryad Resin – Cost: 30–150 gp per vial – Living material for organic restraints.
+All raw materials sourced from Resource & Industrial properties reduce related Crafting_System DCs by 2–4 when processed on-site. On-site processing also lowers daily Defiance drift for assigned slaves by 2–6 (better tools and working conditions) and reduces rebellion risk during labor blocks in Estate_Management_and_Daily_Life.
+Expanded Raw Materials Details & Grimdark Notes
+Stone Blocks (Granite, Limestone, Marble) – Mechanical Effects: Granite provides durability bonuses to structures (+2 to security patrol checks); Marble adds +1 to reputation with decadent factions when used in pleasure chambers. Over-quarrying can anger Verdant Cycle or trigger cave-ins/accidents (+5–15 Defiance for slave labor crews).
+Lumber (Oak, Pine, Cedar, Ironwood) – Mechanical Effects: Ironwood grants +3 to structural strength (vehicles, restraint furniture); over-harvesting risks dryad retaliation or bandit raids in Wilderness_Areas. Processed lumber from a Sawmill reduces Carpentry DCs by 2–4 and provides passive –3 daily Defiance for workshop slaves.
+Clay (Common Red, White Kaolin, Fire Clay) – Mechanical Effects: Fire clay enables high-temperature forging (better Blacksmithing output); poor-quality clay increases crafting failure chance and can cause respiratory issues (Hygiene degradation, +3–8 Defiance).
+Sand & Gravel – Mechanical Effects: Fine sand is essential for glassmaking (alchemy tools) or polishing restraints/weapons; contaminated sources from post-famine battlefields can introduce “death scent” or minor mutations.
+Limestone / Quicklime – Mechanical Effects: Used in mortar for Property_Ownership upgrades or whitewash for hygiene improvement; quicklime dust in poorly ventilated mines causes eye/lung damage and sharp Defiance spikes.
+Ores & Metals – Mechanical Effects: Iron and coal are the backbone of industrial estates; shortages cause +5–15 daily Defiance for labor crews. Silver and gold ores are heavily taxed or contested, leading to smuggling runs and Crime_Justice_System events.
+Rare Minerals (Quartz, Obsidian, Bloodstone) – Mechanical Effects: Bloodstone adds necromantic potency but imparts “death scent”; obsidian is prized for ritual blades or cutting tools in BDSM scenes.
+Fibers & Textiles – Mechanical Effects: Silk from dryad groves carries natural living properties (better restraint flexibility) but risks grove anger if over-harvested.
+Animal & Organic Products – Mechanical Effects: Giant hides require massive-scale processing (Engineering DC penalty) and grant superior durability to restraints or armor; monster glands often carry mutagenic side effects if not properly refined.
+Exotic / Rare Materials – Mechanical Effects: Dragonscale provides near-impenetrable restraint material but attracts dragon-hunter attention or noble jealousy; Verdant Sap allows living, self-adjusting restraints that reduce escape risk but can rebel against harsh owners.
+================================================================
+CLOTHING & GARMENTS
+Practical Workwear
+Simple Tunic & Trousers (Linen/Wool) – Cost: 5–20 sp – Basic slave and laborer clothing; easy to tear for scenes. +1 General Attractiveness when clean and well-fitted.
+Heavy Work Boots – Cost: 15–50 sp – Durable for labor; poor Hygiene can cause foot issues.
+Overseer’s Leather Jerkin – Cost: 40–120 gp – Status symbol for mid-level enforcers. +2 General Attractiveness in authoritative contexts.
+Luxury & Erotic Clothing
+Silk Slave Silks (Sheer) – Cost: 2–15 gp per outfit – Enhances Attractiveness and Scent display; popular in pleasure houses. +3 General Attractiveness.
+Ornate Noble Gowns & Doublets – Cost: 50–400 gp – Reputation boost with noble factions. +4 General Attractiveness in formal or social settings.
+Restraint-Compatible Harness Outfit – Cost: 30–150 gp – Combines clothing with easy access for BDSM. +3 General Attractiveness and +2 to Bondage synergy.
+Punishment Shift (Thin & Revealing) – Cost: 8–40 gp – Humiliation garment; increases Defiance checks in public. +2 General Attractiveness when worn as deliberate display (still humiliating).
+Women’s Dress Varieties (Expanded)
+Simple Slave Shift Dress – Cost: 8–25 sp – Thin, shapeless linen or wool dress; easy to rip or hike up during scenes. +1 General Attractiveness when clean.
+Workday Tunic-Dress – Cost: 15–40 sp – Practical knee-length dress with reinforced seams for labor; modest but allows quick access. +2 General Attractiveness.
+Noble House Servant Dress – Cost: 30–80 gp – Fitted bodice with full skirt in house colors; signals status while remaining practical. +3 General Attractiveness in formal settings.
+Pleasure House Sheer Silk Gown – Cost: 2–12 gp – Diaphanous layered silk that clings to curves; designed for easy removal or partial covering. +4 General Attractiveness and +2 Scent display in low light.
+Decadent Court Gown (Silkveil Style) – Cost: 80–300 gp – Elaborate layered silk with deep neckline, high slits, and corseted waist; status symbol for high-value pleasure slaves. +5 General Attractiveness, +3 to Seduction rolls.
+Punishment & Humiliation Dresses
+Public Shame Dress (Revealing Cut) – Cost: 12–45 gp – Short, backless dress with strategic cutouts; forces exposure and movement. +2 General Attractiveness (still highly humiliating); +15–25 Defiance if worn publicly without reward.
+Branded Punishment Smock – Cost: 10–35 gp – Coarse fabric with owner’s brand prominently displayed; minimal coverage. +1 General Attractiveness only when deliberately displayed.
+Restraint-Ready Punishment Gown – Cost: 25–90 gp – Built-in loops and rings for quick bondage; thin material tears easily. +3 General Attractiveness in punitive contexts; +2 to Bondage checks.
+Erotic & Specialty Dresses
+Festival Breeding Gown (Orc/Dryad Style) – Cost: 40–150 gp – Flowing, vine-embroidered fabric that can be “grown” or torn during rites. +4 General Attractiveness; +3 to festival performance rolls.
+High-Society Courtesan Dress – Cost: 100–400 gp – Form-fitting velvet or brocade with strategic transparency panels. +5 General Attractiveness; +3 to Domination rolls in noble settings.
+Masquerade Seduction Gown – Cost: 60–200 gp – Layered veils and masks integrated into the design; perfect for Silkveil events or espionage. +4 General Attractiveness and +3 to Deception/Seduction.
+Lactation & Breeding Display Dress – Cost: 50–180 gp – Low-cut with easy-access front panels for milking scenes; often worn by high-value dairy slaves. +4 General Attractiveness; +3 Breast Play synergy.
+Additional Women’s Dress Varieties
+Servant’s Modest Day Dress – Cost: 20–55 gp – Knee-length fitted bodice with apron; practical for household tasks while maintaining modest appeal. +2 General Attractiveness in domestic settings; easy to adapt for light restraint play.
+Noble Attendant’s Uniform Dress – Cost: 45–120 gp – Tailored with house colors and subtle embroidery; signals loyalty and status. +3 General Attractiveness; +2 to social deception or seduction when worn in noble households.
+Sheer Evening Pleasure Gown – Cost: 35–150 gp – Multiple translucent layers that shift with movement; designed for teasing reveal during private or semi-public scenes. +4 General Attractiveness and +2 Scent display; high scandal potential if worn outside pleasure contexts.
+Decadent Festival Corset Dress – Cost: 70–250 gp – Tight corset with flowing skirts and strategic cutouts; ideal for breeding festivals or high-society erotic events. +5 General Attractiveness; +3 to performance and kink-discovery rolls.
+Lactation Nursing & Display Gown – Cost: 55–200 gp – Front-opening design with reinforced panels for easy milking access; often paired with matching heels for display. +4 General Attractiveness; +3 Breast Play and nursing synergy; increases market value of lactating slaves.
+Punitive Exposure Dress (Locked Elements) – Cost: 30–110 gp – Features lockable straps or cutouts that prevent easy removal; used for controlled humiliation. +2 General Attractiveness in punitive display; +10–20 Defiance if forced during labor.
+Erotic Training Harness-Dress Hybrid – Cost: 50–180 gp – Combines dress silhouette with integrated restraint loops and panels; versatile for training or public ownership display. +4 General Attractiveness; +3 to Bondage checks.
+================================================================
+FOOTWEAR
+Basic & Practical Footwear
+Simple Slave Sandals (Leather or Cloth) – Cost: 5–20 sp – Open design for ventilation; minimal protection. +1 Foot Attractiveness for women when clean.
+Heavy Work Boots (Men & Women) – Cost: 15–50 sp – Sturdy for labor; poor Hygiene can cause blisters and +3–8 daily Defiance from discomfort.
+Overseer’s Sturdy Boots – Cost: 30–90 gp – Reinforced leather with status buckles; +1 Intimidation.
+Women’s Everyday Footwear
+House Servant Slippers (Soft Leather) – Cost: 10–35 gp – Quiet and comfortable for indoor work; +2 Foot Attractiveness in private settings.
+Field Worker Clogs (Wooden) – Cost: 8–25 gp – Durable but noisy and uncomfortable; +1 Foot Attractiveness only when polished.
+Luxury & Status Footwear
+Noble Court Shoes (Leather with Buckles) – Cost: 40–120 gp – Polished and ornate; +3 Attractiveness and +2 Seduction in formal interactions. +3 Foot Attractiveness for women.
+Silkveil courtesan slippers (embroidered silk) – Cost: 25–80 gp – Delicate and revealing; +4 Foot Attractiveness for women.
+Erotic & BDSM-Focused Footwear
+Basic Restraint Anklets & Chains – Cost: 15–60 gp – Light chains for ankle restraint; +2 to Bondage checks when used.
+Punishment Foot Stocks (portable) – Cost: 30–100 gp – Fixed wooden stocks for public humiliation; +15–25 Defiance if forced.
+Women’s High-Heel & Elevated Styles (Expanded)
+Simple Leather High Heels (2–3 inch) – Cost: 20–60 gp – Basic elevation; +3 Foot Attractiveness for women, improves posture and leg display but –1 to mobility/endurance during long labor. Popular for pleasure house service and light seduction.
+Courtier Stilettos (4–5 inch, Silkveil style) – Cost: 50–150 gp – Elegant pointed toe with thin heel; +5 Foot Attractiveness, +3 to Seduction/Domination in social scenes. High risk of ankle injury and +5–12 Defiance if worn for extended work or travel.
+Laced Corset Boots (knee-high, 3–4 inch heel) – Cost: 40–120 gp – Tight lacing for restraint aesthetic; +4 Foot Attractiveness and +3 Bondage synergy. Excellent for flagellation or trampling play but causes foot fatigue (+4 Defiance after 4+ hours) and requires careful aftercare.
+Platform Heels (thick sole, 4–6 inch effective height) – Cost: 35–100 gp – Stable elevation with dramatic height difference; +4 Foot Attractiveness, ideal for size-play emphasis with shorter partners. Reduces mobility but adds intimidation in domination scenes; +3 to visual tease rolls.
+Strappy Gladiator Heels (thigh-high straps) – Cost: 45–130 gp – Decorative straps that double as light restraints; +5 Foot Attractiveness and +3 to Bondage when ankles are bound. Favored in Moonstone pleasure auctions and festival displays.
+Punitive “Hobbling” Heels (locked 5+ inch with chain) – Cost: 60–200 gp – Extreme elevation with locking mechanism; +6 Foot Attractiveness but +10–20 Defiance from pain and restricted movement. Used for public humiliation or breaking high-Defiance slaves; synergizes with punishment dresses.
+Luxury Enchanted Heels (minor illusion or sensation) – Cost: 150–500+ gp – Magical variants that enhance Foot Attractiveness by +6 or add subtle vibration/sensation; high backlash risk if corrupted or overused in labor contexts.
+Specialty & Racial Footwear
+Giant-Scale Reinforced Boots – Cost: 80–300 gp – Massive, custom-forged; required for giant handlers or slaves. Poor fit causes massive Defiance spikes.
+Dryad Vine-Wrapped Sandals – Cost: 30–90 gp – Living vines that self-adjust; +3 Foot Attractiveness and minor natural scent bonus. Can rebel against harsh owners.
+Orcish War Sandals (studded) – Cost: 25–70 gp – Heavy and intimidating; +2 Intimidation but loud and uncomfortable for prolonged wear.
+Goblin Trickster Slippers (quiet padded) – Cost: 15–50 gp – Soft and stealthy; +2 Stealth but poor durability.
+Mechanical Effects for Women’s Footwear (General)
+- High heels and elevated styles grant +3 to +6 Foot Attractiveness bonus when used in seduction, foot-focused BDSM, or display scenes.
+- Bonus increases market value of female pleasure slaves by 15–40%.
+- Drawback: Reduced mobility/endurance (–1 to –3 on physical checks) and increased foot pain/Defiance (+3–15 daily if worn for labor or long scenes without rest or aftercare).
+- Synergies: Pairs excellently with Bondage (ankle restraints), Flagellation (trampling), and Seduction (visual tease). High Sexual Corruption mitigates pain and converts discomfort into pleasure.
+Specialty Footwear Integration
+Foot-focused BDSM scenes gain +3 to +5 Pleasure Points or Defiance reduction when high-quality women’s heels are used. Poorly maintained footwear causes Hygiene degradation and +5–10 Defiance spikes. Proper maintenance in Estate_Management_and_Daily_Life routines is required to retain bonuses.
+================================================================
+FURNITURE & HOUSEHOLD GOODS
+Basic Household
+Wooden Table & Benches – Cost: 10–60 gp – Standard for worker quarters.
+Straw Mattress & Blankets – Cost: 5–25 gp – Basic slave bedding; poor quality increases Defiance.
+Iron Cooking Pot & Utensils – Cost: 8–40 gp – Essential for Cooking skill.
+Luxury & Erotic Furniture
+Canopy Bed (with Restraint Points) – Cost: 80–400 gp – Private quarters upgrade; +2 to intimate scenes.
+Opulent Dining Set – Cost: 100–600 gp – Boosts noble reputation and feast morale.
+Punishment Chair / Restraint Throne – Cost: 60–300 gp – Fixed seating with integrated manacles.
+Display Cage (Ornate) – Cost: 150–800 gp – Public ownership display; high status with Silken Collar.
+Workshop & Estate Items
+Workbench & Tool Rack – Cost: 30–150 gp – Required for Crafting projects.
+Storage Chests (Locked) – Cost: 15–80 gp – Secures valuables or restraints.
+Scented Braziers & Incense Holders – Cost: 20–100 gp – Improves room Scent and Aftercare environment.
+================================================================
+TOOLS & UTENSILS
+General Tools
+Hammer & Chisels (Carpentry Set) – Cost: 10–50 gp – Basic for Carpentry and Carving.
+Forge Tools (Tongs, Anvil, Bellows) – Cost: 40–200 gp – Required for Blacksmithing projects.
+Sewing Kit & Shears – Cost: 5–25 gp – Core for Tailoring and Leatherwork.
+Specialized Tools
+Branding Kit (Irons & Charcoal) – Cost: 25–100 gp – For punitive marking.
+Alchemy Lab Basics (Mortar, Pestle, Distiller) – Cost: 30–150 gp – Lowers Alchemy DCs.
+Slave Branding & Tattooing Needles – Cost: 15–80 gp – Permanent ownership or decorative marks.
+Measuring & Weighing Scales – Cost: 10–60 gp – Essential for Economy_Trade accuracy.
+Engineering Tool Kit (gadgets & contraptions) – Cost: 50–200 gp – Lowers Engineering DCs for vehicle and gadget projects (see Skills_Master_List.txt v1.7).
+================================================================
+ALCHEMICAL TOOL VARIANTS
+Basic & Essential Tools
+Mortar & Pestle (Stone or Brass) – Crafting: Carving DC 14 or Blacksmithing DC 16 – Cost: 10–40 gp – Basic grinding tool; lowers basic Alchemy DC by 2.
+Glass Distillation Apparatus – Crafting: Glassblowing (special skill) DC 22 + Alchemy DC 20 – Cost: 50–150 gp – Allows creation of pure essences and tinctures; required for many advanced potions.
+Iron Crucible Set – Crafting: Blacksmithing DC 20 – Cost: 25–80 gp – Heat-resistant vessels for boiling reagents; reduces risk of explosive failures.
+Advanced Workshop Tools
+Alchemical Retort & Condenser – Crafting: Blacksmithing DC 24 + Alchemy DC 22 – Cost: 80–250 gp – Improves yield and purity of potions; +3 to Alchemy checks for distillation.
+Precision Scale & Measuring Set – Crafting: Blacksmithing DC 18 + Carving DC 16 – Cost: 30–100 gp – Accurate measurement prevents reagent waste; lowers failure chance on complex brews.
+Heated Stirring Rod (enchanted variant available) – Crafting: Blacksmithing DC 21 + optional Enchanting – Cost: 40–120 gp – Maintains even temperature; useful for sensation-enhancing or punitive mixtures.
+Specialized & Erotic Tools
+Pleasure Oil Infuser – Crafting: Alchemy DC 23 + Leatherwork DC 19 – Cost: 60–200 gp – Specifically designed for creating custom lubricants and sensation oils; +4 to related BDSM item crafting.
+Restraint Polish & Treatment Kit – Crafting: Alchemy DC 22 + Herbalism DC 20 – Cost: 45–150 gp – Treats leather restraints to make them more supple or add mild sensation effects.
+Potion Injection Syringe Set – Crafting: Blacksmithing DC 19 + Alchemy DC 21 – Cost: 35–120 gp – Allows precise dosing during scenes or training; useful for obedience or arousal potions.
+Rare & Dangerous Tools
+Soul Extraction Vial & Apparatus – Crafting: Alchemy DC 28 + Necromancy ritual – Cost: 200–800 gp – Required for soul-binding potions; high backlash and church condemnation risk.
+Mutagenic Bath Tub (large) – Crafting: Carpentry DC 24 + Alchemy DC 26 – Cost: 150–600 gp – Allows full-body immersion for major Body trait alterations; extreme mutation risk.
+Forbidden Essence Extractor – Crafting: Alchemy DC 30 + rare reagents – Cost: 300–1,500 gp – Extracts powerful essences from monsters or living subjects; often illegal.
+================================================================
+HERBALISM TOOL VARIANTS
+Herbalism tools focus on gathering, identifying, preserving, and processing wild and cultivated plants in a dangerous, post-famine world. Many are portable for foragers or integrated into estate workshops. They reduce Herbalism DCs, improve yield/quality, and tie directly into potions, salves, aftercare, and BDSM enhancements.
+Basic Gathering & Identification Tools
+Forager’s Knife & Shears – Crafting: Blacksmithing DC 15 + Carving DC 14 – Cost: 8–30 gp – Sharp tools for clean harvesting; +2 to gathering checks and reduces plant damage.
+Herbarium Press & Drying Rack – Crafting: Carpentry DC 16 + Tailoring DC 15 – Cost: 15–50 gp – Preserves specimens for later use; prevents spoilage and improves reagent quality.
+Field Identification Lens (magnifying glass) – Crafting: Glassblowing DC 18 + Carving DC 16 – Cost: 20–70 gp – Helps identify safe vs. toxic plants; lowers misidentification risk in the wild.
+Preparation & Processing Tools
+Herbal Mortar & Pestle (Wooden or Ceramic) – Crafting: Carving DC 15 or Pottery DC 17 – Cost: 10–40 gp – Gentler than alchemical versions; +2 to Herbalism checks for salves and teas.
+Drying Herbs Net & Hanging Rack – Crafting: Tailoring DC 14 + Carpentry DC 15 – Cost: 12–45 gp – Allows proper air-drying; preserves potency and Scent qualities for aftercare oils.
+Infusion Jar Set (sealed clay or glass) – Crafting: Pottery DC 18 or Glassblowing DC 20 – Cost: 25–80 gp – Creates tinctures and infused oils; +3 to creating sensation-enhancing or calming preparations.
+Advanced & Specialized Tools
+Distillation Still (small portable) – Crafting: Blacksmithing DC 22 + Alchemy DC 20 – Cost: 60–200 gp – Extracts essential oils and essences; required for high-quality Scent Weaver potions or lubricants.
+Poison Detection Kit (test strips & reagents) – Crafting: Alchemy DC 21 + Herbalism DC 19 – Cost: 30–100 gp – Identifies toxic or hallucinogenic plants; critical for safe foraging or punitive “fire” brews.
+Grafting & Cultivation Tools (pruners, stakes, soil testers) – Crafting: Carpentry DC 18 + Carving DC 17 – Cost: 20–70 gp – Enables growing rare herbs on estates; long-term source of reagents and reduces market dependency.
+Erotic & BDSM-Focused Tools
+Sensation Herb Infuser Basket – Crafting: Tailoring DC 19 + Carving DC 18 – Cost: 35–120 gp – Steeps herbs directly into oils or lubricants for custom BDSM enhancements; +4 to related scene items.
+Aftercare Compress Kit – Crafting: Tailoring DC 17 + Herbalism DC 18 – Cost: 25–90 gp – Prepares soothing poultices and wraps; +3 to Aftercare checks and reduces physical strain from scenes.
+Kink-Discovery Incense Burner – Crafting: Carving DC 20 + Alchemy DC 19 – Cost: 40–150 gp – Releases subtle herbal vapors during scenes; aids kink discovery with mild euphoric effect.
+Rare & Risky Tools
+Wild Forager’s Satchel (enchanted variant) – Crafting: Leatherwork DC 22 + optional Enchanting – Cost: 50–250 gp – Protects gathered herbs from spoilage; can include minor illusion to hide illegal plants.
+Mutagenic Herb Press – Crafting: Alchemy DC 28 + Carpentry DC 24 – Cost: 150–600 gp – Extracts potent essences for Beauty Mutagens or Fertility tonics; high mutation and backlash risk.
+Verdant Essence Extractor – Crafting: Herbalism DC 30 + Conjuration synergy – Cost: 200–1,000+ gp – Draws living essence from Dryad-related plants; extremely rare and often illegal outside Verdant Cycle circles.
+================================================================
+CRAFTING UPGRADE PATHS
+All items can be upgraded through multi-skill crafting projects, magical enhancement, or black market modifications. Upgrades require additional time, reagents, and skill checks (see Skills_Master_List.txt v1.7).
+General Upgrade Framework
+Base Item → Standard Upgrade (2–3 skills, moderate DC) → Masterwork Upgrade (3–5 skills, high DC) → Enchanted/Forbidden Upgrade (adds Magic_System ritual, very high DC + backlash risk)
+Example Upgrade Paths
+Basic Iron Collar → Reinforced Training Collar → Elite Binding Collar
+Standard Upgrade: Blacksmithing DC 20 + Leatherwork DC 22 → +2 Defiance reduction, better lock.
+Masterwork Upgrade: + Carving DC 24 → Custom fit to Body traits, +1 to domination rolls.
+Enchanted Upgrade: + Enchanting ritual DC 26 → Remote feedback or permanent loyalty effect (backlash risk: +10 Defiance on failure).
+Signature Lubricant → Scent-Infused Lubricant → Genital Harmony Oil
+Standard Upgrade: Herbalism DC 21 + Alchemy DC 22 → Adds temporary Scent boost (+2 seduction).
+Masterwork Upgrade: + Painting DC 20 → Visual appeal increase for public scenes.
+Enchanted Upgrade: + Alteration ritual DC 28 → Temporarily adjusts genital compatibility (backlash: painful hypersensitivity).
+Custom Dildo/Plug → Pleasure-Enhancing Version → Sentient/Illusory Version
+Standard Upgrade: Alchemy DC 23 + Carving DC 24 → +2 PP during use.
+Masterwork Upgrade: + Leatherwork DC 22 → Adjustable size/shape for different partners.
+Enchanted Upgrade: + Illusion or Conjuration ritual DC 27–30 → Mild movement or illusory sensations (backlash: addiction or sentience). High Sexual Corruption allows safe use of larger sizes without magic.
+Pleasure Bench → Opulent Throne → Ritual Pleasure Altar
+Standard Upgrade: Tailoring DC 22 + Painting DC 21 → Aesthetic bonus and comfort (+1 to scenes).
+Masterwork Upgrade: + Leatherwork DC 25 → Integrated advanced restraints.
+Enchanted Upgrade: + Enchanting ritual DC 30 → +5 to pleasure rolls and Defiance reduction during ritualized scenes (backlash: corruption or unintended summoning). High Sexual Corruption expands safe size range.
+Healing Salve → Advanced Recovery Kit → Soul-Soothing Elixir
+Standard Upgrade: Herbalism DC 20 + Alchemy DC 21 → Faster Hygiene/Scent recovery.
+Masterwork Upgrade: + Tailoring DC 19 → Includes comfort wraps and scented oils.
+Enchanted Upgrade: + Necromancy or Alteration ritual → Permanent minor Defiance floor reduction or emotional bonding effect (high backlash risk).
+Black Market Upgrade Notes
+Shadow Forge versions: Lower cost/DC but higher flaw chance and Detection risk.
+Crimson Veil versions: Emphasize pleasure enhancement but increase scandal potential.
+Bone & Blood versions: Add necromantic durability but introduce “death scent” and church hostility.
+Future Expansion Notes
+New categories will be added as needed.
+Noble house signature variants and faction-specific commissions will be tracked here.
+All upgrades can be combined with magical rituals for even greater (and riskier) effects. Sexual Corruption provides a non-magical route for size accommodation.
+Engineering skill enables new gadget/vehicle-related upgrade paths.
+We will continuously expand this file together.
+Update Log:
+- Version 1.3 – Added expanded women’s dress varieties and large footwear section with women’s high heels and Foot Attractiveness bonuses. All previous content preserved verbatim.
+- Version 1.4 – Dramatically expanded clothing/footwear sections with additional dress varieties (practical, servant, noble, erotic, punishment, festival, lactation-specific) and larger high-heel/elevated footwear details. Added General Attractiveness bonuses to all garments based on style/value (+1 practical to +5 high-luxury). Increased Foot Attractiveness to +3–+6 with updated grimdark drawbacks, scene synergies, and maintenance ties. Updated Mechanical Effects, System Integrations, and grimdark notes throughout. All previous content preserved verbatim. Stronger integration of clothing/footwear as status, erotic, and economic tools with real consequence achieved.
+</Raw_Materials_Tools_Trade_Goods.txt>
+
+<Session_001_Intro.txt>
+
+</Session_001_Intro.txt>
+
+<SESSION_0_QUICKSTART_GUIDE.txt>
+SESSION_0_QUICKSTART_GUIDE - Version 1.3 (Grimdark Erotic Fantasy, 70 AE)
+
+Core Philosophy
+Session 0 is the foundation of a successful grimdark erotic campaign in the Shattered Principalities. It sets expectations for the dark tone, heavy consequences, adult content boundaries, and collaborative storytelling. The goal is to ensure every player understands that power is intoxicating but fragile, pleasure carries risk, and every choice has lasting repercussions (Defiance spikes, scandals, mutations, faction grudges, etc.).
+
+How to Run Session 0 (60–90 minutes recommended)
+1. Tone & Safety Discussion (10–15 min)
+   - Confirm all players are 18+ and comfortable with grimdark themes: slavery, non-consensual elements (within Defiance/BDSM mechanics), erotic violence, breeding, corruption, betrayal, and moral gray areas.
+   - Establish hard limits and soft limits using a simple checklist (e.g., no underage content, no certain kinks).
+   - Emphasize the Adult trait gate — erotic, breeding, or BDSM mechanics only apply to Adult characters.
+   - Remind everyone that the game is consequence-heavy: failed Defiance rolls, public scandals, church scrutiny, and backlash are expected and fun.
+
+2. Character Creation Walkthrough (20–30 min)
+   - Use Player_Character.txt v1.6 as the primary guide.
+   - Step through each section together:
+     - Race + Racial Feat choice
+     - Ability Scores
+     - Background & Social Standing
+     - Class Archetype (highlight synergies)
+     - Skill ranks (120 total, with archetype recommendations)
+     - Body Traits (use Body_Ranges_Reference.txt)
+     - Sexual Corruption & starting Defiance (if applicable)
+     - Starting Equipment Package
+     - Goals & Hooks
+   - Offer the four pre-generated characters from Example_NPC_PREGEN.txt v1.0 as quick options or templates.
+   - Answer questions about integration with Slavery & Defiance, Sex & BDSM, Crafting, Property, etc.
+   - Direct players to LUXURY_FASHION_AND_STATUS.txt v1.2 for clothing, footwear, scent, perfume, and status-display choices during character creation and first slave dressing. Early fashion decisions affect initial social rolls, Defiance drift, and public perception.
+
+   **Concrete Example – Dressing Your First Slave:**
+   You have just captured or purchased your first low-value slave (e.g., Mira from Session 001). She arrives in Tier 0 rags (torn burlap, bare muddy feet, foul scent).
+   - Clean her (Hygiene improvement) and apply basic market wear (Tier 1 linen shift and cheap sandals) for immediate –1 daily Defiance drift.
+   - If you have a little coin, upgrade to Tier 2 respectable artisan clothing (dyed wool dress, simple leather boots, modest brass jewelry). This grants –5 daily Defiance drift and +1 to basic social rolls when displayed.
+   - For your very first private motivation scene, even a clean Tier 1 outfit combined with basic aftercare can turn a failed domination roll into a partial success. Poorly maintained Tier 0 rags, however, will likely cause +10–15 Defiance spike and public mockery if taken outside.
+
+3. World & Campaign Pitch (10 min)
+   - Brief overview using Setting_Overview.txt and Timeline.txt.
+   - Recommended starting location: Thornhaven (detailed in Settlement_Thornhaven.txt).
+   - Core campaign themes: rising from nothing through ownership, erotic mastery, crafting, and political maneuvering while surviving the grim consequences of the post-Sundering world.
+   - Mention key factions and how player actions will affect reputation. Note that long campaigns will involve tracking time and aging (see Time_System.txt v1.1), which affects Body traits, fertility, social standing, and slave loyalty over months and years.
+
+4. House Rules & Expectations (10 min)
+   - Defiance and Sexual Corruption are central — track them visibly.
+   - Loot is never “clean” — use Loot_Tables.txt v1.1 for searches and raids.
+   - Estate and property management will become important quickly (Property_Ownership.txt and Estate_Management_and_Daily_Life.txt).
+   - Combat can flow into BDSM scenes; describe both mechanically and narratively.
+   - Fashion and status displays matter from the first session — refer to LUXURY_FASHION_AND_STATUS.txt for mechanical effects on social rolls, Defiance, and reputation.
+   - Time and aging are tracked using Time_System.txt v1.1. Characters and slaves age realistically each month; aging impacts Body traits (especially Attractiveness and Endurance), fertility, and social perception. Longevity potions (Alchemy_Consumables_and_Potions.txt) or magic rituals can delay decline but carry severe grimdark risks (mutations, rapid catch-up aging, Defiance spikes). Long campaigns will involve generational consequences.
+   - Group consent check: “Is everyone still comfortable with the direction?”
+
+5. First Session Hook (5–10 min)
+   - Suggested starting scenario (use in Session 001 or adapt):
+     “You begin in the crowded slave markets and back alleys of Thornhaven. Each of you has just acquired your first small asset — a slave, a workshop tool, a contact, or a risky smuggling lead. A minor noble’s caravan was recently ambushed on the road; valuable cargo (and possibly escaped slaves) is now scattered. Factions are already moving to claim the spoils. What do you do?”
+   Alternative quick-start hooks:
+   - A low-value slave you just purchased attempts escape (triggers immediate Defiance mechanics).
+   - You receive a mysterious commission for custom erotic gear (ties into Crafting).
+   - A black-market deal goes slightly wrong (ties into Raider archetype and Loot Tables).
+
+Quick-Start Checklist for the GM
+- Have printed or digital copies of: Player_Character.txt, Example_NPC_PREGEN.txt, Loot_Tables.txt, Skills_Master_List.txt, Body_Ranges_Reference.txt, Settlement_Thornhaven.txt, LUXURY_FASHION_AND_STATUS.txt v1.2, and Time_System.txt v1.1.
+- Prepare 1–2 simple encounters for the first hour (scavenging, minor negotiation, or a small raid using Loot Tables).
+- Track Defiance, Sexual Corruption, Reputation, and basic aging/time progression visibly for everyone.
+- Be ready to describe scenes with sensory detail while respecting player limits.
+
+We will expand this guide together (more hooks, example Session 1 flow, safety tools, campaign milestones, etc.) as needed.
+
+Update Log:
+- Version 1.0 – Created from scratch as a dedicated Session 0 / Quick-Start Guide. Includes tone discussion, character creation walkthrough, world pitch, house rules, and a ready first-session hook. Fully integrated with Player_Character.txt v1.6, Example_NPC_PREGEN.txt v1.0, Loot_Tables.txt v1.1, and all core systems. Designed to get groups playing immediately while preserving the grimdark tone and safety standards.
+- Version 1.1 – Added explicit references to the new LUXURY_FASHION_AND_STATUS.txt v1.2 in the Character Creation Walkthrough and House Rules & Expectations sections, plus updated the Quick-Start Checklist to include the appendix. All previous content preserved verbatim. Improved guidance for new players on fashion, scent, and status mechanics from the very first session.
+- Version 1.2 – Added a concrete “Dressing Your First Slave” example in the Character Creation Walkthrough section, demonstrating Tier 0–2 fashion progression, scent/hygiene impact, and immediate mechanical effects on Defiance and social rolls. All previous content preserved verbatim. Makes the transition from capture to first training session much clearer for new groups.
+- Version 1.3 – Added references to Time_System.txt v1.1 in the World & Campaign Pitch, House Rules & Expectations, and Quick-Start Checklist sections. Includes notes on tracking time/aging, its effects on Body traits/fertility/social standing, and long-term generational consequences. All previous content preserved verbatim. Ensures new groups understand the long-term time and aging mechanics from the very first session.
+
+You can now copy and paste the entire block above directly into your file.
+</SESSION_0_QUICKSTART_GUIDE.txt>
+
+<Session_Log_Master.txt>
+Campaign Session Log - Master File
+
+Format for entries:
+=== Session [#] - [Date in-game] - [Real-world date] ===
+Key Events:
+- Bullet list with outcomes and notable rolls
+
+Dice Rolls Summary:
+- Action 1: d20 roll = X + mods = Total → Result
+
+Character Changes:
+- Stat/Inventory/Reputation updates
+
+World Impacts:
+- Consequences, new hooks
+
+Append new sessions at the bottom. Keep summaries concise but detailed enough for continuity.
+</Session_Log_Master.txt>
+
+<Setting_Overview.txt>
+SETTING_OVERVIEW - Version 1.5 (Grimdark Erotic Fantasy, 70 AE)
+Core Setting
+The world is known as the Shattered Principalities — a fractured region once dominated by grand multi-racial empires that collapsed during the cataclysmic Sundering War. Seventy years later (70 AE), the land is a patchwork of rival baronies, independent racial settlements, and lawless border zones. Power is held through ownership of land, slaves, workshops, and erotic influence. Slavery is not merely labor — it is the central economic engine, a tool of social control, and a canvas for erotic dominance and submission.
+The campaign begins in the Border Barony of Blackthorn Vale, a strategically important but unstable region on the edge of the Shattered Principalities. Its capital, Thornhaven, is a bustling trade hub where cosmopolitan decadence meets brutal pragmatism. Beyond the city walls lie dense forests, rugged hills, and independent racial enclaves where old animosities still simmer.
+History & Timeline Context
+Before the Sundering War, several grand multi-racial empires controlled the region. The war shattered these empires, leaving behind ruined cities, cursed battlefields, and a generation scarred by loss. The 46 AE famine that followed was catastrophic — mass starvation led to widespread debt bondage contracts that became the foundation of modern multi-generational slavery. Poverty accelerated racial animosity in some areas while forcing uneasy cooperation in others. Seventy years on, the region has stabilized into a tense balance of human-led baronies, re-founded racial kingdoms, and mixed cosmopolitan centers.
+Geography — The Shattered Principalities: Blackthorn Vale and Neighboring Baronies (70 AE)
+The player characters begin in Blackthorn Vale, a strategically vital barony on the storm-lashed northern coast of the Shattered Principalities. Once part of a greater empire before the Sundering War, Blackthorn Vale is now a tense nexus of trade, slavery, and factional intrigue. The land is defined by fertile river valleys, rugged hills rich in ore and timber, dense eastern forests, and a cold, unforgiving northern ocean that serves as both a highway for merchant fleets and a source of smuggling, piracy, and mysterious wrecks.
+Thornhaven – Capital of Blackthorn Vale
+The largest and most important settlement in the barony, Thornhaven is a walled port-city built around a central market square and a fortified noble district. Its harbors are constantly busy with slave galleys, pleasure barges, and heavy merchant ships. The city is stratified and cosmopolitan: wealthy nobles and guild masters live in opulent riverfront estates, while the underclass crowds into smog-filled slums and dockside tenements. Key features include the Grand Slave Auction House, the multi-denominational Temple Quarter (where the three major churches compete openly), high-end pleasure houses that double as information brokers, and the bustling Craft Guild Quarter. Thornhaven is the political, economic, and cultural heart of the barony — and the natural starting hub for player ambitions.
+Detailed information on Thornhaven can be found in Settlement_Thornhaven.txt.
+Major Rivers and Terrain of Blackthorn Vale
+Three major rivers — the Blackthorn, the Ironvein, and the Verdant — flow northward from the southern hills into the ocean, creating rich alluvial plains ideal for plantations, water-powered mills, and barge traffic. The western hills are dotted with mines and lumber camps; the eastern forests hide dryad groves and ancient ruins. The northern coastline is rocky with hidden coves perfect for smuggling. Lawless border zones on the southern and eastern edges are frequented by Freeborn League cells and independent racial enclaves (orc holds, elven groves, giant camps).
+Neighboring Baronies (Current Game Map)
+Blackthorn Vale is effectively land-locked on three sides by four rival/neutral baronies, with the cold Northern Ocean forming its fourth border. This five-baronies cluster is the focused region for early-to-mid campaign play.
+Ironvein Barony (West – Coastal)
+Capital: Jarick
+A heavily industrialized barony dominated by the Hammer & Anvil guild and House Ironroot. Rocky cliffs and deep mines produce iron, coal, and rare metals. Slave labor is brutal and industrial; escape attempts are common but rarely successful. Major trade road connects directly to Thornhaven’s western gate. Tension with Blackthorn Vale is high over mining rights and river tariffs.
+Detailed information on Jarick can be found in Settlement_Jarick.txt.
+Silken Reach Barony (East – Coastal)
+Capital: Moonstone
+A wealthy, trade-oriented barony ruled by House Silkveil and strongly influenced by the Silken Collar church. Known for luxurious pleasure estates, silk plantations, and bustling coastal ports. More “civilized” on the surface, but its pleasure houses and auction blocks are among the most expensive (and scandal-prone) in the region. The eastern trade road and shared river access make it Blackthorn Vale’s primary commercial partner — and rival.
+Detailed information on Moonstone can be found in Settlement_Moonstone.txt.
+Verdant March Barony (South-West – Inland)
+Capital: Lariss
+Fertile plantation country under strong Verdant Cycle church influence and Dryad alliances. Vast slave-worked fields grow exotic herbs, aphrodisiacs, and luxury crops. The barony is outwardly peaceful but fiercely protective of its groves and bloodlines. Border skirmishes over river water rights and escaped slaves are frequent. Ideal source of high-value agricultural slaves and herbal reagents.
+Detailed information on Lariss can be found in Settlement_Lariss.txt.
+Bloodthorn Barony (South-East – Inland)
+Capital: Gurt
+The most volatile and lawless of the four neighbors. Ruled by House Bloodvein and riddled with bandit strongholds, Freeborn League safehouses, and independent orc/giant settlements. Rugged hills and thorny badlands make overland travel dangerous. Blackthorn Vale’s eastern border here is heavily patrolled, yet smuggling and slave raids flow both ways. Many players will first encounter serious opposition or black-market opportunities in Bloodthorn territory.
+Detailed information on Gurt can be found in Settlement_Gurt.txt.
+The Northern Ocean
+A cold, treacherous sea that serves as the ultimate northern boundary. Fog-shrouded coasts hide pirate coves and wrecked ships laden with ancient relics or forbidden cargo. Occasional naval patrols from the baronies attempt to control the coastal waters, but the ocean remains the primary route for long-distance trade — and high-risk smuggling runs that can bypass land borders entirely.
+Strategic & Narrative Implications
+Trade & Economy: Rivers and coastal roads create natural trade arteries that directly feed into the Economy & Trade System and Vehicle System.
+Slavery & Defiance: Each barony has its own flavor of slave treatment, creating reputation and faction consequences when moving slaves across borders.
+Factions & Politics: The five baronies form a web of alliances, rivalries, and proxy conflicts perfect for Factions_and_Politics and Reputation systems.
+Wilderness & Adventure: Border zones and the eastern forests provide immediate access to Wilderness_Areas content.
+Rags-to-Riches Hook: Players start with nothing in Thornhaven and can expand outward through property ownership, trade routes, and political maneuvering into any of the four neighboring baronies.
+This expanded geography gives us a compact, playable regional map while leaving room for future expansion beyond these five baronies.
+Racial Dynamics — Cosmopolitan vs. Backwards
+The region is a mixed bag:
+
+Cosmopolitan Areas (Thornhaven and major trade routes): Races mix relatively freely. Slavery is regulated and often luxurious for high-value slaves. Erotic power is openly displayed in noble courts and pleasure houses. Interracial relationships and mixed households are common, though status still matters.
+Backwards Enclaves (remote baronies and borderlands): Racial animosity is raw and often violent. Slavery is harsher, with stronger emphasis on brute force and punishment. Human supremacist attitudes are common, though some enclaves are dominated by a single race (e.g., orc warbands or dryad groves).
+
+Slavery as Economic & Social Backbone
+Slavery is legal, widespread, and economically essential. Famine-era debt contracts created multi-generational bondage that remains binding. Slaves are property — bought, sold, gifted, or trained like livestock — but high-value individuals (especially those with exceptional Body traits, pleasant Scent, or useful skills) can achieve relative comfort or even influence. Defiance management, Hygiene/Scent care, and erotic training are critical skills for any owner who wishes to maintain profitability and status.
+Erotic Power as Social Currency
+Public and private displays of dominance and submission are normalized among the elite. Lavish BDSM ceremonies, “gifting” of trained pleasure slaves, and custom erotic items are standard tools for forging alliances, sealing deals, and demonstrating status. Churches, noble houses, and guilds all participate in or profit from the erotic economy, though their attitudes differ sharply.
+Major Powers & Tensions
+
+Noble Houses: Compete through wealth, slaves, crafted luxuries, and erotic diplomacy. Scandals involving poor slave treatment or size-mismatch disasters are potent weapons.
+Guilds & Black Market: Hammer & Anvil controls legitimate crafting while rival factions and black market groups (Shadow Forge, Crimson Veil, etc.) undercut them with forgeries and forbidden goods.
+Churches: The Silken Collar sanctifies erotic ownership, the Broken Chain condemns it as sin, and the Verdant Cycle seeks natural balance. Their rivalry shapes public morality and legal precedents.
+Racial Settlements: Some races have re-founded independent communities after the war, creating zones of uneasy truce or open hostility with human baronies.
+
+Player Role & Tone
+Players typically begin as emerging landowners, ambitious crafters, or minor nobles seeking to rise through strategic ownership, erotic mastery, and careful navigation of faction politics. The tone is grimdark: power is intoxicating but fragile, pleasure is laced with risk, and every decision carries consequences for slaves, reputation, and survival.
+Key Themes
+
+Ownership as both privilege and burden
+The blurred line between pleasure and control
+Economic volatility caused by raids, defiance, and scandals
+Racial tension and uneasy coexistence
+The constant shadow of the Sundering and the famine
+
+This setting provides a rich sandbox for stories of ambition, exploitation, erotic power, and precarious empire-building.
+</Setting_Overview.txt>
