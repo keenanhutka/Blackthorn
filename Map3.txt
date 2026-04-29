@@ -1,0 +1,30 @@
+                                      THORNVALE ESTATE
+                               Western Badlands Border Stronghold
+                                      (Fully Operational)
+
+                  ┌───────────────────────────────────────────────────────────────┐
+                  │                    THORNWEAVE NURSERY GROVE                  │
+                  │   Sacred Thorn Trees │ Fertility Pools │ Nursery Cradles     │
+                  │                (Dryad Daughters Growing Here)                 │
+                  └───────────────────────────────────────────────────────────────┘
+                                      │ Living Vine Walls │
+                                      │ (Defensive Barrier) │
+          ┌─────────────────────────────────────────────────────────────────────┐
+          │                  FARM FIELDS & ORCHARDS                            │
+          │   Grain Fields   │  Thorn-Berry Orchards   │  Medicinal Herb Beds  │
+          │                (Dryad-Accelerated Crops)                            │
+          └─────────────────────────────────────────────────────────────────────┘
+                                      │
+          ┌────────────────────────── MAIN LONGHOUSE / BARRACKS ───────────────────────┐
+          │  Command Office  │  Common Hall  │  Guard Dormitories  │  Officer Quarters │
+          │  Alchemy Annex   │  Storage Vault│  Kitchen / Mess     │  Private Rooms    │
+          └─────────────────────────────────────────────────────────────────────────────┘
+                                      │
+          ┌─────────────────────── LIVESTOCK & SUPPORT BUILDINGS ─────────────────────┐
+          │  Goat Pens  │  Sheep Pens  │  Stables & Corrals  │  Training Yard       │
+          │  Tool Sheds │  Feed Storage│  Smithy / Repair    │  Watch Towers        │
+          └─────────────────────────────────────────────────────────────────────────────┘
+                                      │
+                  Main Gate & Secured Road ──► Lower Thorn (1.5 days east)
+                  │
+                  Sulfurroot Alchemy Outpost (Reagent Cave) ──► 2.5 days west
