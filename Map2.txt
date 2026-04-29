@@ -1,0 +1,72 @@
+                           ARTISAN QUARTER - LOWER THORN
+                                 (Full Immediate Surroundings - Northern Extension)
+
+          +-------------------+     +-------------------+     +-------------------+     +-------------------+     +-------------------+
+          |  Noble Residence  |     |  Temple Annex     |     |  Moneylender      |     |  Cartographer     |     |  Silk Merchant    |
+          |  (Private Homes)  |     |  (High Rites)     |     |  (Loans & Vaults) |     |  (Maps & Charts)  |     |  (Luxury Fabrics) |
+          +-------------------+     +-------------------+     +-------------------+     +-------------------+     +-------------------+
+                    |                        |                        |                        |                        |
+          ===========|========================|========================|========================|========================|===========  Northern Boulevard (Farthest North)
+                    |                        |                        |                        |                        |
+          +-------------------+     +-------------------+     +-------------------+     +-------------------+     +-------------------+
+          |  Scribe Guild     |     |  Guild Hall       |     |  Brother Aldric’s |     |  Fine Tool Maker  |     |  Engraver         |
+          |  (Documents)      |     |  (Contracts)      |     |  Supply House     |     |  (Specialty Tools)|     |  (Jewelry & Seals)|
+          +-------------------+     +-------------------+     +-------------------+     +-------------------+     +-------------------+
+                    |                        |                        |                        |                        |
+          ===========|========================|========================|========================|========================|===========  Main Artisan Street (North)
+                    |                        |                        |                        |                        |
++---------+   +---------+   +-------------------+     +-------------------+     +-------------------+     +-------------------+     +---------+
+|  Tailor |   |  Bakery |   |  YOUR PRIMARY     |     |  Garrick's        |     |  Leather Dye Shop |     |  Potter's Kiln    |   |  Glassblower |
+|  Shop   |   |         |   |  5-ROOM WORKSHOP  |     |  Leather Workshop |     |  (Dyes & Finishes)|     |  (Clay & Pots)    |   |  (Fine Glass)|
++---------+   +---------+   +-------------------+     +-------------------+     +-------------------+     +-------------------+     +---------+
+                    |                        |                        |                        |                        |
+          ===========|========================|========================|========================|========================|===========  Side Street (East-West)
+                    |                        |                        |                        |                        |
+          +-------------------+     +-------------------+     +-------------------+     +-------------------+     +-------------------+
+          |  Weaver Shop      |     |  YOUR SMALLER     |     |  Market Access    |     |  Cobbler          |     |  Spice Trader     |
+          |  (Textiles)       |     |  3-ROOM WORKSHOP  |     |  (Stalls & Crowds)|     |  (Shoes & Repairs)|     |  (Rare Spices)    |
+          |                   |     |  (Newly Acquired) |     |                   |     |                   |     |                   |
+          +-------------------+     +-------------------+     +-------------------+     +-------------------+     +-------------------+
+                                             |
+                                       Narrow Back Alley (South)
+                                             |
+          +-------------------+     +-------------------+     +-------------------+     +-------------------+
+          |  Empty Lot        |     |  Temple Outpost   |     |  Herbalist &      |     |  Small Tavern     |
+          |  (Behind Smaller  |     |  (Commissions &   |     |  Apothecary       |     |  "The Gilded Thread" |
+          |   Workshop)       |     |   Blessings)      |     |  (Herbs & Potions)|     |  (Food & Drink)   |
+          +-------------------+     +-------------------+     +-------------------+     +-------------------+
+                                             |
+                                       South Back Lane (Further South)
+                                             |
+          +-------------------+     +-------------------+     +-------------------+ 
+          |  Old Warehouse    |     |  Blacksmith       |     |  General Stables  |
+          |  (Storage)        |     |  (Metalwork)      |     |  (Horses & Carts) |
+          +-------------------+     +-------------------+     +-------------------+
+
+Legend / Key Changes:
+
+**New Northernmost Row (Farthest North - New Top Row):**  
+Noble Residence | Temple Annex | Moneylender | Cartographer | Silk Merchant
+
+**Previous North Row (now second row):**  
+Scribe Guild | Guild Hall | Brother Aldric’s Supply House | Fine Tool Maker | Engraver (newly added on the far right for balance)
+
+**Workshop Block (Main Row):**  
+Tailor Shop | Bakery | **YOUR PRIMARY 5-ROOM WORKSHOP** | Garrick's Leather Workshop | Leather Dye Shop | Potter's Kiln | Glassblower (newly added)
+
+**South Row (across Side Street):**  
+Weaver Shop | **YOUR SMALLER 3-ROOM WORKSHOP (Newly Acquired)** | Market Access | Cobbler | Spice Trader (newly added)
+
+**Temple Row:**  
+Empty Lot (behind smaller workshop) | **Temple Outpost** | Herbalist & Apothecary | Small Tavern "The Gilded Thread"
+
+**Bottom Row:**  
+Old Warehouse | Blacksmith | General Stables
+
+The map now shows a fuller northern boundary of the Artisan Quarter while keeping all your owned properties and immediate neighbors clearly visible.
+
+Game remains fully paused at **Morning of Day 256** with Brielle independently running the stall.
+
+Would you like any further adjustments (more rows, interior labels for your two workshops, renaming buildings, or a zoomed-in version of just your block)?  
+
+Just say “Resume the game” or give your next command whenever you’re ready!
